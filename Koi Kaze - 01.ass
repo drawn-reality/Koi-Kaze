@@ -12,18 +12,18 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 171
-Active Line: 198
+Scroll Position: 564
+Active Line: 580
 Last Style Storage: Koi Kaze L
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep01_10bit_Raw_v3_[8DB74980].wav
 Original Timing: nullx
 Audio File: ?video
 Script Updated By: drawn-reality gGmbH
-Automation Scripts: ~..\Aegisub-Motion\Aegisub-Motion.lua
+Automation Scripts: ~..\Aegisub-Motion\Aegisub-Motion.lua|~..\ASSGrad\assgrad.lua
 Video File: Koi_Kaze_-_Ep01_10bit_Raw_v3_[8DB74980].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 16715
+Video Position: 31401
 Video Zoom: 8
 
 [V4+ Styles]
@@ -33,20 +33,53 @@ Style: Dialogue - Italic,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H0001010
 Style: Dialogue - Alt,PTKK,34,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,8,114,114,16,0
 Style: Signs,comfortaa,30,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
 Style: TL Note,Avenir LT Std,24,&H00F0F0F0,&H00FFFFFF,&H00101010,&H00010108,-1,0,0,0,84,100,0,0,1,2,0,8,114,114,16,0
-Style: Title,Annifont,40,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,-1,0,0,84,100,0,0,1,1,0,2,36,36,30,0
+Style: Title,Artifika,42,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,0,0,0,84,100,-2,0,1,0,0,5,36,36,30,0
 Style: Preview,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,84,100,0,0,1,2,0,2,6,6,5,0
-Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,57,57,32,0
-Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,32,32,16,0
-Style: OP - Jpk,PTKK,34,&H00E2DBE0,&H00FFFFFF,&H00392E36,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,9,32,32,16,0
-Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,57,57,32,0
-Style: ED - Jpr,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,32,32,16,0
-Style: ED - Jpk,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,3,0,1,2,0,9,32,32,16,0
+Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,1,32,32,24,0
+Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,32,24,0
+Style: OP - Jpk,@Kozuka Gothic Pro B,34,&H00E8E2E6,&H00FFFFFF,&H00483235,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,47,32,10,0
+Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,3,57,50,32,0
+Style: ED - Jpr,PTKK,34,&H00E4E3FC,&H00FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,9,32,72,16,0
+Style: ED - Jpk,@Kozuka Gothic Pro B,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,668,32,50,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:43.54,0:01:49.42,Title,,0,0,0,,{\3a&H5F&\fad(671,2355)\bord2\t(3525,5660,\bord10\be20)\pos(268.843,316)\3c&HBB91F6&}First Flower
+Comment: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)\pos(271.644,296)\frz25\p1}m 0 0 l 230 0 230 120  0 120
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HEEEDF0&\clip(m 158 282 l 334 200 338 207 161 289)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HECEAF0&\clip(m 159 286 l 336 203 339 210 163 293)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HEAE7F0&\clip(m 161 289 l 338 207 341 214 164 296)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE9E3F0&\clip(m 163 293 l 339 210 343 218 166 300)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE7E0F0&\clip(m 164 296 l 341 214 344 221 168 304)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE5DDEF&\clip(m 166 300 l 343 218 346 225 169 307)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE3DAEF&\clip(m 168 304 l 344 221 348 229 171 311)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE1D7EF&\clip(m 169 307 l 346 225 349 232 173 315)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDFD4EF&\clip(m 171 311 l 348 229 351 236 174 318)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDED0EF&\clip(m 173 315 l 349 232 353 239 176 322)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDCCDEF&\clip(m 174 318 l 351 236 354 243 178 325)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDACAEF&\clip(m 176 322 l 353 239 356 247 180 329)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD8C7EF&\clip(m 178 325 l 354 243 358 250 181 333)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD6C4EF&\clip(m 180 329 l 356 247 360 254 183 336)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD4C1EF&\clip(m 181 333 l 358 250 361 258 185 340)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD3BDEE&\clip(m 183 336 l 360 254 363 261 186 344)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD1BAEE&\clip(m 185 340 l 361 258 365 265 188 347)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCFB7EE&\clip(m 186 344 l 363 261 366 268 190 351)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCDB4EE&\clip(m 188 347 l 365 265 368 272 191 354)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCBB1EE&\clip(m 190 351 l 366 268 370 276 193 358)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC9AEEE&\clip(m 191 354 l 368 272 371 279 195 362)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC8AAEE&\clip(m 193 358 l 370 276 373 283 196 365)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC6A7EE&\clip(m 195 362 l 371 279 375 287 198 369)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC4A4EE&\clip(m 196 365 l 373 283 376 290 200 373)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC2A1EE&\clip(m 198 369 l 375 287 378 294 202 376)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC09EED&\clip(m 200 373 l 376 290 380 297 203 380)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBE9BED&\clip(m 202 376 l 378 294 382 301 205 383)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBD97ED&\clip(m 203 380 l 380 297 383 305 207 387)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBB94ED&\clip(m 205 383 l 382 301 385 308 208 391)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HB991ED&\clip(m 207 387 l 383 305 387 312 210 394)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Comment: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\bord0\t(3525,5660,\blur10)\fad(671,550)\pos(271.644,296)\3c&HBB91F6&}First Flower
+Comment: 0,0:01:43.54,0:01:49.42,Title,,0,0,0,,{\bord0\t(3525,5660,\blur10)\fad(671,550)\pos(271.644,296)}First Flower
 Comment: 0,0:02:05.02,0:02:05.85,Signs,,0,0,0,,小川?科
 Comment: 0,0:02:09.98,0:02:13.48,Signs,,0,0,0,,{\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\fsp0.3\pos(437.895,30)}Please keep the
+Comment: 0,0:02:09.98,0:02:13.48,Signs,,0,0,0,,{\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\pos(438.507,46.581)}restrooms clean
 Dialogue: 0,0:02:09.98,0:02:10.02,Signs,,0,0,0,,{\pos(411.10,63.76)\fscx78\t(-3,96,\fscx79)\fscy92\t(-89,10,\fscy93)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\fsp0.3\clip(m 341 49 l 451 48 448 57 441 58 443 63 435 73 435 84 436 91 340 94)}Please keep the
 Dialogue: 0,0:02:09.98,0:02:10.02,Signs,,0,0,0,,{\pos(411.66,79.17)\fscx78\t(-3,96,\fscx79)\fscy92\t(-89,10,\fscy93)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\clip(m 341 49 l 451 48 448 57 441 58 443 63 436 73 437 75 436 90 340 94)}restrooms clean
 Dialogue: 0,0:02:10.02,0:02:10.06,Signs,,0,0,0,,{\clip(m 341 49 l 451 48 448 57 441 58 443 63 436 73 436 84 436 91 340 94)\pos(411.40,63.39)\fscx78\t(-10,89,\fscx79)\fscy92\t(-98,1,\fscy93)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\fsp0.3}Please keep the
@@ -215,7 +248,6 @@ Dialogue: 0,0:02:13.40,0:02:13.44,Signs,,0,0,0,,{\pos(437.24,30.86)\fscx83\t(-81
 Dialogue: 0,0:02:13.40,0:02:13.44,Signs,,0,0,0,,{\pos(437.85,47.41)\fscx83\t(-81,18,\fscx84)\fscy99\t(-76,23,\fscy100)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&}restrooms clean
 Dialogue: 0,0:02:13.44,0:02:13.48,Signs,,0,0,0,,{\pos(437.89,30.00)\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\fsp0.3}Please keep the
 Dialogue: 0,0:02:13.44,0:02:13.48,Signs,,0,0,0,,{\pos(438.51,46.58)\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&}restrooms clean
-Comment: 0,0:02:09.98,0:02:13.48,Signs,,0,0,0,,{\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\pos(438.507,46.581)}restrooms clean
 Dialogue: 0,0:05:24.01,0:05:27.51,Signs,,0,0,0,,{\frz-10\fax0.28\fs20\fscx60\fsp1\fscy150\fry9\pos(301.929,104.885)\c&H5D5D5D&\clip(m 230 105 l 380 134 377 101 249 79 254 98 b 230 92 227 89 220 82)}Machida Marriage Consulting
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\fs18\frz-7\fax0.17\b1\c&H4F565A&\pos(349.613,159.2)}Reference Room{資料室}
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\c&H4F565A&\frz-3\fax0.07\fs20\pos(350.959,266.8)}The toilet is

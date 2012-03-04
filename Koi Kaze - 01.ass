@@ -12,8 +12,8 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 564
-Active Line: 580
+Scroll Position: 436
+Active Line: 440
 Last Style Storage: Koi Kaze L
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep01_10bit_Raw_v3_[8DB74980].wav
 Original Timing: nullx
@@ -23,7 +23,8 @@ Automation Scripts: ~..\Aegisub-Motion\Aegisub-Motion.lua|~..\ASSGrad\assgrad.lu
 Video File: Koi_Kaze_-_Ep01_10bit_Raw_v3_[8DB74980].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 31401
+Video Position: 24749
+Keyframes File: Scenechange_Keyframes\XVID_Keyframes_Koi_Kaze_-_Ep01_10bit_Raw_v3.txt
 Video Zoom: 8
 
 [V4+ Styles]
@@ -35,12 +36,12 @@ Style: Signs,comfortaa,30,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,8
 Style: TL Note,Avenir LT Std,24,&H00F0F0F0,&H00FFFFFF,&H00101010,&H00010108,-1,0,0,0,84,100,0,0,1,2,0,8,114,114,16,0
 Style: Title,Artifika,42,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,0,0,0,84,100,-2,0,1,0,0,5,36,36,30,0
 Style: Preview,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,84,100,0,0,1,2,0,2,6,6,5,0
-Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,1,32,32,24,0
+Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,1,52,32,24,0
 Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,32,24,0
-Style: OP - Jpk,@Kozuka Gothic Pro B,34,&H00E8E2E6,&H00FFFFFF,&H00483235,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,47,32,10,0
-Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,3,57,50,32,0
-Style: ED - Jpr,PTKK,34,&H00E4E3FC,&H00FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,9,32,72,16,0
-Style: ED - Jpk,@Kozuka Gothic Pro B,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,668,32,50,0
+Style: OP - Jpk,@Kozuka Gothic Pro B,34,&H00E8E2E6,&H00FFFFFF,&H00483235,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,68,32,68,0
+Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00131826,&H00010108,0,0,0,0,84,100,0,0,1,2,0,1,52,50,32,0
+Style: ED - Jpr,PTKK,34,&H00E4E3FC,&H32FFFFFF,&H0053353E,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,72,24,0
+Style: ED - Jpk,@Kozuka Gothic Pro B,34,&H00E4F7FF,&HC0FFFFFF,&H00453843,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,68,32,68,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -248,7 +249,9 @@ Dialogue: 0,0:02:13.40,0:02:13.44,Signs,,0,0,0,,{\pos(437.24,30.86)\fscx83\t(-81
 Dialogue: 0,0:02:13.40,0:02:13.44,Signs,,0,0,0,,{\pos(437.85,47.41)\fscx83\t(-81,18,\fscx84)\fscy99\t(-76,23,\fscy100)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&}restrooms clean
 Dialogue: 0,0:02:13.44,0:02:13.48,Signs,,0,0,0,,{\pos(437.89,30.00)\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&\fsp0.3}Please keep the
 Dialogue: 0,0:02:13.44,0:02:13.48,Signs,,0,0,0,,{\pos(438.51,46.58)\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\b0\fs24\frz2\c&H4E4D4A&\3c&HB8BAB6&}restrooms clean
-Dialogue: 0,0:05:24.01,0:05:27.51,Signs,,0,0,0,,{\frz-10\fax0.28\fs20\fscx60\fsp1\fscy150\fry9\pos(301.929,104.885)\c&H5D5D5D&\clip(m 230 105 l 380 134 377 101 249 79 254 98 b 230 92 227 89 220 82)}Machida Marriage Consulting
+Comment: 0,0:02:51.23,0:02:54.23,Signs,,0,0,0,,切意
+Dialogue: 0,0:04:05.22,0:04:05.34,Signs,,0,0,0,,
+Dialogue: 0,0:05:24.01,0:05:27.51,Signs,,0,0,0,,{\frz-10\fax0.28\fs20\fscx60\fsp1\fscy150\fry9\pos(301.929,104.885)\c&H5D5D5D&\clip(m 230 105 l 380 134 377 101 249 79 254 98 b 230 92 227 89 220 82)\fnDICKS VIII}Machida Marriage Consulting
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\fs18\frz-7\fax0.17\b1\c&H4F565A&\pos(349.613,159.2)}Reference Room{資料室}
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\c&H4F565A&\frz-3\fax0.07\fs20\pos(350.959,266.8)}The toilet is
 Dialogue: 0,0:06:15.06,0:06:18.06,Signs,,0,0,0,,{\c&H4F565A&\frz-3\fax0.07\fs20\pos(350.959,280.8)}in the front.{おトイレは入口を出て正面です}
@@ -306,96 +309,96 @@ Dialogue: 1,0:12:07.28,0:12:08.95,Signs,,0,0,0,,{\fs24\bord1\c&H60639F&\3c&HA5A5
 Dialogue: 1,0:12:08.95,0:12:09.04,Signs,,0,0,0,,{\fs24\bord1\c&H60639F&\3c&HA5A5A5&\move(277,360,277,15,-10315,2030)\clip(m 462 79 l 229 79 218 71 217 28 462 27)}Amusement Park
 Dialogue: 1,0:12:09.04,0:12:09.12,Signs,,0,0,0,,{\fs24\bord1\c&H60639F&\3c&HA5A5A5&\move(277,360,277,15,-10405,1940)\clip(m 462 98 l 218 90 218 64 226 74 457 73)}Amusement Park
 Dialogue: 1,0:12:09.12,0:12:11.00,Signs,,0,0,0,,{\fs24\bord1\c&H60639F&\3c&HA5A5A5&\move(277,360,277,15,-10485,1860)\clip(m 462 98 l 218 91 217 29 458 29)}Amusement Park
-Dialogue: 0,0:01:55.05,0:02:00.01,Dialogue - Italic,,0,0,0,,It's been a while since I've stopped caring about the changing of the seasons.{I ceased to care}
+Dialogue: 0,0:01:55.05,0:02:00.01,Dialogue - Italic,,0,0,0,,It’s been a while since I’ve stopped caring about the changing of the seasons.{I ceased to care}
 Dialogue: 0,0:02:09.98,0:02:11.42,Dialogue - Alt,,0,0,0,,Shirasugi...
 Dialogue: 0,0:02:11.42,0:02:13.48,Dialogue - Alt,,0,0,0,,Shirasugi...
 Dialogue: 0,0:02:13.48,0:02:15.87,Dialogue - Alt,,0,0,0,,Last stop, Wakase...
 Dialogue: 0,0:02:15.87,0:02:21.03,Dialogue - Alt,,0,0,0,,Please wait for the express train, it will come after...
-Dialogue: 0,0:02:26.67,0:02:32.26,Dialogue - Italic,,0,0,0,,How much meaning is there to the fact that it is spring right now?
-Dialogue: 0,0:02:57.85,0:03:01.74,Dialogue - Italic,,0,0,0,,There's someone else I've fallen in love with.
+Dialogue: 0,0:02:26.67,0:02:32.26,Dialogue - Italic,,0,0,0,,How much meaning is there to the fact that it is spring right now?{What significance does the fact that it’s now spring hold?}
+Dialogue: 0,0:02:57.85,0:03:01.74,Dialogue - Italic,,0,0,0,,There’s someone else I’ve fallen in love with.
 Dialogue: 0,0:03:01.74,0:03:06.26,Dialogue - Italic,,0,0,0,,Oh... Really?
 Dialogue: 0,0:03:41.87,0:03:44.10,Dialogue - Alt,,0,0,0,,Tsubana. Tsubana.
 Dialogue: 0,0:03:44.10,0:03:48.99,Dialogue - Alt,,0,0,0,,Please wait until the train comes to a complete stop.
-Dialogue: 0,0:03:55.55,0:03:57.61,Dialogue,,0,0,0,,Excuse me, I'm getting off.
+Dialogue: 0,0:03:55.55,0:03:57.61,Dialogue,,0,0,0,,Excuse me, I’m getting off.
 Dialogue: 0,0:04:08.71,0:04:11.00,Dialogue,,0,0,0,,Hey... Excuse me.
 Dialogue: 0,0:04:12.27,0:04:14.18,Dialogue,,0,0,0,,Hey, you there!
 Dialogue: 0,0:04:20.35,0:04:21.46,Dialogue,,0,0,0,,Hey, student!
 Dialogue: 0,0:04:54.35,0:04:55.26,Dialogue,,0,0,0,,Umm?
 Dialogue: 0,0:04:57.55,0:04:59.69,Dialogue,,0,0,0,,Oh... here...
-Dialogue: 0,0:05:00.59,0:05:03.80,Dialogue,,0,0,0,,Oh no... I'm so out of it.
+Dialogue: 0,0:05:00.59,0:05:03.80,Dialogue,,0,0,0,,Oh no... I’m so out of it.
 Dialogue: 0,0:05:04.74,0:05:06.49,Dialogue,,0,0,0,,Thank you very much.
-Dialogue: 0,0:05:07.45,0:05:08.90,Dialogue,,0,0,0,,You're welcome.
-Dialogue: 0,0:05:24.01,0:05:27.52,Dialogue,,0,0,0,,That's all I have about the next arranged marriage party.
-Dialogue: 0,0:05:27.52,0:05:30.72,Dialogue,,0,0,0,,If you don't have any particular questions, then I would like to end the meeting.
+Dialogue: 0,0:05:07.45,0:05:08.90,Dialogue,,0,0,0,,You’re welcome.
+Dialogue: 0,0:05:24.01,0:05:27.52,Dialogue,,0,0,0,,That’s all I have about the next arranged marriage party.
+Dialogue: 0,0:05:27.52,0:05:30.72,Dialogue,,0,0,0,,If you don’t have any particular questions, then I would like to end the meeting.
 Dialogue: 0,0:05:30.72,0:05:31.32,Dialogue,,0,0,0,,Yes!
 Dialogue: 0,0:05:31.32,0:05:31.97,Dialogue,,0,0,0,,Odagiri.
-Dialogue: 0,0:05:33.67,0:05:38.73,Dialogue,,0,0,0,,This party is restricted to members in their late 20's to early 30's.
+Dialogue: 0,0:05:33.67,0:05:38.73,Dialogue,,0,0,0,,This party is restricted to members in their late 20’s to early 30’s.
 Dialogue: 0,0:05:38.73,0:05:41.12,Dialogue,,0,0,0,,However, someday I hope to bring down the membership age to include teens,
 Dialogue: 0,0:05:41.12,0:05:43.48,Dialogue,,0,0,0,,and have a party restricted to women in their teens...
-Dialogue: 0,0:05:43.48,0:05:44.72,Dialogue,,0,0,0,,That's all!
+Dialogue: 0,0:05:43.48,0:05:44.72,Dialogue,,0,0,0,,That’s all!
 Dialogue: 0,0:05:44.72,0:05:45.85,Dialogue,,0,0,0,,Good work guys.
-Dialogue: 0,0:05:47.39,0:05:48.75,Dialogue,,0,0,0,,Let's go eat!
+Dialogue: 0,0:05:47.39,0:05:48.75,Dialogue,,0,0,0,,Let’s go eat!
 Dialogue: 0,0:05:48.75,0:05:50.53,Dialogue,,0,0,0,,Where do you want to go?
-Dialogue: 0,0:05:50.53,0:05:53.16,Dialogue,,0,0,0,,Didn't a new restaurant open up in Kanami?
+Dialogue: 0,0:05:50.53,0:05:53.16,Dialogue,,0,0,0,,Didn’t a new restaurant open up in Kanami?
 Dialogue: 0,0:05:52.84,0:05:54.20,Dialogue,,0,0,0,,Really?
 Dialogue: 0,0:06:03.07,0:06:04.02,Dialogue,,0,0,0,,Koshiro.
 Dialogue: 0,0:06:04.02,0:06:04.80,Dialogue,,0,0,0,,Huh?
-Dialogue: 0,0:06:06.05,0:06:08.88,Dialogue,,0,0,0,,You're sorting the membership data files in the back today.
+Dialogue: 0,0:06:06.05,0:06:08.88,Dialogue,,0,0,0,,You’re sorting the membership data files in the back today.
 Dialogue: 0,0:06:08.88,0:06:09.55,Dialogue,,0,0,0,,Why?
 Dialogue: 0,0:06:09.79,0:06:12.50,Dialogue,,0,0,0,,That face... that smell!
-Dialogue: 0,0:06:12.50,0:06:14.19,Dialogue,,0,0,0,,I can't show that to customers.
+Dialogue: 0,0:06:12.50,0:06:14.19,Dialogue,,0,0,0,,I can’t show that to customers.
 Dialogue: 0,0:06:17.31,0:06:20.69,Dialogue,,0,0,0,,There should definitely be a demand.
 Dialogue: 0,0:06:20.96,0:06:22.44,Dialogue,,0,0,0,,You think so?
 Dialogue: 0,0:06:22.44,0:06:27.91,Dialogue,,0,0,0,,From experience, men my age can only meet teenage girls in an unlawful way.
-Dialogue: 0,0:06:27.91,0:06:30.05,Dialogue,,0,0,0,,So, it's "your" demand.
-Dialogue: 0,0:06:30.05,0:06:34.98,Dialogue,,0,0,0,,Aren't there any opportunities to meet a female high school student?
+Dialogue: 0,0:06:27.91,0:06:30.05,Dialogue,,0,0,0,,So, it’s {\i1}your{\i0} demand.
+Dialogue: 0,0:06:30.05,0:06:34.98,Dialogue,,0,0,0,,Aren’t there any opportunities to meet a female high school student?
 Dialogue: 0,0:06:35.35,0:06:37.66,Dialogue,,0,0,0,,You just keep working.
-Dialogue: 0,0:07:13.55,0:07:15.66,Dialogue,,0,0,0,,I'm ho...me...{Or just use "tadaima" if you feel like being extra weeaboo, most people know it by now.}
-Dialogue: 0,0:07:25.69,0:07:27.71,Dialogue,,0,0,0,,I wasn't told about this!
-Dialogue: 0,0:07:28.63,0:07:31.80,Dialogue,,0,0,0,,Anyway, you're going to be living with Nanoka starting tomorrow night.
+Dialogue: 0,0:07:13.55,0:07:15.66,Dialogue,,0,0,0,,I’m ho...me...{Or just use "tadaima" if you feel like being extra weeaboo, most people know it by now.}
+Dialogue: 0,0:07:25.69,0:07:27.71,Dialogue,,0,0,0,,I wasn’t told about this!
+Dialogue: 0,0:07:28.63,0:07:31.80,Dialogue,,0,0,0,,Anyway, you’re going to be living with Nanoka starting tomorrow night.
 Dialogue: 0,0:07:31.80,0:07:32.96,Dialogue,,0,0,0,,Be prepared!
 Dialogue: 0,0:07:32.96,0:07:35.06,Dialogue,,0,0,0,,So suddenly...
 Dialogue: 0,0:07:36.33,0:07:38.45,Dialogue,,0,0,0,,I wanted to show you Nanoka.
-Dialogue: 0,0:07:38.45,0:07:39.84,Dialogue,,0,0,0,,You don't remember her, do you?
-Dialogue: 0,0:07:39.84,0:07:44.68,Dialogue,,0,0,0,,Yes I do... I do, but I don't remember her face.
-Dialogue: 0,0:07:44.68,0:07:46.28,Dialogue,,0,0,0,,She's a freshman in high school now.
-Dialogue: 0,0:07:46.28,0:07:49.36,Dialogue,,0,0,0,,She's 15 years old. She is so cute!
+Dialogue: 0,0:07:38.45,0:07:39.84,Dialogue,,0,0,0,,You don’t remember her, do you?
+Dialogue: 0,0:07:39.84,0:07:44.68,Dialogue,,0,0,0,,Yes I do... I do, but I don’t remember her face.
+Dialogue: 0,0:07:44.68,0:07:46.28,Dialogue,,0,0,0,,She’s a freshman in high school now.
+Dialogue: 0,0:07:46.28,0:07:49.36,Dialogue,,0,0,0,,She’s 15 years old. She is so cute!
 Dialogue: 0,0:07:49.75,0:07:52.86,Dialogue,,0,0,0,,Everyone commutes from far away nowadays.
 Dialogue: 0,0:07:53.28,0:07:56.08,Dialogue,,0,0,0,,She can cut her commute time from two hours to one!
-Dialogue: 0,0:07:56.08,0:07:58.29,Dialogue,,0,0,0,,Isn't it natural that we let her stay here?
+Dialogue: 0,0:07:56.08,0:07:58.29,Dialogue,,0,0,0,,Isn’t it natural that we let her stay here?
 Dialogue: 0,0:07:59.51,0:08:01.68,Dialogue,,0,0,0,,Just because you got dumped by your lover,
-Dialogue: 0,0:08:01.68,0:08:04.54,Dialogue,,0,0,0,,you don't intend on getting back together with mom, do you?
-Dialogue: 0,0:08:06.67,0:08:08.09,Dialogue,,0,0,0,,That's not how it is!
-Dialogue: 0,0:08:08.50,0:08:09.34,Dialogue,,0,0,0,,It's not?
+Dialogue: 0,0:08:01.68,0:08:04.54,Dialogue,,0,0,0,,you don’t intend on getting back together with mom, do you?
+Dialogue: 0,0:08:06.67,0:08:08.09,Dialogue,,0,0,0,,That’s not how it is!
+Dialogue: 0,0:08:08.50,0:08:09.34,Dialogue,,0,0,0,,It’s not?
 Dialogue: 0,0:08:09.08,0:08:09.88,Dialogue,,0,0,0,,No!
-Dialogue: 0,0:08:09.88,0:08:10.86,Dialogue,,0,0,0,,She's my daughter!
-Dialogue: 0,0:08:10.86,0:08:11.26,Dialogue,,0,0,0,,She's a family member!{Or just "She's family!"}
+Dialogue: 0,0:08:09.88,0:08:10.86,Dialogue,,0,0,0,,She’s my daughter!
+Dialogue: 0,0:08:10.86,0:08:11.26,Dialogue,,0,0,0,,She’s a family member!{Or just "She’s family!"}
 Dialogue: 0,0:08:11.58,0:08:13.76,Dialogue,,0,0,0,,Your younger sister!
 Dialogue: 0,0:08:18.97,0:08:21.42,Dialogue - Italic,,0,0,0,,With my carefree life living with Dad,
 Dialogue: 0,0:08:21.79,0:08:24.12,Dialogue - Italic,,0,0,0,,Sometimes I forget about it.
-Dialogue: 0,0:08:28.37,0:08:33.86,Dialogue - Italic,,0,0,0,,I have a mother and a sister who's 12 years younger.
+Dialogue: 0,0:08:28.37,0:08:33.86,Dialogue - Italic,,0,0,0,,I have a mother and a sister who’s 12 years younger.
 Dialogue: 0,0:08:38.47,0:08:40.99,Dialogue,,0,0,0,,Please introduce her to me!
 Dialogue: 0,0:08:44.53,0:08:47.20,Dialogue,,0,0,0,,What the hell are you thinking?{What the hell are you thinking?}
 Dialogue: 0,0:08:47.20,0:08:52.36,Dialogue,,0,0,0,,Why were you hiding something so important from me?!
-Dialogue: 0,0:08:52.36,0:08:54.42,Dialogue,,0,0,0,,I wasn't really hiding it.
-Dialogue: 0,0:08:54.42,0:08:56.26,Dialogue,,0,0,0,,It's basically like I don't know about it.
+Dialogue: 0,0:08:52.36,0:08:54.42,Dialogue,,0,0,0,,I wasn’t really hiding it.
+Dialogue: 0,0:08:54.42,0:08:56.26,Dialogue,,0,0,0,,It’s basically like I don’t know about it.
 Dialogue: 0,0:08:57.23,0:08:58.96,Dialogue,,0,0,0,,My parents got divorced.
 Dialogue: 0,0:08:58.96,0:09:01.98,Dialogue,,0,0,0,,I met my mom, who took custody of her, a couple times.
-Dialogue: 0,0:09:01.98,0:09:04.02,Dialogue,,0,0,0,,But I haven't seen my sister at all.
+Dialogue: 0,0:09:01.98,0:09:04.02,Dialogue,,0,0,0,,But I haven’t seen my sister at all.
 Dialogue: 0,0:09:06.07,0:09:07.77,Dialogue,,0,0,0,,Customer!
 Dialogue: 0,0:09:14.67,0:09:17.49,Dialogue,,0,0,0,,Sorry to keep you waiting.
 Dialogue: 0,0:09:26.59,0:09:27.50,Dialogue,,0,0,0,,And...
 Dialogue: 0,0:09:29.89,0:09:32.46,Dialogue,,0,0,0,,What kind of partner are you interested in?
-Dialogue: 0,0:09:32.87,0:09:34.44,Dialogue,,0,0,0,,Don't get mad.
-Dialogue: 0,0:09:34.44,0:09:37.81,Dialogue,,0,0,0,,I'm sorry I came while you're working.
-Dialogue: 0,0:09:38.67,0:09:40.45,Dialogue,,0,0,0,,It's all right.
-Dialogue: 0,0:09:40.45,0:09:42.22,Dialogue,,0,0,0,,It's my lunch break anyway.
+Dialogue: 0,0:09:32.87,0:09:34.44,Dialogue,,0,0,0,,Don’t get mad.
+Dialogue: 0,0:09:34.44,0:09:37.81,Dialogue,,0,0,0,,I’m sorry I came while you’re working.
+Dialogue: 0,0:09:38.67,0:09:40.45,Dialogue,,0,0,0,,It’s all right.
+Dialogue: 0,0:09:40.45,0:09:42.22,Dialogue,,0,0,0,,It’s my lunch break anyway.
 Dialogue: 0,0:09:42.71,0:09:45.85,Dialogue,,0,0,0,,I came to get the keys to my place{room} back.{More like place, "Heya" is often used to refer to apartments/etc as well as individual rooms}
 Dialogue: 0,0:09:46.91,0:09:51.34,Dialogue,,0,0,0,,I thought it might be better during the day.
 Dialogue: 0,0:09:54.01,0:09:55.76,Dialogue,,0,0,0,,Wait a minute.
 Dialogue: 0,0:10:06.53,0:10:07.68,Dialogue,,0,0,0,,Bye.
 Dialogue: 0,0:10:07.68,0:10:08.66,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:10:13.84,0:10:16.24,Dialogue,,0,0,0,,You're really letting me go easy.
+Dialogue: 0,0:10:13.84,0:10:16.24,Dialogue,,0,0,0,,You’re really letting me go easy.
 Dialogue: 0,0:10:20.67,0:10:22.02,Dialogue,,0,0,0,,Sorry...
 Dialogue: 0,0:10:22.02,0:10:23.04,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:10:23.71,0:10:26.19,Dialogue,,0,0,0,,You just accepted things so easily.
@@ -404,40 +407,40 @@ Dialogue: 0,0:10:28.54,0:10:32.70,Dialogue,,0,0,0,,Oh, this is all I meant to yo
 Dialogue: 0,0:10:36.57,0:10:42.48,Dialogue,,0,0,0,,Koshiro, have you ever loved anyone from the bottom of your heart?
 Dialogue: 0,0:11:00.93,0:11:06.69,Dialogue,,0,0,0,,Koshiro, have you ever loved anyone from the bottom of your heart?
 Dialogue: 0,0:11:12.29,0:11:15.54,Dialogue - Italic,,0,0,0,,Then what should I have done?
-Dialogue: 0,0:11:17.19,0:11:20.76,Dialogue,,0,0,0,,During the party, we're planning to have three events,
+Dialogue: 0,0:11:17.19,0:11:20.76,Dialogue,,0,0,0,,During the party, we’re planning to have three events,
 Dialogue: 0,0:11:20.76,0:11:24.53,Dialogue,,0,0,0,,so if we could divide the food and have it brought out to match the timing...
 Dialogue: 0,0:11:25.09,0:11:27.91,Dialogue,,0,0,0,,Next, concerning the audio equipment...
 Dialogue: 0,0:11:28.77,0:11:31.14,Dialogue,,0,0,0,,Thank you for your business.
 Dialogue: 0,0:11:31.14,0:11:32.37,Dialogue,,0,0,0,,Thank you.
 Dialogue: 0,0:11:33.41,0:11:35.08,Dialogue,,0,0,0,,Oh right.
 Dialogue: 0,0:11:36.33,0:11:39.63,Dialogue,,0,0,0,,Here. There are for the place next door.
-Dialogue: 0,0:11:39.63,0:11:42.84,Dialogue,,0,0,0,,Oh, thank you very much.  Don't mind if I do.
+Dialogue: 0,0:11:39.63,0:11:42.84,Dialogue,,0,0,0,,Oh, thank you very much.  Don’t mind if I do.
 Dialogue: 0,0:11:45.47,0:11:50.38,Dialogue - Italic,,0,0,0,,What do I say to a woman that says she has another man...?
 Dialogue: 0,0:11:50.89,0:11:53.33,Dialogue - Italic,,0,0,0,,What should I have done?
 Dialogue: 0,0:11:55.85,0:11:57.77,Dialogue,,0,0,0,,What a great view.
-Dialogue: 0,0:11:57.77,0:12:00.31,Dialogue,,0,0,0,,It's a place that kind of hurts for a bachelor.
+Dialogue: 0,0:11:57.77,0:12:00.31,Dialogue,,0,0,0,,It’s a place that kind of hurts for a bachelor.
 Dialogue: 0,0:12:01.47,0:12:03.10,Dialogue,,0,0,0,,So you broke up?
 Dialogue: 0,0:12:03.45,0:12:04.51,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:12:05.43,0:12:07.82,Dialogue,,0,0,0,,You're so cool about it...
-Dialogue: 0,0:12:07.82,0:12:10.39,Dialogue,,0,0,0,,That's what she dislikes about me.
-Dialogue: 0,0:12:19.63,0:12:21.62,Dialogue,,0,0,0,,Here, I'll give these to you.
-Dialogue: 0,0:12:23.93,0:12:25.12,Dialogue,,0,0,0,,I don't need them.
-Dialogue: 0,0:12:26.09,0:12:28.75,Dialogue,,0,0,0,,Why don't you try inviting that girl you broke up with?
+Dialogue: 0,0:12:05.43,0:12:07.82,Dialogue,,0,0,0,,You’re so cool about it...
+Dialogue: 0,0:12:07.82,0:12:10.39,Dialogue,,0,0,0,,That’s what she dislikes about me.
+Dialogue: 0,0:12:19.63,0:12:21.62,Dialogue,,0,0,0,,Here, I’ll give these to you.
+Dialogue: 0,0:12:23.93,0:12:25.12,Dialogue,,0,0,0,,I don’t need them.
+Dialogue: 0,0:12:26.09,0:12:28.75,Dialogue,,0,0,0,,Why don’t you try inviting that girl you broke up with?
 Dialogue: 0,0:12:28.75,0:12:30.56,Dialogue,,0,0,0,,Maybe you guys will get back together?
-Dialogue: 0,0:12:30.56,0:12:33.56,Dialogue,,0,0,0,,Who the hell's going to get back together with...
+Dialogue: 0,0:12:30.56,0:12:33.56,Dialogue,,0,0,0,,Who the hell’s going to get back together with...
 Dialogue: 0,0:12:48.28,0:12:51.30,Dialogue,,0,0,0,,Ah! Hello.
 Dialogue: 0,0:12:55.25,0:12:56.62,Dialogue,,0,0,0,,Ummm...
 Dialogue: 0,0:12:56.62,0:12:58.13,Dialogue,,0,0,0,,Do you remember me?
 Dialogue: 0,0:12:58.73,0:13:00.00,Dialogue,,0,0,0,,Yesterday morning.
 Dialogue: 0,0:13:01.87,0:13:04.11,Dialogue,,0,0,0,,Yeah, I remember!
 Dialogue: 0,0:13:04.11,0:13:05.18,Dialogue,,0,0,0,,I remember you.
-Dialogue: 0,0:13:05.18,0:13:06.80,Dialogue,,0,0,0,,Ah, I'm glad. {Or maybe "Thank goodness"}
+Dialogue: 0,0:13:05.18,0:13:06.80,Dialogue,,0,0,0,,Ah, I’m glad. {Or maybe "Thank goodness"}
 Dialogue: 0,0:13:06.80,0:13:08.50,Dialogue,,0,0,0,,Such a naughty boy!
 Dialogue: 0,0:13:08.50,0:13:10.83,Dialogue,,0,0,0,,Asking out high school girls?
-Dialogue: 0,0:13:10.83,0:13:12.33,Dialogue,,0,0,0,,That's not what this is!
+Dialogue: 0,0:13:10.83,0:13:12.33,Dialogue,,0,0,0,,That’s not what this is!
 Dialogue: 0,0:13:12.33,0:13:14.22,Dialogue,,0,0,0,,Thank you for yesterday.
-Dialogue: 0,0:13:14.75,0:13:16.56,Dialogue,,0,0,0,,I'm sorry I'm interrupting your date.
-Dialogue: 0,0:13:16.56,0:13:17.90,Dialogue,,0,0,0,,That's wrong too!
+Dialogue: 0,0:13:14.75,0:13:16.56,Dialogue,,0,0,0,,I’m sorry I’m interrupting your date.
+Dialogue: 0,0:13:16.56,0:13:17.90,Dialogue,,0,0,0,,That’s wrong too!
 Dialogue: 0,0:13:19.13,0:13:20.15,Dialogue,,0,0,0,,Hey!
 Dialogue: 0,0:13:20.41,0:13:21.43,Dialogue,,0,0,0,,Eh?
 Dialogue: 0,0:13:23.93,0:13:25.03,Dialogue,,0,0,0,,Umm...
@@ -457,45 +460,45 @@ Dialogue: 0,0:14:41.69,0:14:43.08,Dialogue,,0,0,0,,Are you all right?
 Dialogue: 0,0:14:51.45,0:14:54.12,Dialogue,,0,0,0,,What the hell am I doing?
 Dialogue: 0,0:15:10.05,0:15:11.12,Dialogue,,0,0,0,,Here.
 Dialogue: 0,0:15:11.83,0:15:14.28,Dialogue,,0,0,0,,Wow! Thank you very much.
-Dialogue: 0,0:15:20.67,0:15:22.50,Dialogue,,0,0,0,,I'm sorry.
+Dialogue: 0,0:15:20.67,0:15:22.50,Dialogue,,0,0,0,,I’m sorry.
 Dialogue: 0,0:15:24.29,0:15:26.32,Dialogue,,0,0,0,,It must be boring with me.
-Dialogue: 0,0:15:27.17,0:15:28.54,Dialogue,,0,0,0,,That's not true.
-Dialogue: 0,0:15:31.17,0:15:33.24,Dialogue,,0,0,0,,Don't you have a boyfriend?
+Dialogue: 0,0:15:27.17,0:15:28.54,Dialogue,,0,0,0,,That’s not true.
+Dialogue: 0,0:15:31.17,0:15:33.24,Dialogue,,0,0,0,,Don’t you have a boyfriend?
 Dialogue: 0,0:15:33.97,0:15:37.23,Dialogue,,0,0,0,,I just broke up with him.
-Dialogue: 0,0:15:48.25,0:15:50.83,Dialogue,,0,0,0,,Wow! It's so beautiful!
+Dialogue: 0,0:15:48.25,0:15:50.83,Dialogue,,0,0,0,,Wow! It’s so beautiful!
 Dialogue: 0,0:16:02.45,0:16:03.41,Dialogue,,0,0,0,,This...
 Dialogue: 0,0:16:07.52,0:16:10.51,Dialogue,,0,0,0,,I received it during my junior high graduation
 Dialogue: 0,0:16:11.33,0:16:12.86,Dialogue,,0,0,0,,from the person I liked.
-Dialogue: 0,0:16:13.85,0:16:16.87,Dialogue,,0,0,0,,But it wasn't his second button.
-Dialogue: 0,0:16:14.00,0:16:16.46,TL Note,,0,0,0,,{\a6}In Japan it is traditional upon graduating to give the second button from your school uniform to a girl you like
+Dialogue: 0,0:16:13.85,0:16:16.87,Dialogue,,0,0,0,,But it wasn’t his second button.
+Dialogue: 0,0:16:14.00,0:16:16.46,TL Note,,0,0,0,,In Japan, it is a tradition to give the second button from your school uniform to the girl you like when you graduate.{In Japan it is traditional upon graduating to give the second button from your school uniform to a girl you like.}
 Dialogue: 0,0:16:18.31,0:16:20.63,Dialogue,,0,0,0,,I liked him since I was a first-year.
-Dialogue: 0,0:16:21.89,0:16:24.77,Dialogue,,0,0,0,,It's not like he's really handsome or anything...
+Dialogue: 0,0:16:21.89,0:16:24.77,Dialogue,,0,0,0,,It’s not like he’s really handsome or anything...
 Dialogue: 0,0:16:24.77,0:16:26.25,Dialogue,,0,0,0,,but I really liked him.
 Dialogue: 0,0:16:28.85,0:16:31.04,Dialogue,,0,0,0,,I gathered up all my courage and confessed to him but...
-Dialogue: 0,0:16:31.91,0:16:34.36,Dialogue,,0,0,0,,He said he's going out with a junior at school.
-Dialogue: 0,0:16:35.15,0:16:37.01,Dialogue,,0,0,0,,I didn't know about it at all.
+Dialogue: 0,0:16:31.91,0:16:34.36,Dialogue,,0,0,0,,He said he’s going out with a junior at school.
+Dialogue: 0,0:16:35.15,0:16:37.01,Dialogue,,0,0,0,,I didn’t know about it at all.
 Dialogue: 0,0:16:40.69,0:16:43.38,Dialogue,,0,0,0,,If the window could open, I could throw it out from here...
 Dialogue: 0,0:16:45.29,0:16:46.69,Dialogue,,0,0,0,,How disappointing.
-Dialogue: 0,0:16:52.41,0:16:54.28,Dialogue,,0,0,0,,Don't say you're going to throw it away.
-Dialogue: 0,0:16:56.95,0:16:58.78,Dialogue,,0,0,0,,You still like him, don't you?
-Dialogue: 0,0:16:59.71,0:17:02.58,Dialogue,,0,0,0,,Then don't say that you're going to throw it away.
+Dialogue: 0,0:16:52.41,0:16:54.28,Dialogue,,0,0,0,,Don’t say you’re going to throw it away.
+Dialogue: 0,0:16:56.95,0:16:58.78,Dialogue,,0,0,0,,You still like him, don’t you?
+Dialogue: 0,0:16:59.71,0:17:02.58,Dialogue,,0,0,0,,Then don’t say that you’re going to throw it away.
 Dialogue: 0,0:17:04.27,0:17:05.29,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:17:06.71,0:17:08.25,Dialogue,,0,0,0,,I have to forget about him.
-Dialogue: 0,0:17:08.87,0:17:10.97,Dialogue,,0,0,0,,He has someone that he's going out with.
-Dialogue: 0,0:17:12.23,0:17:14.63,Dialogue,,0,0,0,,We go to different{separate} high schools,
-Dialogue: 0,0:17:15.21,0:17:16.60,Dialogue,,0,0,0,,We'll never even see each other anymore.
+Dialogue: 0,0:17:08.87,0:17:10.97,Dialogue,,0,0,0,,He has someone that he’s going out with.
+Dialogue: 0,0:17:12.23,0:17:14.63,Dialogue,,0,0,0,,We go to different high schools,
+Dialogue: 0,0:17:15.21,0:17:16.60,Dialogue,,0,0,0,,We’ll never even see each other anymore.
 Dialogue: 0,0:17:18.41,0:17:19.68,Dialogue,,0,0,0,,So why?
 Dialogue: 0,0:17:20.75,0:17:22.71,Dialogue,,0,0,0,,Why would you say that?
-Dialogue: 0,0:17:24.99,0:17:26.60,Dialogue,,0,0,0,,You're so straightforward.
+Dialogue: 0,0:17:24.99,0:17:26.60,Dialogue,,0,0,0,,You’re so straightforward.
 Dialogue: 0,0:17:28.69,0:17:30.59,Dialogue,,0,0,0,,Then how...?
 Dialogue: 0,0:17:32.47,0:17:38.87,Dialogue,,0,0,0,,How can you love someone so straightforward and honestly?
 Dialogue: 0,0:17:41.95,0:17:42.87,Dialogue,,0,0,0,,I...
 Dialogue: 0,0:17:46.75,0:17:48.38,Dialogue,,0,0,0,,I just got dumped too.
-Dialogue: 0,0:17:51.61,0:17:53.85,Dialogue,,0,0,0,,Well, it's really different from your situation.
+Dialogue: 0,0:17:51.61,0:17:53.85,Dialogue,,0,0,0,,Well, it’s really different from your situation.
 Dialogue: 0,0:17:54.53,0:17:56.54,Dialogue,,0,0,0,,My feelings totally cooled off...
-Dialogue: 0,0:17:57.39,0:18:05.01,Dialogue,,0,0,0,,and I don't really know if I really loved her anymore.
+Dialogue: 0,0:17:57.39,0:18:05.01,Dialogue,,0,0,0,,and I don’t really know if I really loved her anymore.
 Dialogue: 0,0:18:08.37,0:18:09.54,Dialogue,,0,0,0,,But...
-Dialogue: 0,0:18:10.77,0:18:11.98,Dialogue,,0,0,0,,That's why...
+Dialogue: 0,0:18:10.77,0:18:11.98,Dialogue,,0,0,0,,That’s why...
 Dialogue: 0,0:18:13.36,0:18:16.01,Dialogue,,0,0,0,,You should definitely treasure...
 Dialogue: 0,0:18:17.59,0:18:19.93,Dialogue,,0,0,0,,the feelings that you have inside you.
 Dialogue: 0,0:18:25.41,0:18:26.42,Dialogue,,0,0,0,,Why...?
@@ -503,30 +506,30 @@ Dialogue: 0,0:18:30.65,0:18:32.13,Dialogue,,0,0,0,,Why am I...?
 Dialogue: 0,0:19:27.13,0:19:28.64,Dialogue,,0,0,0,,I was so surprised.
 Dialogue: 0,0:19:30.15,0:19:31.27,Dialogue,,0,0,0,,The cherry blossoms.
 Dialogue: 0,0:19:32.67,0:19:36.94,Dialogue,,0,0,0,,Ever since I got rejected, I kept walking with my head down,
-Dialogue: 0,0:19:36.94,0:19:40.11,Dialogue,,0,0,0,,so I didn't notice the flowers blooming at all.
+Dialogue: 0,0:19:36.94,0:19:40.11,Dialogue,,0,0,0,,so I didn’t notice the flowers blooming at all.
 Dialogue: 0,0:19:41.53,0:19:44.71,Dialogue,,0,0,0,,When you stopped me back at the train station,
 Dialogue: 0,0:19:44.71,0:19:46.53,Dialogue,,0,0,0,,I noticed it for the first time.
 Dialogue: 0,0:19:53.39,0:19:55.43,Dialogue,,0,0,0,,I was really surprised!
 Dialogue: 0,0:19:56.54,0:19:59.32,Dialogue,,0,0,0,,The petals were falling like snow,
-Dialogue: 0,0:20:00.83,0:20:04.29,Dialogue,,0,0,0,,and for a moment I couldn't tell where I was.
-Dialogue: 0,0:20:08.07,0:20:11.35,Dialogue - Italic,,0,0,0,,That's the same for me too.
+Dialogue: 0,0:20:00.83,0:20:04.29,Dialogue,,0,0,0,,and for a moment I couldn’t tell where I was.
+Dialogue: 0,0:20:08.07,0:20:11.35,Dialogue - Italic,,0,0,0,,That’s the same for me too.
 Dialogue: 0,0:20:13.17,0:20:16.65,Dialogue - Italic,,0,0,0,,Where is this...
-Dialogue: 0,0:20:18.13,0:20:20.50,Dialogue - Italic,,0,0,0,,this place that I've always been at?
+Dialogue: 0,0:20:18.13,0:20:20.50,Dialogue - Italic,,0,0,0,,this place that I’ve always been at?
 Dialogue: 0,0:20:21.43,0:20:23.78,Dialogue - Italic,,0,0,0,,Is being here unforgivable?
 Dialogue: 0,0:20:26.07,0:20:27.53,Dialogue,,0,0,0,,Thank you very much.
 Dialogue: 0,0:20:29.41,0:20:30.57,Dialogue,,0,0,0,,Same here.
 Dialogue: 0,0:20:33.67,0:20:34.74,Dialogue,,0,0,0,,Umm...
-Dialogue: 0,0:20:39.35,0:20:42.15,Dialogue,,0,0,0,,It's nothing.
+Dialogue: 0,0:20:39.35,0:20:42.15,Dialogue,,0,0,0,,It’s nothing.
 Dialogue: 0,0:20:43.73,0:20:45.95,Dialogue,,0,0,0,,Well, I have to...
 Dialogue: 0,0:20:45.95,0:20:47.61,Dialogue,,0,0,0,,Hey!
-Dialogue: 0,0:20:49.33,0:20:51.52,Dialogue,,0,0,0,,Sorry I'm late.
+Dialogue: 0,0:20:49.33,0:20:51.52,Dialogue,,0,0,0,,Sorry I’m late.
 Dialogue: 0,0:20:51.52,0:20:52.82,Dialogue,,0,0,0,,Dad!
 Dialogue: 0,0:20:51.52,0:20:52.82,Dialogue,,0,0,0,,Father?
 Dialogue: 0,0:20:53.39,0:20:54.45,Dialogue,,0,0,0,,Huh?!
-Dialogue: 0,0:20:55.02,0:20:57.67,Dialogue,,0,0,0,,Oh, you're here too, Koshiro?
-Dialogue: 0,0:20:57.67,0:21:00.94,Dialogue,,0,0,0,,It's been so long since you siblings have gotten together.
+Dialogue: 0,0:20:55.02,0:20:57.67,Dialogue,,0,0,0,,Oh, you’re here too, Koshiro?
+Dialogue: 0,0:20:57.67,0:21:00.94,Dialogue,,0,0,0,,It’s been so long since you siblings have gotten together.
 Dialogue: 0,0:21:01.47,0:21:03.65,Dialogue,,0,0,0,,Did you two recognize each other right away?
-Dialogue: 0,0:21:06.66,0:21:10.16,Dialogue,,0,0,0,,Hey, what's wrong with the two of you? Let's go!
+Dialogue: 0,0:21:06.66,0:21:10.16,Dialogue,,0,0,0,,Hey, what’s wrong with the two of you? Let’s go!
 Dialogue: 0,0:21:12.51,0:21:13.56,Dialogue,,0,0,0,,Hey...!
 Dialogue: 0,0:21:14.17,0:21:16.54,Dialogue,,0,0,0,,What should we have for dinner?
 Dialogue: 0,0:21:16.54,0:21:18.75,Dialogue,,0,0,0,,Nanoka, what do you want?
@@ -536,107 +539,96 @@ Dialogue: 0,0:21:25.77,0:21:27.17,Dialogue,,0,0,0,,Brother? {Onii-chan}
 Dialogue: 0,0:21:29.43,0:21:30.50,Dialogue,,0,0,0,,Yes...
 Dialogue: 0,0:21:32.06,0:21:33.28,Dialogue,,0,0,0,,I have...
 Dialogue: 0,0:21:35.57,0:21:37.28,Dialogue,,0,0,0,,A little sister.
-Comment: 0,0:21:34.80,0:23:12.67,Preview,,0,0,0,,!These go in ex01!
-Comment: 0,0:23:12.67,0:23:14.84,Preview,,0,0,0,,{\pos(480,100)\bord1\1c&H00000000&\3c&H00ECE3D8&\fs29}Continuation of river\Npreliminary announcement
-Comment: 0,0:23:13.10,0:23:14.84,Preview,,0,0,0,,{\pos(360,470)\fs60\bord2\1c&H00000000&\3c&H00ECE3D8&\frx90\t(0,620,\frx0)}1000 birds are coming
-Comment: 0,0:23:15.81,0:23:18.19,Dialogue,,0,0,0,,A girl that I got dumped by came to my office, so I was kind of apprehensive.
-Comment: 0,0:23:18.22,0:23:20.28,Dialogue,,0,0,0,,I went on a date with my younger sister without knowing.
-Comment: 0,0:23:20.31,0:23:22.97,Dialogue,,0,0,0,,I cried in front of a high school student at my age.
-Comment: 0,0:23:23.23,0:23:24.36,Dialogue,,0,0,0,,Is this all right?!
-Comment: 0,0:23:24.62,0:23:25.96,Dialogue,,0,0,0,,Your punishment is Sumaki Nagashi!
-Comment: 0,0:23:24.62,0:23:26.42,TL Note,,0,0,0,,Sumaki Nagashi = wrapping a person up in straw and throwing them down a river
-Comment: 0,0:23:26.05,0:23:27.47,Dialogue,,0,0,0,,WHY?!
-Comment: 0,0:21:34.80,0:23:12.67,Preview,,0,0,0,,!These go in ex01!
-Dialogue: 0,0:00:11.56,0:00:15.61,OP - Eng,,0,0,0,,{\fad(80,80)}my first feelings
-Dialogue: 0,0:00:16.52,0:00:20.57,OP - Eng,,0,0,0,,{\fad(80,80)}upon my downhearted chest
-Dialogue: 0,0:00:20.65,0:00:29.67,OP - Eng,,0,0,0,,{\fad(80,80)}a sunny ray of light was gently thrown
-Dialogue: 0,0:00:31.52,0:00:35.61,OP - Eng,,0,0,0,,{\fad(80,80)}walking alone...
-Dialogue: 0,0:00:36.45,0:00:40.61,OP - Eng,,0,0,0,,{\fad(80,80)}when I looked up at the sky,
-Dialogue: 0,0:00:40.61,0:00:44.65,OP - Eng,,0,0,0,,{\fad(80,80)}spring was near,
-Dialogue: 0,0:00:44.68,0:00:48.68,OP - Eng,,0,0,0,,{\fad(80,80)}it showed me
-Dialogue: 0,0:00:49.07,0:00:53.82,OP - Eng,,0,0,0,,{\fad(80,80)}these trembling feelings are
-Dialogue: 0,0:00:54.05,0:00:58.97,OP - Eng,,0,0,0,,{\fad(80,80)}fluttering petals,
-Dialogue: 0,0:00:59.62,0:01:03.97,OP - Eng,,0,0,0,,{\fad(80,80)}is it okay for me to fall in love?
-Dialogue: 0,0:01:04.81,0:01:08.68,OP - Eng,,0,0,0,,{\fad(80,80)}or will...
-Dialogue: 0,0:01:09.00,0:01:13.71,OP - Eng,,0,0,0,,{\fad(80,80)}my hesitating heart
-Dialogue: 0,0:01:14.06,0:01:19.10,OP - Eng,,0,0,0,,{\fad(80,80)}put on my brakes,
-Dialogue: 0,0:01:19.66,0:01:22.49,OP - Eng,,0,0,0,,{\fad(80,80)}it's so painful
-Dialogue: 0,0:01:22.53,0:01:33.72,OP - Eng,,0,0,0,,{\fad(80,80)}I can't breathe
-Dialogue: 0,0:00:11.56,0:00:15.61,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K31}ha{\K31}ji{\K31}me{\K31}te {\K30}no {\K50}ki{\K42}{\K93}mo{\K61}chi
-Dialogue: 0,0:00:16.52,0:00:20.57,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K37}sho{\K25}n{\K34}bo{\K28}ri {\K29}no {\K65}mu{\K28}{\K97}ne {\K55}ni
-Dialogue: 0,0:00:20.65,0:00:29.67,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K61}po{\K31}{\K52}tto {\K32}{\K67}na{\K97}ge{\K90}ra{\K50}re{\K76}ta {\K87}{\K36}hi{\K27}da{\K32}ma{\K87}ri{\K66}ne
-Dialogue: 0,0:00:31.52,0:00:35.61,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K32}hi{\K35}to{\K29}ri {\K30}a{\K32}ru{\K65}i{\K26}{\K91}te{\K62}ta
-Dialogue: 0,0:00:36.45,0:00:40.61,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K40}so{\K32}ra {\K30}mi{\K26}a{\K26}ge{\K75}ta {\K26}{\K93}to{\K60}ki
-Dialogue: 0,0:00:40.61,0:00:44.65,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K33}ha{\K58}ru {\K44}ga {\K12}{\K35}so{\K35}ko {\K23}ni {\K32}ki{\K71}te{\K56}ta
-Dialogue: 0,0:00:44.68,0:00:48.68,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K18}mi{\K41}se{\K36}te{\K147}ku{\K34}{\K64}re{\K58}ta
-Dialogue: 0,0:00:49.07,0:00:53.82,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K25}ko{\K34}ga{\K33}re{\K31}ru {\K25}o{\K197}mo{\K49}i{\K77}wa
-Dialogue: 0,0:00:54.05,0:00:58.97,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K32}ma{\K28}i{\K35}chi{\K24}ru {\K30}ha{\K194}na{\K32}bi{\K26}ra{\K86}ne
-Dialogue: 0,0:00:59.62,0:01:03.97,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K33}su{\K37}ki{\K25}ni{\K149}na{\K44}tte {\K59}ii{\K84}no
-Dialogue: 0,0:01:04.81,0:01:08.68,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K81}so{\K185}re{\K56}to{\K63}mo
-Dialogue: 0,0:01:09.00,0:01:13.71,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K31}ta{\K37}me{\K32}ra{\K25}u {\K33}ko{\K187}ko{\K64}ro {\K57}ga
-Dialogue: 0,0:01:14.06,0:01:19.10,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K29}bu{\K45}re{\K19}i{\K23}ki {\K31}ka{\K197}ke{\K28}ru{\K29}ke{\K97}do
-Dialogue: 0,0:01:19.66,0:01:22.49,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K34}ku{\K18}ru{\K43}shi{\K145}ku{\K41}te
-Dialogue: 0,0:01:22.53,0:01:33.72,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K22}i{\K39}ki{\K94}ga {\K87}{\K64}to{\K189}ma{\K55}ri{\K161}sou {\K33}{\K49}de{\K321}su
-Dialogue: 0,0:00:11.56,0:00:15.61,OP - Jpk,,0,0,0,,{\fad(80,80)}はじめての気持ち
-Dialogue: 0,0:00:16.52,0:00:20.57,OP - Jpk,,0,0,0,,{\fad(80,80)}しょんぼりの胸に
-Dialogue: 0,0:00:20.65,0:00:29.67,OP - Jpk,,0,0,0,,{\fad(80,80)}ぽっと投げられた陽だまりね
-Dialogue: 0,0:00:31.52,0:00:35.61,OP - Jpk,,0,0,0,,{\fad(80,80)}ひとり歩いてた
-Dialogue: 0,0:00:36.45,0:00:40.61,OP - Jpk,,0,0,0,,{\fad(80,80)}空みあげた時
-Dialogue: 0,0:00:40.61,0:00:44.65,OP - Jpk,,0,0,0,,{\fad(80,80)}春がそこに来てた
-Dialogue: 0,0:00:44.68,0:00:48.68,OP - Jpk,,0,0,0,,{\fad(80,80)}見せてくれた
-Dialogue: 0,0:00:49.07,0:00:53.82,OP - Jpk,,0,0,0,,{\fad(80,80)}焦がれる想いは
-Dialogue: 0,0:00:54.05,0:00:58.97,OP - Jpk,,0,0,0,,{\fad(80,80)}舞い散る花びらね
-Dialogue: 0,0:00:59.62,0:01:03.97,OP - Jpk,,0,0,0,,{\fad(80,80)}好きになっていいの？
-Dialogue: 0,0:01:04.81,0:01:08.68,OP - Jpk,,0,0,0,,{\fad(80,80)}それとも
-Dialogue: 0,0:01:09.00,0:01:13.71,OP - Jpk,,0,0,0,,{\fad(80,80)}ためらう心が
-Dialogue: 0,0:01:14.06,0:01:19.10,OP - Jpk,,0,0,0,,{\fad(80,80)}ブレーキかけるけど
-Dialogue: 0,0:01:19.66,0:01:22.49,OP - Jpk,,0,0,0,,{\fad(80,80)}苦しくて
-Dialogue: 0,0:01:22.53,0:01:33.72,OP - Jpk,,0,0,0,,{\fad(80,80)}息が止まりそうです
-Dialogue: 0,0:21:48.95,0:21:52.75,ED - Eng,,0,0,0,,{\fad(80,80)}a gentle dream
-Dialogue: 0,0:21:54.10,0:21:58.78,ED - Eng,,0,0,0,,{\fad(80,80)}calls the spring in my heart
-Dialogue: 0,0:22:00.01,0:22:04.68,ED - Eng,,0,0,0,,{\fad(80,80)}and becomes a gentle breeze
-Dialogue: 0,0:22:05.20,0:22:10.15,ED - Eng,,0,0,0,,{\fad(80,80)}that touches you then leaves
-Dialogue: 0,0:22:11.04,0:22:13.24,ED - Eng,,0,0,0,,{\fad(80,80)}in the small pot
-Dialogue: 0,0:22:13.82,0:22:15.64,ED - Eng,,0,0,0,,{\fad(80,80)}are feelings of love
-Dialogue: 0,0:22:15.90,0:22:18.22,ED - Eng,,0,0,0,,{\fad(80,80)}swaying softly
-Dialogue: 0,0:22:19.37,0:22:21.47,ED - Eng,,0,0,0,,{\fad(80,80)}that carry a sweet scent
-Dialogue: 0,0:22:22.13,0:22:23.91,ED - Eng,,0,0,0,,{\fad(80,80)}always waiting...
-Dialogue: 0,0:22:24.15,0:22:30.71,ED - Eng,,0,0,0,,{\fad(80,80)}warming up this moment...
-Dialogue: 0,0:22:33.20,0:22:38.12,ED - Eng,,0,0,0,,{\fad(80,80)}things we understand because it's the two of us
-Dialogue: 0,0:22:38.70,0:22:42.49,ED - Eng,,0,0,0,,{\fad(80,80)}are not just words
-Dialogue: 0,0:22:44.22,0:22:48.99,ED - Eng,,0,0,0,,{\fad(80,80)}we just smile, we just hope
-Dialogue: 0,0:22:49.54,0:22:54.11,ED - Eng,,0,0,0,,{\fad(80,80)}to the quiet sky
-Dialogue: 0,0:22:55.27,0:23:00.90,ED - Eng,,0,0,0,,{\fad(80,80)}we'll see each other again tomorrow...
-Dialogue: 0,0:23:02.89,0:23:08.57,ED - Eng,,0,0,0,,{\fad(80,80)}at the quiet sky
-Dialogue: 0,0:21:48.95,0:21:52.75,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K93}ya{\K38}sa{\K75}shii {\K31}yu{\K31}me {\K109}ga
-Dialogue: 0,0:21:54.10,0:21:58.78,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K35}so{\K67}tto {\K42}{\K13}mu{\K25}ne {\K49}no {\K22}{\K29}ha{\K32}ru {\K34}wo {\K23}yo{\K90}bi
-Dialogue: 0,0:22:00.01,0:22:04.68,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K91}ya{\K37}sa{\K78}shii {\K38}ka{\K29}ze {\K61}ni {\K86}na{\K43}ri
-Dialogue: 0,0:22:05.20,0:22:10.15,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K14}ki{\K23}mi {\K50}ni {\K53}{\K11}fu{\K18}re{\K51}te {\K15}{\K64}sa{\K39}tte{\K40}yu{\K111}ku
-Dialogue: 0,0:22:11.04,0:22:13.24,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K30}chii{\K23}sa{\K18}na {\K26}po{\K26}tto {\K15}ni {\K78}wa
-Dialogue: 0,0:22:13.82,0:22:15.64,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K33}dai{\K18}su{\K17}ki{\K23}na {\K26}ki{\K18}mo{\K42}chi
-Dialogue: 0,0:22:15.90,0:22:18.22,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K29}yu{\K37}ra{\K26}yu{\K27}ra {\K110}to
-Dialogue: 0,0:22:19.37,0:22:21.47,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K28}ii {\K21}ka{\K21}o{\K21}ri {\K26}no{\K18}se{\K73}te
-Dialogue: 0,0:22:22.13,0:22:23.91,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K20}i{\K20}tsu{\K20}mo {\K32}ma{\K15}tte{\K67}ita
-Dialogue: 0,0:22:24.15,0:22:30.71,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K22}ko{\K39}no {\K8}{\K62}to{\K41}ki {\K67}wo {\K37}{\K27}a{\K42}ta{\K62}ta{\K40}me{\K203}te
-Dialogue: 0,0:22:33.20,0:22:38.12,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K97}fu{\K36}ta{\K34}ri {\K31}da{\K38}ka{\K25}ra {\K36}wa{\K43}ka{\K30}ru {\K20}ko{\K96}to
-Dialogue: 0,0:22:38.70,0:22:42.49,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K70}ko{\K32}to{\K32}ba {\K33}ja{\K30}{\K29}na{\K41}ku{\K108}te
-Dialogue: 0,0:22:44.22,0:22:48.99,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K104}ho{\K30}ho{\K39}e{\K30}mu {\K31}da{\K31}ke {\K41}ne{\K33}ga{\K32}u{\K18}da{\K82}ke
-Dialogue: 0,0:22:49.54,0:22:54.11,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K53}shi{\K28}zu{\K37}ka{\K19}na {\K46}so{\K101}ra {\K9}{\K159}e
-Dialogue: 0,0:22:55.27,0:23:00.90,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K85}a{\K52}shi{\K28}ta {\K37}mo {\K35}ma{\K35}ta {\K34}a{\K38}e{\K29}ru {\K23}yo {\K161}ne
-Dialogue: 0,0:23:02.89,0:23:08.57,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K50}shi{\K25}zu{\K47}ka{\K22}na {\K43}so{\K133}ra {\K245}de
-Dialogue: 0,0:21:48.95,0:21:52.75,ED - Jpk,,0,0,0,,{\fad(80,80)}やさしい夢が
-Dialogue: 0,0:21:54.10,0:21:58.78,ED - Jpk,,0,0,0,,{\fad(80,80)}そっと胸の春を呼び
-Dialogue: 0,0:22:00.01,0:22:04.68,ED - Jpk,,0,0,0,,{\fad(80,80)}やさしい風になり
-Dialogue: 0,0:22:05.20,0:22:10.15,ED - Jpk,,0,0,0,,{\fad(80,80)}君に触れて去ってゆく
-Dialogue: 0,0:22:11.04,0:22:13.24,ED - Jpk,,0,0,0,,{\fad(80,80)}小さなポットには
-Dialogue: 0,0:22:13.82,0:22:15.64,ED - Jpk,,0,0,0,,{\fad(80,80)}大好きな気持ち
-Dialogue: 0,0:22:15.90,0:22:18.22,ED - Jpk,,0,0,0,,{\fad(80,80)}ゆらゆらと
-Dialogue: 0,0:22:19.37,0:22:21.47,ED - Jpk,,0,0,0,,{\fad(80,80)}いい香りのせて
-Dialogue: 0,0:22:22.13,0:22:23.91,ED - Jpk,,0,0,0,,{\fad(80,80)}いつも待っていた
-Dialogue: 0,0:22:24.15,0:22:30.71,ED - Jpk,,0,0,0,,{\fad(80,80)}この時をあたためて
-Dialogue: 0,0:22:33.20,0:22:38.12,ED - Jpk,,0,0,0,,{\fad(80,80)}ふたりだからわかる
-Dialogue: 0,0:22:38.70,0:22:42.49,ED - Jpk,,0,0,0,,{\fad(80,80)}言葉じゃなくて
-Dialogue: 0,0:22:44.22,0:22:48.99,ED - Jpk,,0,0,0,,{\fad(80,80)}ほほえむだけ　願うだけ
-Dialogue: 0,0:22:49.54,0:22:54.11,ED - Jpk,,0,0,0,,{\fad(80,80)}しずかな空へ
-Dialogue: 0,0:22:55.27,0:23:00.90,ED - Jpk,,0,0,0,,{\fad(80,80)}あしたもまた会えるよね
-Dialogue: 0,0:23:02.89,0:23:08.57,ED - Jpk,,0,0,0,,{\fad(80,80)}しずかな空で
+Dialogue: 0,0:00:11.41,0:00:15.72,OP - Eng,,0,0,0,,{\fad(80,80)}my first feelings
+Dialogue: 0,0:00:16.30,0:00:20.62,OP - Eng,,0,0,0,,{\fad(80,80)}upon my downhearted chest
+Dialogue: 0,0:00:20.62,0:00:29.38,OP - Eng,,0,0,0,,{\fad(80,80)}a sunny ray of light was gently thrown
+Dialogue: 0,0:00:31.37,0:00:35.70,OP - Eng,,0,0,0,,{\fad(80,80)}walking alone...
+Dialogue: 0,0:00:36.30,0:00:40.64,OP - Eng,,0,0,0,,{\fad(80,80)}when I looked up at the sky,
+Dialogue: 0,0:00:40.64,0:00:44.68,OP - Eng,,0,0,0,,{\fad(80,80)}spring was near,
+Dialogue: 0,0:00:44.68,0:00:48.90,OP - Eng,,0,0,0,,{\fad(80,80)}it showed me
+Dialogue: 0,0:00:48.90,0:00:53.99,OP - Eng,,0,0,0,,{\fad(80,80)}these trembling feelings are
+Dialogue: 0,0:00:54.05,0:00:59.12,OP - Eng,,0,0,0,,{\fad(80,80)}fluttering petals,
+Dialogue: 0,0:00:59.34,0:01:04.00,OP - Eng,,0,0,0,,{\fad(80,80)}is it okay for me to fall in love?
+Dialogue: 0,0:01:04.64,0:01:08.96,OP - Eng,,0,0,0,,{\fad(80,80)}or will...
+Dialogue: 0,0:01:08.96,0:01:14.01,OP - Eng,,0,0,0,,{\fad(80,80)}my hesitating heart
+Dialogue: 0,0:01:14.01,0:01:19.01,OP - Eng,,0,0,0,,{\fad(80,80)}put on my brakes,
+Dialogue: 0,0:01:19.51,0:01:22.14,OP - Eng,,0,0,0,,{\fad(80,80)}it's so painful
+Dialogue: 0,0:01:22.50,0:01:33.80,OP - Eng,,0,0,0,,{\fad(80,80)}I can't breathe
+Dialogue: 0,0:00:11.41,0:00:15.72,OP - Jpr,,0,0,0,,{\fad(80,80)}hajimete no kimochi
+Dialogue: 0,0:00:16.30,0:00:20.62,OP - Jpr,,0,0,0,,{\fad(80,80)}shonbori no mune ni
+Dialogue: 0,0:00:20.62,0:00:29.38,OP - Jpr,,0,0,0,,{\fad(80,80)}potto nagerareta hidamarine
+Dialogue: 0,0:00:31.37,0:00:35.70,OP - Jpr,,0,0,0,,{\fad(80,80)}hitori aruiteta
+Dialogue: 0,0:00:36.30,0:00:40.64,OP - Jpr,,0,0,0,,{\fad(80,80)}sora miageta toki
+Dialogue: 0,0:00:40.64,0:00:44.68,OP - Jpr,,0,0,0,,{\fad(80,80)}haru ga soko ni kiteta
+Dialogue: 0,0:00:44.68,0:00:48.90,OP - Jpr,,0,0,0,,{\fad(80,80)}misetekureta
+Dialogue: 0,0:00:48.90,0:00:53.99,OP - Jpr,,0,0,0,,{\fad(80,80)}kogareru omoiwa
+Dialogue: 0,0:00:54.05,0:00:59.12,OP - Jpr,,0,0,0,,{\fad(80,80)}maichiru hanabirane
+Dialogue: 0,0:00:59.34,0:01:04.00,OP - Jpr,,0,0,0,,{\fad(80,80)}sukininatte iino
+Dialogue: 0,0:01:04.64,0:01:08.96,OP - Jpr,,0,0,0,,{\fad(80,80)}soretomo
+Dialogue: 0,0:01:08.96,0:01:14.01,OP - Jpr,,0,0,0,,{\fad(80,80)}tamerau kokoro ga
+Dialogue: 0,0:01:14.01,0:01:19.01,OP - Jpr,,0,0,0,,{\fad(80,80)}bureiki kakerukedo
+Dialogue: 0,0:01:19.51,0:01:22.14,OP - Jpr,,0,0,0,,{\fad(80,80)}kurushikute
+Dialogue: 0,0:01:22.50,0:01:33.80,OP - Jpr,,0,0,0,,{\fad(80,80)}ikiga tomarisou desu
+Dialogue: 0,0:00:11.41,0:00:15.72,OP - Jpk,,0,0,0,,{\fad(80,80)}はじめての気持ち
+Dialogue: 0,0:00:16.30,0:00:20.62,OP - Jpk,,0,0,0,,{\fad(80,80)}しょんぼりの胸に
+Dialogue: 0,0:00:20.62,0:00:29.38,OP - Jpk,,0,0,0,,{\fad(80,80)}ぽっと投げられた陽だまりね
+Dialogue: 0,0:00:31.37,0:00:35.70,OP - Jpk,,0,0,0,,{\fad(80,80)}ひとり歩いてた
+Dialogue: 0,0:00:36.30,0:00:40.64,OP - Jpk,,0,0,0,,{\fad(80,80)}空みあげた時
+Dialogue: 0,0:00:40.64,0:00:44.68,OP - Jpk,,0,0,0,,{\fad(80,80)}春がそこに来てた
+Dialogue: 0,0:00:44.68,0:00:48.90,OP - Jpk,,0,0,0,,{\fad(80,80)}見せてくれた
+Dialogue: 0,0:00:48.90,0:00:53.99,OP - Jpk,,0,0,0,,{\fad(80,80)}焦がれる想いは
+Dialogue: 0,0:00:54.05,0:00:59.12,OP - Jpk,,0,0,0,,{\fad(80,80)}舞い散る花びらね
+Dialogue: 0,0:00:59.34,0:01:04.00,OP - Jpk,,0,0,0,,{\fad(80,80)}好きになっていいの？
+Dialogue: 0,0:01:04.64,0:01:08.96,OP - Jpk,,0,0,0,,{\fad(80,80)}それとも
+Dialogue: 0,0:01:08.96,0:01:14.01,OP - Jpk,,0,0,0,,{\fad(80,80)}ためらう心が
+Dialogue: 0,0:01:14.01,0:01:19.01,OP - Jpk,,0,0,0,,{\fad(80,80)}ブレーキかけるけど
+Dialogue: 0,0:01:19.51,0:01:22.14,OP - Jpk,,0,0,0,,{\fad(80,80)}苦しくて
+Dialogue: 0,0:01:22.50,0:01:33.80,OP - Jpk,,0,0,0,,{\fad(80,80)}息が止まりそうです
+Dialogue: 0,0:21:51.10,0:21:55.24,ED - Eng,,0,0,0,,{\fad(80,80)}A gentle dream
+Dialogue: 0,0:21:56.11,0:22:01.49,ED - Eng,,0,0,0,,{\fad(80,80)}calls the spring in my heart
+Dialogue: 0,0:22:02.05,0:22:07.16,ED - Eng,,0,0,0,,{\fad(80,80)}and becomes a gentle breeze
+Dialogue: 0,0:22:07.23,0:22:12.42,ED - Eng,,0,0,0,,{\fad(80,80)}that touches you then leaves
+Dialogue: 0,0:22:13.13,0:22:15.69,ED - Eng,,0,0,0,,{\fad(80,80)}in the small pot
+Dialogue: 0,0:22:15.84,0:22:18.00,ED - Eng,,0,0,0,,{\fad(80,80)}are feelings of love
+Dialogue: 0,0:22:18.00,0:22:20.85,ED - Eng,,0,0,0,,{\fad(80,80)}swaying softly
+Dialogue: 0,0:22:21.43,0:22:23.97,ED - Eng,,0,0,0,,{\fad(80,80)}that carry a sweet scent
+Dialogue: 0,0:22:24.18,0:22:26.25,ED - Eng,,0,0,0,,{\fad(80,80)}always waiting...
+Dialogue: 0,0:22:26.25,0:22:33.58,ED - Eng,,0,0,0,,{\fad(80,80)}warming up this moment...
+Dialogue: 0,0:22:35.15,0:22:40.76,ED - Eng,,0,0,0,,{\fad(80,80)}We understand each other
+Dialogue: 0,0:22:40.76,0:22:45.13,ED - Eng,,0,0,0,,{\fad(80,80)}without words
+Dialogue: 0,0:22:46.29,0:22:51.59,ED - Eng,,0,0,0,,{\fad(80,80)}we just smile, we just hope
+Dialogue: 0,0:22:51.64,0:22:56.44,ED - Eng,,0,0,0,,{\fad(80,80)}to the quiet sky
+Dialogue: 0,0:22:57.31,0:23:03.69,ED - Eng,,0,0,0,,{\fad(80,80)}we'll see each other again tomorrow...
+Dialogue: 0,0:23:04.86,0:23:11.05,ED - Eng,,0,0,0,,{\fad(80,80)}at the quiet sky
+Dialogue: 0,0:21:51.10,0:21:55.24,ED - Jpr,,0,0,0,,{\fad(80,80)}yasashii yume ga
+Dialogue: 0,0:21:56.11,0:22:01.49,ED - Jpr,,0,0,0,,{\fad(80,80)}sotto mune no haru wo yobi
+Dialogue: 0,0:22:02.05,0:22:07.16,ED - Jpr,,0,0,0,,{\fad(80,80)}yasashii kaze ni nari
+Dialogue: 0,0:22:07.23,0:22:12.42,ED - Jpr,,0,0,0,,{\fad(80,80)}kimi ni furete satteyuku
+Dialogue: 0,0:22:13.13,0:22:15.69,ED - Jpr,,0,0,0,,{\fad(80,80)}chiisana potto ni wa
+Dialogue: 0,0:22:15.84,0:22:18.00,ED - Jpr,,0,0,0,,{\fad(80,80)}daisukina kimochi
+Dialogue: 0,0:22:18.00,0:22:20.85,ED - Jpr,,0,0,0,,{\fad(80,80)}yurayura to
+Dialogue: 0,0:22:21.43,0:22:23.97,ED - Jpr,,0,0,0,,{\fad(80,80)}ii kaori nosete
+Dialogue: 0,0:22:24.18,0:22:26.25,ED - Jpr,,0,0,0,,{\fad(80,80)}itsumo matteita
+Dialogue: 0,0:22:26.25,0:22:33.58,ED - Jpr,,0,0,0,,{\fad(80,80)}kono toki wo atatamete
+Dialogue: 0,0:22:35.15,0:22:40.76,ED - Jpr,,0,0,0,,{\fad(80,80)}futari dakara wakaru koto
+Dialogue: 0,0:22:40.76,0:22:45.13,ED - Jpr,,0,0,0,,{\fad(80,80)}kotoba janakute
+Dialogue: 0,0:22:46.29,0:22:51.59,ED - Jpr,,0,0,0,,{\fad(80,80)}hohoemu dake negaudake
+Dialogue: 0,0:22:51.64,0:22:56.44,ED - Jpr,,0,0,0,,{\fad(80,80)}shizukana sora e
+Dialogue: 0,0:22:57.31,0:23:03.69,ED - Jpr,,0,0,0,,{\fad(80,80)}ashita mo mata aeru yo ne
+Dialogue: 0,0:23:04.86,0:23:11.05,ED - Jpr,,0,0,0,,{\fad(80,80)}shizukana sora de
+Dialogue: 0,0:21:51.10,0:21:55.24,ED - Jpk,,0,0,0,,{\fad(80,80)}やさしい夢が
+Dialogue: 0,0:21:56.11,0:22:01.49,ED - Jpk,,0,0,0,,{\fad(80,80)}そっと胸の春を呼び
+Dialogue: 0,0:22:02.05,0:22:07.16,ED - Jpk,,0,0,0,,{\fad(80,80)}やさしい風になり
+Dialogue: 0,0:22:07.23,0:22:12.42,ED - Jpk,,0,0,0,,{\fad(80,80)}君に触れて去ってゆく
+Dialogue: 0,0:22:13.13,0:22:15.69,ED - Jpk,,0,0,0,,{\fad(80,80)}小さなポットには
+Dialogue: 0,0:22:15.84,0:22:18.00,ED - Jpk,,0,0,0,,{\fad(80,80)}大好きな気持ち
+Dialogue: 0,0:22:18.00,0:22:20.85,ED - Jpk,,0,0,0,,{\fad(80,80)}ゆらゆらと
+Dialogue: 0,0:22:21.43,0:22:23.97,ED - Jpk,,0,0,0,,{\fad(80,80)}いい香りのせて
+Dialogue: 0,0:22:24.18,0:22:26.25,ED - Jpk,,0,0,0,,{\fad(80,80)}いつも待っていた
+Dialogue: 0,0:22:26.25,0:22:33.58,ED - Jpk,,0,0,0,,{\fad(80,80)}この時をあたためて
+Dialogue: 0,0:22:35.15,0:22:40.76,ED - Jpk,,0,0,0,,{\fad(80,80)}ふたりだからわかる
+Dialogue: 0,0:22:40.76,0:22:45.13,ED - Jpk,,0,0,0,,{\fad(80,80)}言葉じゃなくて
+Dialogue: 0,0:22:46.29,0:22:51.59,ED - Jpk,,0,0,0,,{\fad(80,80)}ほほえむだけ　願うだけ
+Dialogue: 0,0:22:51.64,0:22:56.44,ED - Jpk,,0,0,0,,{\fad(80,80)}しずかな空へ
+Dialogue: 0,0:22:57.31,0:23:03.69,ED - Jpk,,0,0,0,,{\fad(80,80)}あしたもまた会えるよね
+Dialogue: 0,0:23:04.86,0:23:11.05,ED - Jpk,,0,0,0,,{\fad(80,80)}しずかな空で

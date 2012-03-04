@@ -1,0 +1,37 @@
+﻿[Script Info]
+Title: Koi Kaze - Ex01
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Scroll Position: 0
+Active Line: 9
+Last Style Storage: Koi Kaze L
+PlayResX: 712
+PlayResY: 476
+Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ex01_10bit_Raw_v3_[224E4DE1]_track2_jpn.wav
+Video File: Koi_Kaze_-_Ex01_10bit_Raw_v3_[224E4DE1].mkv
+Video Colorspace: BT.601
+Video Aspect Ratio: c1.78151
+Video Position: 285
+Automation Scripts: ~..\Aegisub-Motion\Aegisub-Motion.lua
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,114,114,32,0
+Style: Preview,EraserDust,50,&H00000000,&H0000FFFF,&H00FFFFFF,&H0056465B,-1,0,0,0,84,100,0,0,1,2,0,2,6,6,5,0
+Style: TL Note,Avenir LT Std,24,&H00F0F0F0,&H00FFFFFF,&H00101010,&H00010108,-1,0,0,0,84,100,0,0,1,2,0,8,114,114,16,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.14,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview{連続大河子告}
+Dialogue: 0,0:00:00.39,0:00:02.14,Preview,,0,0,0,,{\pos(360,460)\org(360,452)\fs80\frx50\t(0,653,0.7,\frx0)}Chidori's Judgement{千鳥がゆく}
+Comment: 0,0:00:00.39,0:00:01.06,Preview,,0,0,0,,{\pos(360,460)\fs80\frx60\t(0,653,0.8,\frx0)\org(360,200)}Chidori's Judgement{千鳥がゆく}
+Dialogue: 0,0:00:02.84,0:00:05.55,Dialogue,,0,0,0,,A girl that I got dumped by came to my office, so I was kind of apprehensive.
+Dialogue: 0,0:00:05.55,0:00:07.64,Dialogue,,0,0,0,,I went on a date with my younger sister without knowing.
+Dialogue: 0,0:00:07.64,0:00:10.56,Dialogue,,0,0,0,,I cried in front of a high school student at my age.
+Dialogue: 0,0:00:10.56,0:00:11.69,Dialogue,,0,0,0,,Is that enough?!
+Dialogue: 0,0:00:11.69,0:00:13.36,Dialogue,,0,0,0,,Wrap him in a bamboo mat and throw him in the river as punishment!{すまき流し}
+Dialogue: 1,0:00:11.86,0:00:13.36,Preview,,0,0,0,,{\pos(356,46)\bord1\blur2\fs48\iclip(30,6,682,50)\t(27,1028,\iclip(682,6,682,50))}Wrap him in a bamboo mat and throw him in the river
+Dialogue: 0,0:00:11.86,0:00:13.36,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(358,50)\fs48\iclip(30,6,682,50)\t(27,1028,\iclip(682,6,682,50))}Wrap him in a bamboo mat and throw him in the river
+Dialogue: 0,0:00:13.36,0:00:14.95,Dialogue,,0,0,0,,Why?!

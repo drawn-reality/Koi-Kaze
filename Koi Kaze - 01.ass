@@ -12,8 +12,8 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 499
-Active Line: 508
+Scroll Position: 0
+Active Line: 0
 Kerning: no
 Last Style Storage: Koi Kaze L
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep01_10bit_Raw_v3_[8DB74980].wav
@@ -23,7 +23,7 @@ Automation Scripts: ~..\Aegisub-Motion\Aegisub-Motion.lua|~..\ASSGrad\assgrad.lu
 Video File: Koi_Kaze_-_Ep01_10bit_Raw_v3_[8DB74980].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 1907
+Video Position: 2484
 Video Zoom: 8
 
 [V4+ Styles]
@@ -44,37 +44,37 @@ Style: ED - Jpk,@Kozuka Gothic Pro B,34,&H00E4F7FF,&HC0FFFFFF,&H00453843,&H00010
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)\pos(271.644,296)\frz25\p1}m 0 0 l 230 0 230 120  0 120
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HEEEDF0&\clip(m 158 282 l 334 200 338 207 161 289)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HECEAF0&\clip(m 159 286 l 336 203 339 210 163 293)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HEAE7F0&\clip(m 161 289 l 338 207 341 214 164 296)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE9E3F0&\clip(m 163 293 l 339 210 343 218 166 300)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE7E0F0&\clip(m 164 296 l 341 214 344 221 168 304)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE5DDEF&\clip(m 166 300 l 343 218 346 225 169 307)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE3DAEF&\clip(m 168 304 l 344 221 348 229 171 311)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE1D7EF&\clip(m 169 307 l 346 225 349 232 173 315)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDFD4EF&\clip(m 171 311 l 348 229 351 236 174 318)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDED0EF&\clip(m 173 315 l 349 232 353 239 176 322)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDCCDEF&\clip(m 174 318 l 351 236 354 243 178 325)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDACAEF&\clip(m 176 322 l 353 239 356 247 180 329)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD8C7EF&\clip(m 178 325 l 354 243 358 250 181 333)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD6C4EF&\clip(m 180 329 l 356 247 360 254 183 336)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD4C1EF&\clip(m 181 333 l 358 250 361 258 185 340)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD3BDEE&\clip(m 183 336 l 360 254 363 261 186 344)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD1BAEE&\clip(m 185 340 l 361 258 365 265 188 347)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCFB7EE&\clip(m 186 344 l 363 261 366 268 190 351)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCDB4EE&\clip(m 188 347 l 365 265 368 272 191 354)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCBB1EE&\clip(m 190 351 l 366 268 370 276 193 358)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC9AEEE&\clip(m 191 354 l 368 272 371 279 195 362)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC8AAEE&\clip(m 193 358 l 370 276 373 283 196 365)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC6A7EE&\clip(m 195 362 l 371 279 375 287 198 369)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC4A4EE&\clip(m 196 365 l 373 283 376 290 200 373)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC2A1EE&\clip(m 198 369 l 375 287 378 294 202 376)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC09EED&\clip(m 200 373 l 376 290 380 297 203 380)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBE9BED&\clip(m 202 376 l 378 294 382 301 205 383)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBD97ED&\clip(m 203 380 l 380 297 383 305 207 387)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBB94ED&\clip(m 205 383 l 382 301 385 308 208 391)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
-Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HB991ED&\clip(m 207 387 l 383 305 387 312 210 394)\pos(271.64,296.00)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Comment: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)\pos(271.644,296)\frz25\p1}m 0 0 l 230 0 230 120  0 120{This shit moves during the blur. Could attempt to replicate it, but I don't need even more lag than I'm already creating.}
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HEEEDF0&\clip(m 154 284 l 330 202 334 209 157 291)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HECEAF0&\clip(m 155 288 l 332 205 335 212 159 295)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HEAE7F0&\clip(m 157 291 l 334 209 337 216 160 298)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE9E3F0&\clip(m 159 295 l 335 212 339 220 162 302)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE7E0F0&\clip(m 160 298 l 337 216 340 223 164 306)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE5DDEF&\clip(m 162 302 l 339 220 342 227 165 309)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE3DAEF&\clip(m 164 306 l 340 223 344 231 167 313)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HE1D7EF&\clip(m 165 309 l 342 227 345 234 169 317)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDFD4EF&\clip(m 167 313 l 344 231 347 238 170 320)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDED0EF&\clip(m 169 317 l 345 234 349 241 172 324)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDCCDEF&\clip(m 170 320 l 347 238 350 245 174 327)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HDACAEF&\clip(m 172 324 l 349 241 352 249 176 331)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD8C7EF&\clip(m 174 327 l 350 245 354 252 177 335)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD6C4EF&\clip(m 176 331 l 352 249 356 256 179 338)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD4C1EF&\clip(m 177 335 l 354 252 357 260 181 342)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD3BDEE&\clip(m 179 338 l 356 256 359 263 182 346)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HD1BAEE&\clip(m 181 342 l 357 260 361 267 184 349)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCFB7EE&\clip(m 182 346 l 359 263 362 270 186 353)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCDB4EE&\clip(m 184 349 l 361 267 364 274 187 356)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HCBB1EE&\clip(m 186 353 l 362 270 366 278 189 360)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC9AEEE&\clip(m 187 356 l 364 274 367 281 191 364)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC8AAEE&\clip(m 189 360 l 366 278 369 285 192 367)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC6A7EE&\clip(m 191 364 l 367 281 371 289 194 371)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC4A4EE&\clip(m 192 367 l 369 285 372 292 196 375)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC2A1EE&\clip(m 194 371 l 371 289 374 296 198 378)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HC09EED&\clip(m 196 375 l 372 292 376 299 199 382)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBE9BED&\clip(m 198 378 l 374 296 378 303 201 385)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBD97ED&\clip(m 199 382 l 376 299 379 307 203 389)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HBB94ED&\clip(m 201 385 l 378 303 381 310 204 393)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
+Dialogue: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\c&HB991ED&\clip(m 203 389 l 379 307 383 314 206 396)\pos(267.64,298)\t(3525,5660,\blur10)\1a&HFF&\t(-15,607,\1a&H00)\fad(0,550)}First Flower
 Comment: 0,0:01:43.58,0:01:49.42,Title,,0,0,0,,{\bord0\t(3525,5660,\blur10)\fad(671,550)\pos(271.644,296)\3c&HBB91F6&}First Flower
 Comment: 0,0:01:43.54,0:01:49.42,Title,,0,0,0,,{\bord0\t(3525,5660,\blur10)\fad(671,550)\pos(271.644,296)}First Flower
 Comment: 0,0:02:05.02,0:02:05.85,Signs,,0,0,0,,小川?科
@@ -313,8 +313,8 @@ Dialogue: 0,0:02:09.98,0:02:11.42,Dialogue - Alt,,0,0,0,,Shirafuji.
 Dialogue: 0,0:02:11.42,0:02:13.48,Dialogue - Alt,,0,0,0,,Shirafuji.
 Dialogue: 0,0:02:13.48,0:02:15.87,Dialogue - Alt,,0,0,0,,Passengers headed to Manase,
 Dialogue: 0,0:02:15.87,0:02:21.03,Dialogue - Alt,,0,0,0,,please wait for the express train that arrives next.{how to unambiguously say that the next train is the express train}
-Dialogue: 0,0:02:26.67,0:02:32.26,Dialogue - Italic,,0,0,0,,How much meaning is there to the fact that it is spring right now?{What meaning is there to the fact that it's currently (already) spring?}
-Dialogue: 0,0:02:57.85,0:03:01.74,Dialogue - Italic,,0,0,0,,I've fallen in love with someone else.
+Dialogue: 0,0:02:26.67,0:02:32.26,Dialogue - Italic,,0,0,0,,How much meaning is there to the fact that it is spring right now?{What meaning is there to the fact that it’s currently (already) spring?}
+Dialogue: 0,0:02:57.85,0:03:01.74,Dialogue - Italic,,0,0,0,,I’ve fallen in love with someone else.
 Dialogue: 0,0:03:01.74,0:03:06.26,Dialogue - Italic,,0,0,0,,Oh... I see.
 Dialogue: 0,0:03:41.87,0:03:44.10,Dialogue - Alt,,0,0,0,,Tsubana. Tsubana.
 Dialogue: 0,0:03:44.10,0:03:48.99,Dialogue - Alt,,0,0,0,,Please wait until the train has come to a complete stop.{This is the phrasing used on several transit websites, though it usually is followed by "before leaving your seat" or something similar.}{not sure I like having this be a 2-liner, though.}
@@ -324,7 +324,7 @@ Dialogue: 0,0:04:12.27,0:04:14.18,Dialogue,,0,0,0,,Hey, you there!
 Dialogue: 0,0:04:19.78,0:04:21.46,Dialogue,,0,0,0,,Hey, student!
 Dialogue: 0,0:04:54.35,0:04:55.26,Dialogue,,0,0,0,,Yes?{O SHIT, LIBERAL MANSLATION}
 Dialogue: 0,0:04:57.55,0:04:59.69,Dialogue,,0,0,0,,Oh... Here.
-Dialogue: 0,0:05:00.59,0:05:03.80,Dialogue,,0,0,0,,Oh, no. I didn't realize I'd dropped it.{hadn't realized I'd dropped it? FUNKY-ASS TENSES ALL UP IN YO GRILL}
+Dialogue: 0,0:05:00.59,0:05:03.80,Dialogue,,0,0,0,,Oh, no. I didn’t realize I’d dropped it.{hadn’t realized I’d dropped it? FUNKY-ASS TENSES ALL UP IN YO GRILL}
 Dialogue: 0,0:05:04.74,0:05:06.49,Dialogue,,0,0,0,,Thank you very much.
 Dialogue: 0,0:05:07.45,0:05:08.90,Dialogue,,0,0,0,,You’re welcome.
 Dialogue: 0,0:05:24.01,0:05:27.52,Dialogue,,0,0,0,,That’s all I have about the next arranged marriage party.
@@ -346,11 +346,11 @@ Dialogue: 0,0:06:06.05,0:06:08.88,Dialogue,,0,0,0,,You’re sorting the membersh
 Dialogue: 0,0:06:08.88,0:06:09.55,Dialogue,,0,0,0,,Why?
 Dialogue: 0,0:06:09.79,0:06:12.50,Dialogue,,0,0,0,,That face... And that smell!
 Dialogue: 0,0:06:12.50,0:06:14.19,Dialogue,,0,0,0,,I can’t show that to our customers.
-Dialogue: 0,0:06:17.31,0:06:20.69,Dialogue,,0,0,0,,I'm certain there's a demand{ for them}.
+Dialogue: 0,0:06:17.31,0:06:20.69,Dialogue,,0,0,0,,I’m certain there’s a demand{ for them}.
 Dialogue: 0,0:06:20.96,0:06:22.44,Dialogue,,0,0,0,,You think so?
 Dialogue: 0,0:06:22.44,0:06:27.91,Dialogue,,0,0,0,,From experience, men my age can only meet teenage girls illegally.
 Dialogue: 0,0:06:27.91,0:06:30.05,Dialogue,,0,0,0,,So, it’s just your demand.
-Dialogue: 0,0:06:30.05,0:06:34.98,Dialogue,,0,0,0,,I wonder if I'll get a chance to meet a female high school student?
+Dialogue: 0,0:06:30.05,0:06:34.98,Dialogue,,0,0,0,,I wonder if I’ll get a chance to meet a female high school student?
 Dialogue: 0,0:06:35.35,0:06:37.66,Dialogue,,0,0,0,,You just keep working.
 Dialogue: 0,0:07:13.55,0:07:15.66,Dialogue,,0,0,0,,I’m ho...me.
 Dialogue: 0,0:07:25.69,0:07:27.71,Dialogue,,0,0,0,,I wasn’t told about this!
@@ -358,15 +358,15 @@ Dialogue: 0,0:07:28.63,0:07:31.80,Dialogue,,0,0,0,,Anyway, you’re going to be 
 Dialogue: 0,0:07:31.80,0:07:32.96,Dialogue,,0,0,0,,Prepare yourself!{Be prepared}
 Dialogue: 0,0:07:32.96,0:07:35.06,Dialogue,,0,0,0,,So suddenly...
 Dialogue: 0,0:07:36.33,0:07:38.45,Dialogue,,0,0,0,,I wanted you to meet Nanoka.
-Dialogue: 0,0:07:38.45,0:07:39.84,Dialogue,,0,0,0,,You remember her, don't you?
+Dialogue: 0,0:07:38.45,0:07:39.84,Dialogue,,0,0,0,,You remember her, don’t you?
 Dialogue: 0,0:07:39.84,0:07:41.18,Dialogue,,0,0,0,,Yes, I do.
 Dialogue: 0,0:07:41.84,0:07:44.68,Dialogue,,0,0,0,,I do remember her, though I don’t remember her face.
 Dialogue: 0,0:07:44.68,0:07:46.28,Dialogue,,0,0,0,,She’s a freshman now.
-Dialogue: 0,0:07:46.28,0:07:49.36,Dialogue,,0,0,0,,Fifteen years old. She's so cute!
+Dialogue: 0,0:07:46.28,0:07:49.36,Dialogue,,0,0,0,,Fifteen years old. She’s so cute!
 Dialogue: 0,0:07:49.75,0:07:52.86,Dialogue,,0,0,0,,Lots of students commute long-distance nowadays.
 Dialogue: 0,0:07:53.28,0:07:56.08,Dialogue,,0,0,0,,Her commute time will be reduced from two hours to one!{}
 Dialogue: 0,0:07:56.08,0:07:58.29,Dialogue,,0,0,0,,Isn’t it reasonable to let her stay here?
-Dialogue: 0,0:07:59.51,0:08:01.68,Dialogue,,0,0,0,,You're not trying to get back together with Mom
+Dialogue: 0,0:07:59.51,0:08:01.68,Dialogue,,0,0,0,,You’re not trying to get back together with Mom
 Dialogue: 0,0:08:01.68,0:08:04.54,Dialogue,,0,0,0,,just because your lover{mistress} dumped you, are you?
 Dialogue: 0,0:08:06.67,0:08:08.09,Dialogue,,0,0,0,,That’s not how it is!
 Dialogue: 0,0:08:08.50,0:08:09.34,Dialogue,,0,0,0,,It’s not?
@@ -381,9 +381,9 @@ Dialogue: 0,0:08:38.47,0:08:40.99,Dialogue,,0,0,0,,Please introduce her to me!{m
 Dialogue: 0,0:08:44.53,0:08:47.20,Dialogue,,0,0,0,,What the hell are you thinking?
 Dialogue: 0,0:08:47.20,0:08:52.36,Dialogue,,0,0,0,,Why were you hiding something so important from me?!
 Dialogue: 0,0:08:52.36,0:08:54.42,Dialogue,,0,0,0,,I wasn’t really hiding it.
-Dialogue: 0,0:08:54.42,0:08:56.26,Dialogue,,0,0,0,,We simply don't even know each other.
+Dialogue: 0,0:08:54.42,0:08:56.26,Dialogue,,0,0,0,,We simply don’t even know each other.
 Dialogue: 0,0:08:57.23,0:08:58.96,Dialogue,,0,0,0,,My parents are divorced.
-Dialogue: 0,0:08:58.96,0:09:01.98,Dialogue,,0,0,0,,Even though I've met my mom, who took custody of her, a few times,{drop who took custody of her?}
+Dialogue: 0,0:08:58.96,0:09:01.98,Dialogue,,0,0,0,,Even though I’ve met my mom, who took custody of her, a few times,{drop who took custody of her?}
 Dialogue: 0,0:09:01.98,0:09:04.02,Dialogue,,0,0,0,,I haven’t seen my sister at all.
 Dialogue: 0,0:09:06.07,0:09:07.77,Dialogue,,0,0,0,,You have a customer!
 Dialogue: 0,0:09:14.67,0:09:17.49,Dialogue,,0,0,0,,Sorry to keep you waiting.
@@ -392,7 +392,7 @@ Dialogue: 0,0:09:29.89,0:09:32.46,Dialogue,,0,0,0,,What kind of man are you inte
 Dialogue: 0,0:09:32.87,0:09:34.44,Dialogue,,0,0,0,,Don’t be mad.
 Dialogue: 0,0:09:34.44,0:09:37.81,Dialogue,,0,0,0,,I’m sorry for bothering you at work.{disturbing}
 Dialogue: 0,0:09:38.67,0:09:40.45,Dialogue,,0,0,0,,It’s all right.
-Dialogue: 0,0:09:40.45,0:09:42.22,Dialogue,,0,0,0,,I'm on lunch break anyway.
+Dialogue: 0,0:09:40.45,0:09:42.22,Dialogue,,0,0,0,,I’m on lunch break anyway.
 Dialogue: 0,0:09:42.71,0:09:45.85,Dialogue,,0,0,0,,I came to get the keys to my place{room} back.{get back the keys to my place | retrieve the keys}
 Dialogue: 0,0:09:46.91,0:09:51.34,Dialogue,,0,0,0,,I felt it would be more appropriate to do this during the day.{better}
 Dialogue: 0,0:09:54.01,0:09:55.76,Dialogue,,0,0,0,,Just a minute.
@@ -403,19 +403,19 @@ Dialogue: 0,0:10:20.67,0:10:22.02,Dialogue,,0,0,0,,Sorry.
 Dialogue: 0,0:10:22.02,0:10:23.04,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:10:23.71,0:10:26.19,Dialogue,,0,0,0,,You just accepted it so easily.
 Dialogue: 0,0:10:27.11,0:10:28.54,Dialogue,,0,0,0,,I just thought,
-Dialogue: 0,0:10:28.54,0:10:32.70,Dialogue,,0,0,0,,“Oh, I didn't mean that much to to you”.
+Dialogue: 0,0:10:28.54,0:10:32.70,Dialogue,,0,0,0,,“Oh, I didn’t mean that much to to you”.
 Dialogue: 0,0:10:36.57,0:10:42.48,Dialogue,,0,0,0,,Koshiro, have you ever loved anyone from the bottom of your heart?
 Dialogue: 0,0:11:00.93,0:11:06.69,Dialogue - Italic,,0,0,0,,Koshiro, have you ever loved anyone from the bottom of your heart?
 Dialogue: 0,0:11:12.29,0:11:15.54,Dialogue - Italic,,0,0,0,,What should I have done, then?
 Dialogue: 0,0:11:17.19,0:11:20.76,Dialogue,,0,0,0,,There are three events planned to happen during the party,
-Dialogue: 0,0:11:20.76,0:11:24.53,Dialogue,,0,0,0,,so we'd like the food to be served at the right times.{this is ugly and I dislike it}{so please bring the food at the proper times}
+Dialogue: 0,0:11:20.76,0:11:24.53,Dialogue,,0,0,0,,so we’d like the food to be served at the right times.{this is ugly and I dislike it}{so please bring the food at the proper times}
 Dialogue: 0,0:11:25.09,0:11:27.91,Dialogue,,0,0,0,,Next, concerning the audio equipment...
 Dialogue: 0,0:11:28.77,0:11:31.14,Dialogue,,0,0,0,,Thank you for your business.{Thank you for doing business with us.}{hmmm}
 Dialogue: 0,0:11:31.14,0:11:32.37,Dialogue,,0,0,0,,Thank you.
 Dialogue: 0,0:11:33.41,0:11:35.08,Dialogue,,0,0,0,,Oh, right.
 Dialogue: 0,0:11:36.33,0:11:39.63,Dialogue,,0,0,0,,Here. These are for the place next door.
 Dialogue: 0,0:11:39.63,0:11:42.84,Dialogue,,0,0,0,,Oh, thank you very much.  Don’t mind if I do.
-Dialogue: 0,0:11:45.47,0:11:50.38,Dialogue - Italic,,0,0,0,,What do I say to a woman who says she's in love with someone else?
+Dialogue: 0,0:11:45.47,0:11:50.38,Dialogue - Italic,,0,0,0,,What do I say to a woman who says she’s in love with someone else?
 Dialogue: 0,0:11:50.89,0:11:53.33,Dialogue - Italic,,0,0,0,,What should I have done?
 Dialogue: 0,0:11:55.85,0:11:57.77,Dialogue,,0,0,0,,What a great view.
 Dialogue: 0,0:11:57.77,0:12:00.31,Dialogue,,0,0,0,,This place kind of hurts for a bachelor.
@@ -429,7 +429,7 @@ Dialogue: 0,0:12:26.09,0:12:28.75,Dialogue,,0,0,0,,Why don’t you try asking th
 Dialogue: 0,0:12:28.75,0:12:30.56,Dialogue,,0,0,0,,Maybe you two will get back together.
 Dialogue: 0,0:12:30.56,0:12:33.56,Dialogue,,0,0,0,,Who the hell’d want to get back together with—
 Dialogue: 0,0:12:48.28,0:12:51.30,Dialogue,,0,0,0,,Ah! Hello.
-Comment: 0,0:12:55.25,0:12:56.62,Dialogue,,0,0,0,,Ummm...{r1 has "excuse me". This is probably a prominent enough vocal tick that it should get a line, but I don't like either way of handling it.}
+Comment: 0,0:12:55.25,0:12:56.62,Dialogue,,0,0,0,,Ummm...{r1 has "excuse me". This is probably a prominent enough vocal tick that it should get a line, but I don’t like either way of handling it.}
 Dialogue: 0,0:12:56.62,0:12:58.13,Dialogue,,0,0,0,,Do you remember me?
 Dialogue: 0,0:12:58.73,0:13:00.00,Dialogue,,0,0,0,,Yesterday morning.
 Dialogue: 0,0:13:01.87,0:13:04.11,Dialogue,,0,0,0,,Yeah, I remember!
@@ -463,8 +463,8 @@ Dialogue: 0,0:15:11.83,0:15:14.28,Dialogue,,0,0,0,,Wow! Thank you very much.
 Dialogue: 0,0:15:20.67,0:15:22.50,Dialogue,,0,0,0,,I’m sorry.
 Dialogue: 0,0:15:24.29,0:15:26.32,Dialogue,,0,0,0,,It must be boring to be with me.
 Dialogue: 0,0:15:27.17,0:15:28.54,Dialogue,,0,0,0,,Not at all.
-Dialogue: 0,0:15:31.17,0:15:33.24,Dialogue,,0,0,0,,Don’t you have a boyfriend?{jesus fuckstack, a question out of left field...(although I guess it makes some sense considering what's on his mind at the moment.)}
-Dialogue: 0,0:15:33.97,0:15:37.23,Dialogue,,0,0,0,,I just got rejected by someone.{"I just broke up with him." Well, it's later revealed that she wasn't actually going out with him, so this translation is inappropriate. At the same time, r1's "someone just broke my heart" sounds srsly melodramatic and somewhat self-pitying which, while not necessarily out of place for this type of thing, just doesn't seem to fit her mood about it.}{What she's literally saying seems to be something very vague and along the lines of "ending it rudely" -> atashi... shitsurei shita bakari de}
+Dialogue: 0,0:15:31.17,0:15:33.24,Dialogue,,0,0,0,,Don’t you have a boyfriend?{jesus fuckstack, a question out of left field...(although I guess it makes some sense considering what’s on his mind at the moment.)}
+Dialogue: 0,0:15:33.97,0:15:37.23,Dialogue,,0,0,0,,I just got rejected by someone.{"I just broke up with him." Well, it’s later revealed that she wasn’t actually going out with him, so this translation is inappropriate. At the same time, r1’s "someone just broke my heart" sounds srsly melodramatic and somewhat self-pitying which, while not necessarily out of place for this type of thing, just doesn’t seem to fit her mood about it.}{What she’s literally saying seems to be something very vague and along the lines of "ending it rudely" -> atashi... shitsurei shita bakari de}
 Dialogue: 0,0:15:48.25,0:15:50.83,Dialogue,,0,0,0,,Wow! It’s so beautiful!
 Dialogue: 0,0:16:02.45,0:16:03.41,Dialogue,,0,0,0,,This...
 Dialogue: 0,0:16:07.52,0:16:10.51,Dialogue,,0,0,0,,I received this during my junior high graduation...{given the gap between the sentences, there really needed to be a sign of continuation here}
@@ -472,12 +472,12 @@ Dialogue: 0,0:16:11.33,0:16:12.86,Dialogue,,0,0,0,,From the person I liked.{"som
 Dialogue: 0,0:16:13.85,0:16:16.87,Dialogue,,0,0,0,,But it wasn’t his second button.
 Dialogue: 0,0:16:13.85,0:16:16.87,TL Note,,0,0,0,,In Japan, it is a tradition upon graduation to give the second button from your school uniform to the girl you like.{In Japan it is traditional upon graduating to give the second button from your school uniform to a girl you like.}
 Dialogue: 0,0:16:18.31,0:16:20.63,Dialogue,,0,0,0,,I liked him ever since I was a first-year.{it wants to be changed but idk how}
-Dialogue: 0,0:16:21.89,0:16:24.77,Dialogue,,0,0,0,,He wasn't really handsome or anything,
+Dialogue: 0,0:16:21.89,0:16:24.77,Dialogue,,0,0,0,,He wasn’t really handsome or anything,
 Dialogue: 0,0:16:24.77,0:16:26.25,Dialogue,,0,0,0,,but I really liked him.
 Dialogue: 0,0:16:28.85,0:16:31.04,Dialogue,,0,0,0,,I gathered up all my courage and confessed to him, but...
 Dialogue: 0,0:16:31.91,0:16:34.36,Dialogue,,0,0,0,,He said he’s going out with a junior.
 Dialogue: 0,0:16:35.15,0:16:37.01,Dialogue,,0,0,0,,I didn’t know about it at all.{completely unaware?}
-Dialogue: 0,0:16:40.69,0:16:43.38,Dialogue,,0,0,0,,If the window could be opened,\NI would throw it out from here.{throw it away}{"out from here" just sounds hella clunk}
+Dialogue: 0,0:16:40.69,0:16:43.38,Dialogue,,0,0,0,,If the window could be opened,\NI would throw it away from here.{throw it away}
 Dialogue: 0,0:16:45.29,0:16:46.69,Dialogue,,0,0,0,,What a shame.
 Dialogue: 0,0:16:52.41,0:16:54.28,Dialogue,,0,0,0,,Don’t say you’ll throw it away.
 Dialogue: 0,0:16:56.95,0:16:58.78,Dialogue,,0,0,0,,You still like him, don’t you?
@@ -486,16 +486,16 @@ Dialogue: 0,0:17:04.27,0:17:05.29,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:17:06.71,0:17:08.25,Dialogue,,0,0,0,,I have to forget about him.
 Dialogue: 0,0:17:08.87,0:17:10.97,Dialogue,,0,0,0,,He has someone that he’s going out with.
 Dialogue: 0,0:17:12.23,0:17:14.63,Dialogue,,0,0,0,,We go to different schools now.
-Dialogue: 0,0:17:15.21,0:17:16.60,Dialogue,,0,0,0,,I can't even see him anymore.
+Dialogue: 0,0:17:15.21,0:17:16.60,Dialogue,,0,0,0,,I can’t even see him anymore.
 Dialogue: 0,0:17:18.41,0:17:19.68,Dialogue,,0,0,0,,So why?
 Dialogue: 0,0:17:20.75,0:17:22.71,Dialogue,,0,0,0,,Why would you say that?
-Dialogue: 0,0:17:24.99,0:17:26.60,Dialogue,,0,0,0,,You’re so straightforward.{r1 says pure, can't get a lock on the word he's using. Perhaps つながり《繋がり》connection; link; relationship ?}
+Dialogue: 0,0:17:24.99,0:17:26.60,Dialogue,,0,0,0,,You’re so straightforward.{r1 says pure, can’t get a lock on the word he’s using. Perhaps つながり《繋がり》connection; link; relationship ?}
 Dialogue: 0,0:17:28.69,0:17:30.59,Dialogue,,0,0,0,,How is it...
 Dialogue: 0,0:17:32.47,0:17:38.87,Dialogue,,0,0,0,,How can you love someone so frankly and honestly?
 Dialogue: 0,0:17:41.95,0:17:42.87,Dialogue,,0,0,0,,I...
 Dialogue: 0,0:17:46.75,0:17:48.38,Dialogue,,0,0,0,,I just got dumped too.
 Dialogue: 0,0:17:51.61,0:17:53.85,Dialogue,,0,0,0,,Well, it’s rather different than your situation.
-Dialogue: 0,0:17:54.53,0:17:56.54,Dialogue,,0,0,0,,My feelings totally cooled off.{similar to the phrasing earlier, though I don't really like this... a more conventional "i haet her" would read less awkwardly}
+Dialogue: 0,0:17:54.53,0:17:56.54,Dialogue,,0,0,0,,My feelings totally cooled off.{similar to the phrasing earlier, though I don’t really like this... a more conventional "i haet her" would read less awkwardly}
 Dialogue: 0,0:17:57.39,0:18:05.01,Dialogue,,0,0,0,,I don’t really know if I ever even loved her.
 Dialogue: 0,0:18:08.37,0:18:09.54,Dialogue,,0,0,0,,But...
 Dialogue: 0,0:18:10.77,0:18:11.98,Dialogue,,0,0,0,,That’s why...
@@ -505,7 +505,7 @@ Dialogue: 0,0:18:25.41,0:18:26.42,Dialogue,,0,0,0,,Huh?
 Dialogue: 0,0:18:30.65,0:18:32.13,Dialogue,,0,0,0,,Why am I...?
 Dialogue: 0,0:19:27.13,0:19:28.64,Dialogue,,0,0,0,,I was so surprised.
 Dialogue: 0,0:19:30.15,0:19:31.27,Dialogue,,0,0,0,,The cherry blossoms.
-Dialogue: 0,0:19:32.67,0:19:36.94,Dialogue,,0,0,0,,Since I got rejected, I've been walking with my head down,
+Dialogue: 0,0:19:32.67,0:19:36.94,Dialogue,,0,0,0,,Since I got rejected, I’ve been walking with my head down,
 Dialogue: 0,0:19:36.94,0:19:40.11,Dialogue,,0,0,0,,so I didn’t notice the cherry blossoms at all.{hmm}
 Dialogue: 0,0:19:41.53,0:19:44.71,Dialogue,,0,0,0,,When you stopped me at the train station,
 Dialogue: 0,0:19:44.71,0:19:46.53,Dialogue,,0,0,0,,I noticed them for the first time.
@@ -536,7 +536,7 @@ Dialogue: 0,0:21:16.54,0:21:18.75,Dialogue,,0,0,0,,Nanoka, what do you want?
 Dialogue: 0,0:21:18.75,0:21:20.55,Dialogue,,0,0,0,,Wait...
 Dialogue: 0,0:21:20.55,0:21:21.71,Dialogue,,0,0,0,,Dad...
 Dialogue: 0,0:21:25.77,0:21:27.17,Dialogue,,0,0,0,,Brother? {Onii-chan}
-Dialogue: 0,0:21:29.43,0:21:30.50,Dialogue - Italic,,0,0,0,,That's right.
+Dialogue: 0,0:21:29.43,0:21:30.50,Dialogue - Italic,,0,0,0,,That’s right.
 Dialogue: 0,0:21:32.06,0:21:33.28,Dialogue - Italic,,0,0,0,,I have...
 Dialogue: 0,0:21:35.57,0:21:37.28,Dialogue - Italic,,0,0,0,,A little sister.
 Dialogue: 0,0:00:11.41,0:00:15.72,OP - Eng,,0,0,0,,{\fad(80,80)}I feel this way for the first time.
@@ -552,8 +552,8 @@ Dialogue: 0,0:00:59.34,0:01:04.00,OP - Eng,,0,0,0,,{\fad(80,80)}Is it okay for m
 Dialogue: 0,0:01:04.64,0:01:08.96,OP - Eng,,0,0,0,,{\fad(80,80)}Or...
 Dialogue: 0,0:01:08.96,0:01:14.01,OP - Eng,,0,0,0,,{\fad(80,80)}My hesitating heart
 Dialogue: 0,0:01:14.01,0:01:19.01,OP - Eng,,0,0,0,,{\fad(80,80)}puts on the brakes.
-Dialogue: 0,0:01:19.51,0:01:22.14,OP - Eng,,0,0,0,,{\fad(80,80)}It's so painful,
-Dialogue: 0,0:01:22.50,0:01:33.80,OP - Eng,,0,0,0,,{\fad(80,80)}I can't breathe.
+Dialogue: 0,0:01:19.51,0:01:22.14,OP - Eng,,0,0,0,,{\fad(80,80)}It’s so painful,
+Dialogue: 0,0:01:22.50,0:01:33.80,OP - Eng,,0,0,0,,{\fad(80,80)}I can’t breathe.
 Dialogue: 0,0:00:11.41,0:00:15.72,OP - Jpr,,0,0,0,,{\fad(80,80)}hajimete no kimochi
 Dialogue: 0,0:00:16.30,0:00:20.62,OP - Jpr,,0,0,0,,{\fad(80,80)}shonbori no mune ni
 Dialogue: 0,0:00:20.62,0:00:29.38,OP - Jpr,,0,0,0,,{\fad(80,80)}potto nagerareta hidamarine
@@ -598,7 +598,7 @@ Dialogue: 0,0:22:35.15,0:22:40.76,ED - Eng,,0,0,0,,{\fad(80,80)}We understand ea
 Dialogue: 0,0:22:40.76,0:22:45.13,ED - Eng,,0,0,0,,{\fad(80,80)}without words.{longer lines perhaps?}
 Dialogue: 0,0:22:46.29,0:22:51.59,ED - Eng,,0,0,0,,{\fad(80,80)}We just smile and hope
 Dialogue: 0,0:22:51.64,0:22:56.44,ED - Eng,,0,0,0,,{\fad(80,80)}to the peaceful sky.
-Dialogue: 0,0:22:57.31,0:23:03.69,ED - Eng,,0,0,0,,{\fad(80,80)}Hope that we'll see each other again tomorrow
+Dialogue: 0,0:22:57.31,0:23:03.69,ED - Eng,,0,0,0,,{\fad(80,80)}Hope that we’ll see each other again tomorrow
 Dialogue: 0,0:23:04.86,0:23:11.05,ED - Eng,,0,0,0,,{\fad(80,80)}to the peaceful sky.
 Dialogue: 0,0:21:51.10,0:21:55.24,ED - Jpr,,0,0,0,,{\fad(80,80)}yasashii yume ga
 Dialogue: 0,0:21:56.11,0:22:01.49,ED - Jpr,,0,0,0,,{\fad(80,80)}sotto mune no haru wo yobi

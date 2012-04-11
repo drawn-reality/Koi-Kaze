@@ -13,15 +13,15 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 440
+Scroll Position: 343
 Script Updated By: drawn-reality gGmbH
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608]_track2_jpn.wav
 Video File: Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 30506
+Video Position: 12788
 Automation Scripts: ~..\ASSGrad\assgrad.lua|~..\Aegisub-Motion\Aegisub-Motion.lua
-Active Line: 463
+Active Line: 353
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -316,85 +316,85 @@ Dialogue: 0,0:16:32.97,0:16:34.26,Signs,,0,0,0,,{\bord0.3\fs16\fscx65\fax-0.15\3
 Dialogue: 0,0:16:32.97,0:16:34.26,Signs,,0,0,0,,{\bord0.3\fs16\fscx65\fax-0.18\3c&H313336&\c&H313336&\frz9\fry10\pos(112,330)}suspicious person, call 110
 Dialogue: 0,0:01:59.01,0:02:00.80,Dialogue - Italic,,0,0,0,,The town I was born in.
 Dialogue: 0,0:02:05.43,0:02:07.19,Dialogue - Italic,,0,0,0,,The house I was born in.
-Dialogue: 0,0:02:09.94,0:02:13.07,Dialogue - Italic,,0,0,0,,My father and older brother.{not onii-chan because it's not a direct address}
-Dialogue: 0,0:02:14.94,0:02:17.11,Dialogue - Italic,,0,0,0,,It's like I just met them for the first time,
-Dialogue: 0,0:02:17.74,0:02:19.78,Dialogue - Italic,,0,0,0,,but they're very nostalgic people.
+Dialogue: 0,0:02:09.94,0:02:13.07,Dialogue - Italic,,0,0,0,,My father and older brother.{not onii-chan because it's not a direct address}{big brother}{OGM 1984 WER AL GONNA DIE}
+Dialogue: 0,0:02:14.94,0:02:17.11,Dialogue - Italic,,0,0,0,,It's like I just met them for the first time---
+Dialogue: 0,0:02:17.74,0:02:19.78,Dialogue - Italic,,0,0,0,,but they're already very dear to me.{hurf blurf this turned out clunkier than anticipated.}
 Dialogue: 0,0:02:29.17,0:02:30.71,Dialogue,,0,0,0,,Good morning, Onii-chan!
 Dialogue: 0,0:02:42.35,0:02:43.55,Dialogue,,0,0,0,,Onii-chan!
 Dialogue: 0,0:02:46.27,0:02:48.48,Dialogue,,0,0,0,,Onii-chan, wait up!
 Dialogue: 0,0:02:51.85,0:02:53.11,Dialogue,,0,0,0,,I'm home.
-Dialogue: 0,0:02:55.15,0:02:56.86,Dialogue,,0,0,0,,Welcome back, Onii-chan.
+Dialogue: 0,0:02:55.15,0:02:57.07,Dialogue,,0,0,0,,Welcome back, Onii-chan.
 Dialogue: 0,0:03:04.83,0:03:06.83,Dialogue,,0,0,0,,Isn't this stew delicious?
 Comment: 0,0:03:04.83,0:03:06.99,TL Note,,0,0,0,,{\a6}nitsuke = japanese boiled and seasoned food{sugoi, we're doing another show about jp food names~}
 Dialogue: 0,0:03:06.99,0:03:07.91,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:03:07.91,0:03:09.66,Dialogue,,0,0,0,,My mother taught me how to make it.
+Dialogue: 0,0:03:07.91,0:03:09.66,Dialogue,,0,0,0,,My mother taught me how to make it.{``my mother'' sounds hella awkward like she's from a different family but on the other hand I guess it makes some sense since she really never knew these people so it is kind of like living with a different family almost but on the other other hand she opened this episode talking about how they're all family though on the other other other hand, maybe it's a subconcious thing because her father and mother are separated and not on good terms so AH FUCKIT}
 Dialogue: 0,0:03:17.46,0:03:18.13,Dialogue,,0,0,0,,Onii-chan!
 Dialogue: 0,0:03:18.13,0:03:19.26,Dialogue,,0,0,0,,Eh? {probably don't really need a line here}
-Dialogue: 0,0:03:20.05,0:03:21.80,Dialogue,,0,0,0,,Let's go to the amusement park together again!
+Dialogue: 0,0:03:20.05,0:03:21.80,Dialogue,,0,0,0,,Let's go to the amusement park again!{together implied by let's}
 Dialogue: 0,0:03:23.55,0:03:27.10,Dialogue - Italic,,0,0,0,,Somehow, everything looks like it's sparkling.
 Dialogue: 0,0:04:00.34,0:04:03.68,Dialogue,,0,0,0,,A younger sister...?
 Dialogue: 0,0:04:07.35,0:04:08.85,Dialogue,,0,0,0,,Good morning, Onii-chan!
-Dialogue: 0,0:04:12.14,0:04:13.31,Dialogue,,0,0,0,,Umm...
-Dialogue: 0,0:04:17.90,0:04:20.61,Dialogue,,0,0,0,,What do you usually do for lunch?
-Dialogue: 0,0:04:21.44,0:04:24.41,Dialogue,,0,0,0,,I made you lunch today.
-Comment: 0,0:04:21.44,0:04:24.53,TL Note,,0,0,0,,{\a6}bento = packed lunch
-Dialogue: 0,0:04:24.53,0:04:26.57,Dialogue,,0,0,0,,If it's all right with you, would you take it?
+Dialogue: 0,0:04:12.14,0:04:13.02,Dialogue,,0,0,0,,Umm...
+Dialogue: 0,0:04:18.02,0:04:20.61,Dialogue,,0,0,0,,What do you usually have for lunch?
+Dialogue: 0,0:04:21.44,0:04:24.41,Dialogue,,0,0,0,,I made you a boxed lunch today.{``lunch'', repetitve}
+Dialogue: 0,0:04:24.53,0:04:26.57,Dialogue,,0,0,0,,If it's all right with you, will you take it?{if you don't mind}
 Dialogue: 0,0:04:30.16,0:04:31.33,Dialogue,,0,0,0,,Onii-chan?
 Dialogue: 0,0:04:35.63,0:04:37.04,Dialogue,,0,0,0,,Onii-chan!
-Dialogue: 0,0:04:37.29,0:04:38.92,Dialogue,,0,0,0,,Onii-chan...
-Dialogue: 0,0:04:50.56,0:04:52.56,Dialogue,,0,0,0,,Eh? And then?
-Dialogue: 0,0:04:53.06,0:04:54.94,Dialogue,,0,0,0,,He said he was anemic...
-Dialogue: 0,0:04:54.94,0:04:56.23,Dialogue,,0,0,0,,Is he sickly?
-Dialogue: 0,0:04:56.73,0:04:58.86,Dialogue,,0,0,0,,He's been looking kind of pale lately.
-Dialogue: 0,0:04:58.86,0:05:00.07,Dialogue,,0,0,0,,Hmm...
+Dialogue: 0,0:04:37.29,0:04:38.92,Dialogue,,0,0,0,,{\fad(0,200)}Onii-chan!
+Dialogue: 0,0:04:50.56,0:04:52.56,Dialogue,,0,0,0,,Really? And then what?
+Dialogue: 0,0:04:53.06,0:04:54.94,Dialogue,,0,0,0,,He claimed it was anemia.{i.e. he collapsed because of blood loss (probably via the nose, though not shown)}
+Dialogue: 0,0:04:54.94,0:04:56.23,Dialogue,,0,0,0,,Is he that frail?{からだよわいの？}{からだ heath; よわい weak; frail; delicate; tender; unskilled}{lol delicate}
+Dialogue: 0,0:04:56.73,0:04:58.86,Dialogue,,0,0,0,,He's been looking pretty pale lately.
+Dialogue: 0,0:04:58.86,0:05:00.07,Dialogue,,0,0,0,,I see.
 Dialogue: 0,0:05:00.73,0:05:01.82,Dialogue,,0,0,0,,I want to...
+Comment: 0,0:05:01.82,0:05:02.64,Dialogue,,0,0,0,,Yes?{does not sound inquisitive. at all.}
 Dialogue: 0,0:05:03.24,0:05:04.32,Dialogue,,0,0,0,,become...
-Dialogue: 0,0:05:06.53,0:05:08.24,Dialogue,,0,0,0,,closer to...
+Dialogue: 0,0:05:06.53,0:05:08.24,Dialogue,,0,0,0,,closer to...{FUCK ALL THESE NIGGERLIPSIS}
 Dialogue: 0,0:05:08.95,0:05:10.16,Dialogue,,0,0,0,,my brother.
 Dialogue: 0,0:05:11.16,0:05:12.62,Dialogue,,0,0,0,,You don't get along with him?
-Dialogue: 0,0:05:12.62,0:05:14.04,Dialogue,,0,0,0,,That's not it, but...
-Dialogue: 0,0:05:14.54,0:05:17.00,Dialogue,,0,0,0,,But it feels so awkward.
-Dialogue: 0,0:05:17.46,0:05:20.63,Dialogue,,0,0,0,,It can't be helped if he's twelve years older than you.
-Dialogue: 0,0:05:20.63,0:05:21.92,Dialogue,,0,0,0,,But... more...
-Dialogue: 0,0:05:22.63,0:05:24.59,Dialogue,,0,0,0,,since we're siblings after all.
-Dialogue: 0,0:05:38.56,0:05:42.69,Dialogue,,0,0,0,,The fire of envy is burning wildly within my heart...
-Dialogue: 0,0:05:42.69,0:05:44.44,Dialogue,,0,0,0,,That's just lovely.{"Thanks for the meal!" FUCK YOU GUYS IN THE ASS: 御馳走様 「ごちそうさま」2: used after hearing something lovey-dovey}
-Dialogue: 0,0:05:52.45,0:05:54.87,Dialogue,,0,0,0,,That idiot...!
+Dialogue: 0,0:05:12.62,0:05:14.04,Dialogue,,0,0,0,,It's not that,
+Dialogue: 0,0:05:14.54,0:05:17.00,Dialogue,,0,0,0,,but being around him feels so awkward.{long and overliberal ``translation'' :z}
+Dialogue: 0,0:05:17.46,0:05:20.63,Dialogue,,0,0,0,,That's just because he's\Ntwelve years older than you.{hmm}
+Dialogue: 0,0:05:20.63,0:05:21.92,Dialogue,,0,0,0,,But still...
+Dialogue: 0,0:05:22.63,0:05:24.59,Dialogue,,0,0,0,,We are siblings after all.
+Dialogue: 0,0:05:38.56,0:05:42.69,Dialogue,,0,0,0,,The fire of envy has set my heart ablaze.{it's funny because he says it so quietly}
+Dialogue: 0,0:05:42.69,0:05:44.44,Dialogue,,0,0,0,,How delightfully lovely.{``Thanks for the meal!'' FUCK YOU GUYS IN THE ASS: 御馳走様 「ごちそうさま」2: used after hearing something lovey-dovey}
+Dialogue: 0,0:05:52.45,0:05:54.87,Dialogue,,0,0,0,,That idiot!
 Dialogue: 0,0:06:13.56,0:06:16.27,Dialogue,,0,0,0,,Well, I guess I'll head home.
 Dialogue: 0,0:06:16.85,0:06:18.23,Dialogue,,0,0,0,,Good work.
 Dialogue: 0,0:06:18.23,0:06:20.35,Dialogue,,0,0,0,,You should hurry up and go home early too.
-Dialogue: 0,0:06:20.35,0:06:22.52,Dialogue,,0,0,0,,Isn't your cute little sister waiting?
-Dialogue: 0,0:06:22.52,0:06:24.73,Dialogue,,0,0,0,,That's why I don't want to...
+Dialogue: 0,0:06:20.35,0:06:22.69,Dialogue,,0,0,0,,Isn't your cute little sister waiting?
+Dialogue: 0,0:06:22.69,0:06:24.73,Dialogue,,0,0,0,,That's precisely why I don't want to.
 Dialogue: 0,0:06:24.73,0:06:28.03,Dialogue,,0,0,0,,Have her make you a meal full of love!
-Dialogue: 0,0:06:28.03,0:06:30.41,Dialogue,,0,0,0,,Like the bento from lunch!
+Dialogue: 0,0:06:28.03,0:06:30.41,Dialogue,,0,0,0,,Just like she did with your lunch!
 Dialogue: 0,0:06:30.41,0:06:31.53,Dialogue,,0,0,0,,Shut up!
 Dialogue: 0,0:06:33.33,0:06:36.45,Dialogue,,0,0,0,,There's nothing to worry about!
 Dialogue: 0,0:06:36.45,0:06:40.37,Dialogue,,0,0,0,,I'll take care of your membership entrance!
-Dialogue: 0,0:06:40.37,0:06:43.38,Dialogue,,0,0,0,,Umm, I'm not interested...
+Dialogue: 0,0:06:40.37,0:06:43.38,Dialogue,,0,0,0,,Um, I'm not interested.
 Dialogue: 0,0:06:54.14,0:06:55.68,Dialogue,,0,0,0,,You are...
 Dialogue: 0,0:07:00.73,0:07:01.69,Dialogue,,0,0,0,,Glasses...
 Dialogue: 0,0:07:01.69,0:07:02.73,Dialogue,,0,0,0,,Glasses...?
-Dialogue: 0,0:07:08.65,0:07:10.15,Dialogue,,0,0,0,,Onii-chan!
+Dialogue: 0,0:07:08.78,0:07:10.15,Dialogue,,0,0,0,,Onii-chan!
 Dialogue: 0,0:07:13.32,0:07:14.45,Dialogue,,0,0,0,,You!
 Dialogue: 0,0:07:15.74,0:07:16.83,Dialogue,,0,0,0,,I came to visit.
-Dialogue: 0,0:07:16.83,0:07:18.00,Dialogue,,0,0,0,,So she says.
+Dialogue: 0,0:07:16.83,0:07:18.00,Dialogue,,0,0,0,,So she says.{It seems so.}
 Dialogue: 0,0:07:20.54,0:07:22.50,Dialogue,,0,0,0,,Why don't we all go out and eat together?
 Dialogue: 0,0:07:22.50,0:07:23.92,Dialogue,,0,0,0,,Hurry up and finish your work.
 Dialogue: 0,0:07:24.34,0:07:27.42,Dialogue,,0,0,0,,Dad said he would be late today so we should go out and eat.
-Dialogue: 0,0:07:27.42,0:07:29.97,Dialogue,,0,0,0,,Onii-chan, what would you like to eat...
-Dialogue: 0,0:07:34.05,0:07:36.26,Dialogue,,0,0,0,,Hey! Koushiro!
-Dialogue: 0,0:07:45.23,0:07:48.40,Dialogue,,0,0,0,,Idiot! Why did you come all the way here?!
+Dialogue: 0,0:07:27.42,0:07:29.97,Dialogue,,0,0,0,,Onii-chan, what would you like to eat---
+Dialogue: 0,0:07:34.05,0:07:36.26,Dialogue,,0,0,0,,Hey, Koushiro!
+Dialogue: 0,0:07:45.27,0:07:48.11,Dialogue,,0,0,0,,Idiot! Why did you come all the way here?!
 Dialogue: 0,0:07:50.15,0:07:51.40,Dialogue,,0,0,0,,Because...
 Dialogue: 0,0:07:51.40,0:07:56.12,Dialogue,,0,0,0,,Listen, I don't want you to ever come to my office again!
-Dialogue: 0,0:07:56.12,0:07:57.28,Dialogue,,0,0,0,,Understand?
-Dialogue: 0,0:07:58.04,0:07:59.20,Dialogue,,0,0,0,,Onii-chan...
-Dialogue: 0,0:08:00.54,0:08:01.91,Dialogue,,0,0,0,,Did I...
-Dialogue: 0,0:08:15.14,0:08:16.39,Dialogue,,0,0,0,,Hey, Onii-chan...
-Dialogue: 0,0:08:16.39,0:08:19.77,Dialogue,,0,0,0,,And stop calling me "Onii-chan"!{quotes necessary?}
+Dialogue: 0,0:07:56.12,0:07:56.99,Dialogue,,0,0,0,,Understand?
+Dialogue: 0,0:07:58.04,0:07:59.20,Dialogue,,0,0,0,,Onii-chan,
+Dialogue: 0,0:08:00.54,0:08:01.50,Dialogue,,0,0,0,,did I...
+Dialogue: 0,0:08:15.14,0:08:16.39,Dialogue,,0,0,0,,Hey, Onii-chan---
+Dialogue: 0,0:08:16.39,0:08:19.77,Dialogue,,0,0,0,,Enough! Stop calling me ``Onii-chan''!
 Dialogue: 0,0:08:23.14,0:08:24.35,Dialogue,,0,0,0,,Then...
 Dialogue: 0,0:08:26.56,0:08:28.61,Dialogue,,0,0,0,,Then what should I call you?
-Dialogue: 0,0:08:47.84,0:08:49.04,Dialogue,,0,0,0,,Hey...
-Dialogue: 0,0:08:53.34,0:08:58.26,Dialogue,,0,0,0,,It was a chance to become close to a female high school student lawfully.
+Dialogue: 0,0:08:47.84,0:08:49.04,Dialogue,,0,0,0,,Hey!
+Dialogue: 0,0:08:53.34,0:08:58.26,Dialogue,,0,0,0,,That was my big chance to legally become acquainted with a high school girl.
 Dialogue: 0,0:09:57.95,0:09:59.03,Dialogue,,0,0,0,,He was such a jerk!
 Dialogue: 0,0:10:01.03,0:10:03.20,Dialogue,,0,0,0,,He went off to work early by himself.
 Dialogue: 0,0:10:03.20,0:10:07.08,Dialogue,,0,0,0,,Didn't you say you wanted to be closer yesterday?

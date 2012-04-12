@@ -5,14 +5,14 @@ Title: Koi Kaze - Chidori's Judgement - 01
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-Scroll Position: 0
-Active Line: 7
+Scroll Position: 1
+Active Line: 8
 PlayResX: 712
 PlayResY: 476
 Video File: Koi_Kaze_-_Ex02_10bit_Raw_v3_[99AB5613].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 64
+Video Position: 145
 Last Style Storage: Koi Kaze L
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ex02_10bit_Raw_v3_[99AB5613].mkv
 Collisions: Normal
@@ -32,7 +32,7 @@ Dialogue: 0,0:00:01.56,0:00:01.60,Preview,,0,0,0,,{\pos(360,460)\fs80\clip(m 334
 Dialogue: 0,0:00:01.60,0:00:01.64,Preview,,0,0,0,,{\pos(360,460)\fs80\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}Chidori's Judgement
 Dialogue: 0,0:00:01.64,0:00:02.14,Preview,,0,0,0,,{\pos(360,460)\fs80}Chidori's Judgement
 Dialogue: 0,0:00:02.64,0:00:06.02,Dialogue,,0,0,0,,I do not intend to abuse my\Nposition as a marriage consultant!{my position as a marriage consultant}
-Dialogue: 0,0:00:06.02,0:00:11.99,Dialogue,,0,0,0,,I just want to honestly and lawfully get to know some high school girls!
+Dialogue: 0,0:00:06.02,0:00:11.99,Dialogue,,0,0,0,,I just want to honestly and legally get to know some high school girls!{s/honestly/guilelessly/ ?}
 Dialogue: 1,0:00:12.15,0:00:13.53,Preview,,0,0,0,,{\pos(356,46)\bord1\blur2\fs48\iclip(254,3,461,50)\t(27,905,\iclip(461,3,461,50))}Hide his glasses
 Dialogue: 0,0:00:12.15,0:00:13.53,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(358,50)\fs48\iclip(254,3,461,50)\t(27,905,\iclip(461,3,461,50))}Hide his glasses
 Dialogue: 0,0:00:12.45,0:00:13.53,Dialogue,,0,0,0,,Hide his glasses as punishment!{Your glasses will be hidden as punishment!}

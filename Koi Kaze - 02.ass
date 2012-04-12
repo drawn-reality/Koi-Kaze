@@ -13,16 +13,16 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 18
+Scroll Position: 383
 Script Updated By: drawn-reality gGmbH
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608]_track2_jpn.wav
 Video File: Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 20393
+Video Position: 23732
 Automation Scripts: ~..\ASSGrad\assgrad.lua|~..\Aegisub-Motion\Aegisub-Motion.lua
 Keyframes File: Scenechange_Keyframes\XVID_Keyframes_Koi_Kaze_-_Ep02_10bit_Raw_v3.pass
-Active Line: 36
+Active Line: 39
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -349,7 +349,7 @@ Dialogue: 0,0:04:54.94,0:04:56.23,Dialogue,,0,0,0,,Is he that frail?{からだ�
 Dialogue: 0,0:04:56.73,0:04:58.86,Dialogue,,0,0,0,,He’s been looking pretty pale lately.
 Dialogue: 0,0:04:58.86,0:05:00.07,Dialogue,,0,0,0,,I see.
 Dialogue: 0,0:05:00.73,0:05:01.82,Dialogue,,0,0,0,,I want to...
-Comment: 0,0:05:01.82,0:05:02.64,Dialogue,,0,0,0,,Yes?{does not sound inquisitive. at all.}
+Comment: 0,0:05:01.82,0:05:02.65,Dialogue,,0,0,0,,Yes?{does not sound inquisitive. at all.}
 Dialogue: 0,0:05:03.24,0:05:04.32,Dialogue,,0,0,0,,become...
 Dialogue: 0,0:05:06.53,0:05:08.24,Dialogue,,0,0,0,,closer to...{FUCK ALL THESE NIGGERLIPSIS}
 Dialogue: 0,0:05:08.95,0:05:10.16,Dialogue,,0,0,0,,my brother.
@@ -430,12 +430,12 @@ Dialogue: 0,0:11:53.94,0:11:58.15,Dialogue - Italic,,0,0,0,,I had forgotten abou
 Dialogue: 0,0:12:00.15,0:12:01.86,Dialogue - Italic,,0,0,0,,Damn it!
 Dialogue: 0,0:12:21.34,0:12:22.76,Dialogue,,0,0,0,,It’s so sweet!
 Dialogue: 0,0:12:23.13,0:12:24.89,Dialogue,,0,0,0,,This is so good!
-Dialogue: 0,0:12:25.13,0:12:26.10,Dialogue,,0,0,0,,Isn’t it, isn’t it?{I KNOW RIGHT}
+Dialogue: 0,0:12:25.14,0:12:26.10,Dialogue,,0,0,0,,Isn’t it, isn’t it?{I KNOW RIGHT}
 Dialogue: 0,0:12:26.10,0:12:29.10,Dialogue,,0,0,0,,Chocolate caramel ice cream is definitely the best!
 Dialogue: 0,0:12:29.10,0:12:30.02,Dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:12:30.93,0:12:35.40,Dialogue,,0,0,0,,Nanoka, you don’t really know the shops in this area yet, do you?{possible setup for her not knowing the area and ending up in Rapeville, Back Alley Japland later?}
-Dialogue: 0,0:12:35.40,0:12:36.92,Dialogue,,0,0,0,,Let’s go shopping together next time.
-Dialogue: 0,0:12:37.34,0:12:39.19,Dialogue,,0,0,0,,I’ll show you around!
+Dialogue: 0,0:12:35.40,0:12:36.90,Dialogue,,0,0,0,,Let’s go shopping together next time.
+Dialogue: 0,0:12:37.31,0:12:39.19,Dialogue,,0,0,0,,I’ll show you around!
 Dialogue: 0,0:12:39.19,0:12:39.98,Dialogue,,0,0,0,,Yeah!
 Dialogue: 0,0:12:39.98,0:12:41.36,Dialogue,,0,0,0,,Hey, Futaba-chan!{alternately, HEY 2CH}
 Dialogue: 0,0:12:41.86,0:12:43.57,Dialogue,,0,0,0,,What’s up?
@@ -459,7 +459,7 @@ Dialogue: 0,0:13:53.93,0:13:56.89,Dialogue,,0,0,0,,I’d... I’d...
 Dialogue: 0,0:14:00.56,0:14:03.11,Dialogue,,0,0,0,,You’re overreacting.
 Dialogue: 0,0:14:10.53,0:14:12.28,Dialogue,,0,0,0,,Ah! I sang a lot!
 Dialogue: 0,0:14:12.28,0:14:13.29,Dialogue,,0,0,0,,It was so much fun!
-Dialogue: 0,0:14:13.29,0:14:14.93,Dialogue,,0,0,0,,I feel so refreshed.
+Dialogue: 0,0:14:13.29,0:14:14.91,Dialogue,,0,0,0,,I feel so refreshed.
 Dialogue: 0,0:14:15.58,0:14:16.79,Dialogue,,0,0,0,,I know, right?
 Dialogue: 0,0:14:23.46,0:14:25.80,Dialogue,,0,0,0,,It’s gotten kind of late, huh?
 Dialogue: 0,0:14:25.80,0:14:27.72,Dialogue,,0,0,0,,Will you be okay, Nanoka?
@@ -476,11 +476,11 @@ Dialogue: 0,0:16:14.66,0:16:16.53,Dialogue,,0,0,0,,Why did you stay out this lat
 Dialogue: 0,0:16:18.66,0:16:20.58,Dialogue,,0,0,0,,Um, I mean...
 Dialogue: 0,0:16:23.46,0:16:24.71,Dialogue,,0,0,0,,Where are you right now?
 Dialogue: 0,0:16:25.54,0:16:27.25,Dialogue,,0,0,0,,At the public phone outside the park.
-Dialogue: 0,0:16:27.68,0:16:30.84,Dialogue,,0,0,0,,Why did you take that route?
+Dialogue: 0,0:16:27.67,0:16:30.84,Dialogue,,0,0,0,,Why did you take that route?
 Dialogue: 0,0:16:30.84,0:16:33.01,Dialogue,,0,0,0,,Don’t you know there are a lot of perverts in that area?
 Dialogue: 0,0:16:33.01,0:16:34.26,Dialogue,,0,0,0,,Fine! I got it!{AE: Fine, jeez!}
-Dialogue: 0,0:16:34.86,0:16:37.23,Dialogue,,0,0,0,,I was just calling to tell you I’m on my way home!
-Dialogue: 0,0:16:37.66,0:16:38.28,Dialogue,,0,0,0,,Bye!
+Dialogue: 0,0:16:34.84,0:16:37.22,Dialogue,,0,0,0,,I was just calling to tell you I’m on my way home!
+Dialogue: 0,0:16:37.64,0:16:38.26,Dialogue,,0,0,0,,Bye!
 Dialogue: 0,0:16:39.93,0:16:42.31,Dialogue,,0,0,0,,Hey! Hello?
 Dialogue: 0,0:16:53.53,0:16:54.61,Dialogue,,0,0,0,,What’s with him?!
 Dialogue: 0,0:16:54.61,0:16:56.07,Dialogue,,0,0,0,,He’s so arrogant!

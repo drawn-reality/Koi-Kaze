@@ -13,16 +13,16 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 437
+Scroll Position: 14
 Script Updated By: drawn-reality gGmbH
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608]_track2_jpn.wav
 Video File: Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 29756
+Video Position: 20387
 Automation Scripts: ~..\ASSGrad\assgrad.lua|~..\Aegisub-Motion\Aegisub-Motion.lua
 Keyframes File: Scenechange_Keyframes\XVID_Keyframes_Koi_Kaze_-_Ep02_10bit_Raw_v3.pass
-Active Line: 460
+Active Line: 36
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -78,7 +78,7 @@ Dialogue: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\c&HBC96ED&\clip(m 150 440 l 38
 Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3495,5660,0.7,\blur10)\1a&HFF&\t(-5,607,\1a&H00)\fad(0,550)\pos(240,333)}Spring Blues
 Comment: 0,0:01:44.62,0:01:48.75,Title,,0,0,0,,{\fscx100\p1\pos(356,351)}m 0 0 l 712 0 712 1 0 1
 Comment: 0,0:01:43.58,0:01:48.75,Title,,0,0,0,,{\t(3525,5660,\blur10)\fad(671,550)\pos(240.972,329)}Spring Blues
-Dialogue: 0,0:14:10.53,0:14:12.53,Signs,,0,0,0,,{\c&H526169&\blur0.5\b1\frz26\fax-0.50\pos(255.513,159.26)}Karaoke
+Dialogue: 0,0:14:10.28,0:14:13.29,Signs,,0,0,0,,{\c&H526169&\blur0.5\b1\frz26\fax-0.50\pos(255.513,159.26)}Karaoke
 Comment: 0,0:16:29.76,0:16:32.97,Signs,,0,0,0,,{\xbord0.22\ybord0.2\fax-0.05\fs16\fscx65\3c&H2A2C2E&\c&H2A2C2E&\frz2\fry10\pos(110.54,218)}Watch out for {\c&H2E535D&\bord2\3c&H323644&}molesters!
 Dialogue: 0,0:16:29.76,0:16:29.80,Signs,,0,0,0,,{\pos(-55.70,217.91)\xbord0.22\ybord0.2\fax-0.05\fs16\fscx65\3c&H2A2C2E&\c&H2A2C2E&\frz2\fry10}Watch out for {\c&H2E535D&\bord2\3c&H323644&}molesters!
 Dialogue: 0,0:16:29.80,0:16:29.84,Signs,,0,0,0,,{\pos(-53.06,217.90)\xbord0.22\ybord0.2\fax-0.05\fs16\fscx65\3c&H2A2C2E&\c&H2A2C2E&\frz2\fry10}Watch out for {\c&H2E535D&\bord2\3c&H323644&}molesters!

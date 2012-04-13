@@ -13,16 +13,16 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 383
+Scroll Position: 437
 Script Updated By: drawn-reality gGmbH
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608]_track2_jpn.wav
 Video File: Koi_Kaze_-_Ep02_10bit_Raw_v3_[A9536608].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 23732
+Video Position: 29756
 Automation Scripts: ~..\ASSGrad\assgrad.lua|~..\Aegisub-Motion\Aegisub-Motion.lua
 Keyframes File: Scenechange_Keyframes\XVID_Keyframes_Koi_Kaze_-_Ep02_10bit_Raw_v3.pass
-Active Line: 39
+Active Line: 460
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -454,7 +454,7 @@ Dialogue: 0,0:13:32.45,0:13:33.95,Dialogue,,0,0,0,,What?
 Dialogue: 0,0:13:33.95,0:13:36.04,Dialogue,,0,0,0,,She called, so what’re you worried about?
 Dialogue: 0,0:13:36.04,0:13:37.04,Dialogue,,0,0,0,,You idiot!
 Dialogue: 0,0:13:37.04,0:13:42.42,Dialogue,,0,0,0,,Right now, Nanoka could be surrounded by strange men trying to kidnap her!{and might get kidnapped}
-Dialogue: 0,0:13:50.64,0:13:53.31,Dialogue,,0,0,0,,If something like were ever to happen...
+Dialogue: 0,0:13:50.64,0:13:53.31,Dialogue,,0,0,0,,If something like that were ever to happen...
 Dialogue: 0,0:13:53.93,0:13:56.89,Dialogue,,0,0,0,,I’d... I’d...
 Dialogue: 0,0:14:00.56,0:14:03.11,Dialogue,,0,0,0,,You’re overreacting.
 Dialogue: 0,0:14:10.53,0:14:12.28,Dialogue,,0,0,0,,Ah! I sang a lot!
@@ -495,7 +495,7 @@ Dialogue: 0,0:18:01.14,0:18:02.22,Dialogue - Italic,,0,0,0,,But...
 Dialogue: 0,0:18:15.65,0:18:18.57,Dialogue,,0,0,0,,Why do I feel like this now?{why am I like this}{I guess the intended meaning is her wondering why she is feeling like crying after being yelled at by her onii-chan but not when she remembers the boyfriend she never had}
 Dialogue: 0,0:19:30.85,0:19:31.77,Dialogue,,0,0,0,,Get on.{GET ON THE CHOPPA}
 Dialogue: 0,0:19:33.73,0:19:34.73,Dialogue,,0,0,0,,No.
-Dialogue: 0,0:19:35.27,0:19:38.74,Dialogue,,0,0,0,,Who{m} do you think I came all the way out here for?{Whom is indeed technically correct here, but Brians says: “Now consider this sort of question: ‘Who are you staring at?’ Although strictly speaking the pronoun should be ‘whom,’ nobody who wants to be taken seriously would use it in this case, though it is the object of the preposition ‘at.’ ‘Whom’ is very rarely used even by careful speakers as the first word in a question, and many authorities have now conceded the point.”}{I doubt very much that it’s worth attempting to be pedantically correct about this sort of thing}{COULD REWORD TO “FOR WHOM (...)” LIKE A BOSS}
+Dialogue: 0,0:19:35.27,0:19:38.74,Dialogue,,0,0,0,,Who do you think I came all the way out here for?{Whom is indeed correct here, but Brians says: “Now consider this sort of question: ‘Who are you staring at?’ Although strictly speaking the pronoun should be ‘whom,’ nobody who wants to be taken seriously would use it in this case, though it is the object of the preposition ‘at.’ ‘Whom’ is very rarely used even by careful speakers as the first word in a question, and many authorities have now conceded the point.”}{I doubt very much that it’s worth attempting to be pedantically correct about this sort of thing}{COULD REWORD TO “FOR WHOM (...)” AND FIX DANGLING PREPOSITION!!1}
 Dialogue: 0,0:19:39.24,0:19:40.28,Dialogue,,0,0,0,,Hurry up and get on.
 Dialogue: 0,0:19:41.45,0:19:44.24,Dialogue,,0,0,0,,I didn’t ask you to come, Onii-chan!{delivery feels like she halts after realizing she called him “Onii-chan” again, but I’m not sure how to represent this with punctuation}
 Dialogue: 0,0:20:05.43,0:20:06.30,Dialogue,,0,0,0,,It’s fine.

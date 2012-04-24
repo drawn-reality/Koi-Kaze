@@ -1,0 +1,40 @@
+﻿[Script Info]
+Title: Koi Kaze - Chidori's Judgement - 03
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Last Style Storage: Koi Kaze L
+Scroll Position: 4
+Active Line: 14
+PlayResX: 712
+PlayResY: 476
+Video File: Koi_Kaze_-_Ex03_10bit_Raw_v3_[5DFBF4C3].mkv
+Video Colorspace: BT.601
+Video Aspect Ratio: c1.78151
+Video Position: 290
+Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ex03_10bit_Raw_v3_[5DFBF4C3].mkv
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,114,114,32,0
+Style: Preview,EraserDust,50,&H00000000,&H0000FFFF,&H00FFFFFF,&H0056465B,-1,0,0,0,84,100,0,0,1,2,0,2,6,6,5,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.56,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview
+Dialogue: 0,0:00:01.56,0:00:01.60,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)\iclip(m 544 88 b 537 71 505 69 490 84 l 486 160 b 483 129 484 92 470 76 458 68 421 78 413 132 l 403 132 b 405 63 345 77 296 68 l 390 62 b 402 47 398 16 388 10 l 635 12 632 144 545 155)}An Epic Series Preview
+Dialogue: 0,0:00:01.60,0:00:02.14,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview
+Dialogue: 0,0:00:00.39,0:00:01.56,Preview,,0,0,0,,{\pos(360,460)\org(360,452)\fs80\frx50\t(0,653,0.7,\frx0)}Chidori's Judgement
+Dialogue: 0,0:00:01.56,0:00:01.60,Preview,,0,0,0,,{\pos(360,460)\fs80\clip(m 334 472 l 334 414 b 342 377 404 387 412 416 l 416 471 m 529 474 l 528 378 596 375 601 474)}Chidori's Judgement
+Dialogue: 0,0:00:01.60,0:00:01.64,Preview,,0,0,0,,{\pos(360,460)\fs80\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}Chidori's Judgement
+Dialogue: 0,0:00:01.64,0:00:02.14,Preview,,0,0,0,,{\pos(360,460)\fs80}Chidori's Judgement
+Dialogue: 0,0:00:02.14,0:00:04.35,Dialogue,,0,0,0,,The marriage meeting schedule completely skipped my mind.
+Dialogue: 0,0:00:04.35,0:00:06.40,Dialogue,,0,0,0,,I bullied the bear by giving it a noogie with my knuckles.
+Dialogue: 0,0:00:06.51,0:00:08.65,Dialogue,,0,0,0,,I stared at her underwear in the laundry.
+Dialogue: 0,0:00:08.67,0:00:09.98,Dialogue,,0,0,0,,I can't help it!
+Dialogue: 0,0:00:10.08,0:00:11.86,Dialogue,,0,0,0,,It's only natural if you're a man!
+Comment: 1,0:00:12.07,0:00:13.49,Preview,,0,0,0,,{\pos(356,46)\bord1\blur2\fs48}Innocent
+Dialogue: 1,0:00:12.07,0:00:13.49,Preview,,0,0,0,,{\pos(356,46)\bord1\blur2\fs48\iclip(304,3,421,50)\t(25,727,\iclip(421,3,421,50))}Innocent
+Dialogue: 0,0:00:12.07,0:00:13.49,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(358,50)\fs48\iclip(304,3,421,50)\t(25,727,\iclip(421,3,421,50))}Innocent
+Dialogue: 0,0:00:11.86,0:00:13.49,Dialogue,,0,0,0,,Innocent. No punishment.{無罪}

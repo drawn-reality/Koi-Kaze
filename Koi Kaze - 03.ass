@@ -12,14 +12,14 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 230
-Active Line: 252
+Scroll Position: 274
+Active Line: 288
 Script Updated By: drawn-reality gGmbH
 Audio URI: C:\@projects\git\Koi Kaze\Koi_Kaze_-_Ep03_10bit_Raw_v3_[393332F8]_track2_jpn.wav
 Video File: Koi_Kaze_-_Ep03_10bit_Raw_v3_[393332F8].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 1430
+Video Position: 31377
 Last Style Storage: Koi Kaze L
 
 [V4+ Styles]
@@ -283,36 +283,36 @@ Dialogue: 0,0:21:25.25,0:21:26.95,Dialogue,,0,0,0,,What are you smiling about?
 Dialogue: 0,0:21:29.75,0:21:31.05,Dialogue,,0,0,0,,Nothing.
 Dialogue: 0,0:21:31.05,0:21:32.05,Dialogue,,0,0,0,,Whatever.
 Dialogue: 0,0:21:32.55,0:21:33.45,Dialogue,,0,0,0,,Weirdo.
-Dialogue: 0,0:00:11.56,0:00:15.61,OP - Eng,,0,0,0,,my first feelings
-Dialogue: 0,0:00:16.52,0:00:20.57,OP - Eng,,0,0,0,,upon my downhearted chest
-Dialogue: 0,0:00:20.65,0:00:29.67,OP - Eng,,0,0,0,,a sunny ray of light was gently thrown
-Dialogue: 0,0:00:31.52,0:00:35.61,OP - Eng,,0,0,0,,walking alone...
-Dialogue: 0,0:00:36.45,0:00:40.61,OP - Eng,,0,0,0,,when I looked up at the sky,
-Dialogue: 0,0:00:40.61,0:00:44.65,OP - Eng,,0,0,0,,spring was near,
-Dialogue: 0,0:00:44.68,0:00:48.68,OP - Eng,,0,0,0,,it showed me
-Dialogue: 0,0:00:49.07,0:00:53.82,OP - Eng,,0,0,0,,these trembling feelings are
-Dialogue: 0,0:00:54.05,0:00:58.97,OP - Eng,,0,0,0,,fluttering petals,
-Dialogue: 0,0:00:59.62,0:01:03.97,OP - Eng,,0,0,0,,is it okay for me to fall in love?
-Dialogue: 0,0:01:04.81,0:01:08.68,OP - Eng,,0,0,0,,or will...
-Dialogue: 0,0:01:09.00,0:01:13.71,OP - Eng,,0,0,0,,my hesitating heart
-Dialogue: 0,0:01:14.06,0:01:19.10,OP - Eng,,0,0,0,,put on my brakes,
-Dialogue: 0,0:01:19.66,0:01:22.49,OP - Eng,,0,0,0,,it's so painful
-Dialogue: 0,0:01:22.53,0:01:33.72,OP - Eng,,0,0,0,,I can't breathe
-Dialogue: 0,0:00:11.56,0:00:15.61,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K31}ha{\K31}ji{\K31}me{\K31}te {\K30}no {\K50}ki{\K42}{\K93}mo{\K61}chi
-Dialogue: 0,0:00:16.52,0:00:20.57,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K37}sho{\K25}n{\K34}bo{\K28}ri {\K29}no {\K65}mu{\K28}{\K97}ne {\K55}ni
-Dialogue: 0,0:00:20.65,0:00:29.67,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K61}po{\K31}{\K52}tto {\K32}{\K67}na{\K97}ge{\K90}ra{\K50}re{\K76}ta {\K87}{\K36}hi{\K27}da{\K32}ma{\K87}ri{\K66}ne
-Dialogue: 0,0:00:31.52,0:00:35.61,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K32}hi{\K35}to{\K29}ri {\K30}a{\K32}ru{\K65}i{\K26}{\K91}te{\K62}ta
-Dialogue: 0,0:00:36.45,0:00:40.61,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K40}so{\K32}ra {\K30}mi{\K26}a{\K26}ge{\K75}ta {\K26}{\K93}to{\K60}ki
-Dialogue: 0,0:00:40.61,0:00:44.65,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K33}ha{\K58}ru {\K44}ga {\K12}{\K35}so{\K35}ko {\K23}ni {\K32}ki{\K71}te{\K56}ta
-Dialogue: 0,0:00:44.68,0:00:48.68,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K18}mi{\K41}se{\K36}te{\K147}ku{\K34}{\K64}re{\K58}ta
-Dialogue: 0,0:00:49.07,0:00:53.82,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K25}ko{\K34}ga{\K33}re{\K31}ru {\K25}o{\K197}mo{\K49}i{\K77}wa
-Dialogue: 0,0:00:54.05,0:00:58.97,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K32}ma{\K28}i{\K35}chi{\K24}ru {\K30}ha{\K194}na{\K32}bi{\K26}ra{\K86}ne
-Dialogue: 0,0:00:59.62,0:01:03.97,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K33}su{\K37}ki{\K25}ni{\K149}na{\K44}tte {\K59}ii{\K84}no
-Dialogue: 0,0:01:04.81,0:01:08.68,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K81}so{\K185}re{\K56}to{\K63}mo
-Dialogue: 0,0:01:09.00,0:01:13.71,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K31}ta{\K37}me{\K32}ra{\K25}u {\K33}ko{\K187}ko{\K64}ro {\K57}ga
-Dialogue: 0,0:01:14.06,0:01:19.10,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K29}bu{\K45}re{\K19}i{\K23}ki {\K31}ka{\K197}ke{\K28}ru{\K29}ke{\K97}do
-Dialogue: 0,0:01:19.66,0:01:22.49,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K34}ku{\K18}ru{\K43}shi{\K145}ku{\K41}te
-Dialogue: 0,0:01:22.53,0:01:33.72,OP - Jpr,,0,0,0,,{\fad(80,80)}{\K22}i{\K39}ki{\K94}ga {\K87}{\K64}to{\K189}ma{\K55}ri{\K161}sou {\K33}{\K49}de{\K321}su
+Dialogue: 0,0:00:11.56,0:00:15.61,OP - Eng,,0,0,0,,{\fad(80,80)}I feel this way for the first time.
+Dialogue: 0,0:00:16.52,0:00:20.57,OP - Eng,,0,0,0,,{\fad(80,80)}A ray of sunshine
+Dialogue: 0,0:00:20.65,0:00:29.67,OP - Eng,,0,0,0,,{\fad(80,80)}was suddenly cast into my saddened heart.
+Dialogue: 0,0:00:31.52,0:00:35.61,OP - Eng,,0,0,0,,{\fad(80,80)}Walking alone,
+Dialogue: 0,0:00:36.45,0:00:40.61,OP - Eng,,0,0,0,,{\fad(80,80)}I looked up at the sky,
+Dialogue: 0,0:00:40.61,0:00:44.65,OP - Eng,,0,0,0,,{\fad(80,80)}and saw spring was near.{just adding words in here because I'm professional like that}
+Dialogue: 0,0:00:44.68,0:00:48.68,OP - Eng,,0,0,0,,{\fad(80,80)}It showed me
+Dialogue: 0,0:00:49.07,0:00:53.82,OP - Eng,,0,0,0,,{\fad(80,80)}these trembling feelings are
+Dialogue: 0,0:00:54.05,0:00:58.97,OP - Eng,,0,0,0,,{\fad(80,80)}like whirling petals.
+Dialogue: 0,0:00:59.62,0:01:03.97,OP - Eng,,0,0,0,,{\fad(80,80)}Is it okay for me to fall in love?
+Dialogue: 0,0:01:04.81,0:01:08.68,OP - Eng,,0,0,0,,{\fad(80,80)}Or...
+Dialogue: 0,0:01:09.00,0:01:13.71,OP - Eng,,0,0,0,,{\fad(80,80)}My hesitating heart
+Dialogue: 0,0:01:14.06,0:01:19.10,OP - Eng,,0,0,0,,{\fad(80,80)}puts on the brakes.
+Dialogue: 0,0:01:19.66,0:01:22.49,OP - Eng,,0,0,0,,{\fad(80,80)}It’s so painful,
+Dialogue: 0,0:01:22.53,0:01:33.72,OP - Eng,,0,0,0,,{\fad(80,80)}I can’t breathe.
+Dialogue: 0,0:00:11.56,0:00:15.61,OP - Jpr,,0,0,0,,{\fad(80,80)}hajimete no kimochi
+Dialogue: 0,0:00:16.52,0:00:20.57,OP - Jpr,,0,0,0,,{\fad(80,80)}shonbori no mune ni
+Dialogue: 0,0:00:20.65,0:00:29.67,OP - Jpr,,0,0,0,,{\fad(80,80)}potto nagerareta hidamarine
+Dialogue: 0,0:00:31.52,0:00:35.61,OP - Jpr,,0,0,0,,{\fad(80,80)}hitori aruiteta
+Dialogue: 0,0:00:36.45,0:00:40.61,OP - Jpr,,0,0,0,,{\fad(80,80)}sora miageta toki
+Dialogue: 0,0:00:40.61,0:00:44.65,OP - Jpr,,0,0,0,,{\fad(80,80)}haru ga soko ni kiteta
+Dialogue: 0,0:00:44.68,0:00:48.68,OP - Jpr,,0,0,0,,{\fad(80,80)}misetekureta
+Dialogue: 0,0:00:49.07,0:00:53.82,OP - Jpr,,0,0,0,,{\fad(80,80)}kogareru omoiwa
+Dialogue: 0,0:00:54.05,0:00:58.97,OP - Jpr,,0,0,0,,{\fad(80,80)}maichiru hanabirane
+Dialogue: 0,0:00:59.62,0:01:03.97,OP - Jpr,,0,0,0,,{\fad(80,80)}sukininatte iino
+Dialogue: 0,0:01:04.81,0:01:08.68,OP - Jpr,,0,0,0,,{\fad(80,80)}soretomo
+Dialogue: 0,0:01:09.00,0:01:13.71,OP - Jpr,,0,0,0,,{\fad(80,80)}tamerau kokoro ga
+Dialogue: 0,0:01:14.06,0:01:19.10,OP - Jpr,,0,0,0,,{\fad(80,80)}bureiki kakerukedo
+Dialogue: 0,0:01:19.66,0:01:22.49,OP - Jpr,,0,0,0,,{\fad(80,80)}kurushikute
+Dialogue: 0,0:01:22.53,0:01:33.72,OP - Jpr,,0,0,0,,{\fad(80,80)}ikiga tomarisou desu
 Dialogue: 0,0:00:11.56,0:00:15.61,OP - Jpk,,0,0,0,,{\fad(80,80)}はじめての気持ち
 Dialogue: 0,0:00:16.52,0:00:20.57,OP - Jpk,,0,0,0,,{\fad(80,80)}しょんぼりの胸に
 Dialogue: 0,0:00:20.65,0:00:29.67,OP - Jpk,,0,0,0,,{\fad(80,80)}ぽっと投げられた陽だまりね
@@ -328,38 +328,38 @@ Dialogue: 0,0:01:09.00,0:01:13.71,OP - Jpk,,0,0,0,,{\fad(80,80)}ためらう心�
 Dialogue: 0,0:01:14.06,0:01:19.10,OP - Jpk,,0,0,0,,{\fad(80,80)}ブレーキかけるけど
 Dialogue: 0,0:01:19.66,0:01:22.49,OP - Jpk,,0,0,0,,{\fad(80,80)}苦しくて
 Dialogue: 0,0:01:22.53,0:01:33.72,OP - Jpk,,0,0,0,,{\fad(80,80)}息が止まりそうです
-Dialogue: 0,0:21:48.65,0:21:52.45,ED - Eng,,0,0,0,,{\fad(80,80)}a gentle dream
+Dialogue: 0,0:21:48.65,0:21:52.45,ED - Eng,,0,0,0,,{\fad(80,80)}A gentle dream
 Dialogue: 0,0:21:53.80,0:21:58.48,ED - Eng,,0,0,0,,{\fad(80,80)}calls the spring in my heart
 Dialogue: 0,0:21:59.71,0:22:04.38,ED - Eng,,0,0,0,,{\fad(80,80)}and becomes a gentle breeze
-Dialogue: 0,0:22:04.90,0:22:09.85,ED - Eng,,0,0,0,,{\fad(80,80)}that touches you then leaves
-Dialogue: 0,0:22:10.74,0:22:12.94,ED - Eng,,0,0,0,,{\fad(80,80)}in the small pot
+Dialogue: 0,0:22:04.90,0:22:09.85,ED - Eng,,0,0,0,,{\fad(80,80)}that touches you, then leaves.
+Dialogue: 0,0:22:10.74,0:22:12.94,ED - Eng,,0,0,0,,{\fad(80,80)}In the small pot
 Dialogue: 0,0:22:13.52,0:22:15.34,ED - Eng,,0,0,0,,{\fad(80,80)}are feelings of love
-Dialogue: 0,0:22:15.60,0:22:17.92,ED - Eng,,0,0,0,,{\fad(80,80)}swaying softly
-Dialogue: 0,0:22:19.07,0:22:21.17,ED - Eng,,0,0,0,,{\fad(80,80)}that carry a sweet scent
-Dialogue: 0,0:22:21.83,0:22:23.61,ED - Eng,,0,0,0,,{\fad(80,80)}always waiting...
-Dialogue: 0,0:22:23.85,0:22:30.41,ED - Eng,,0,0,0,,{\fad(80,80)}warming up this moment...
-Dialogue: 0,0:22:32.90,0:22:37.82,ED - Eng,,0,0,0,,{\fad(80,80)}things we understand because it's the two of us
-Dialogue: 0,0:22:38.40,0:22:42.19,ED - Eng,,0,0,0,,{\fad(80,80)}are not just words
-Dialogue: 0,0:22:43.92,0:22:48.69,ED - Eng,,0,0,0,,{\fad(80,80)}we just smile, we just hope
-Dialogue: 0,0:22:49.24,0:22:53.81,ED - Eng,,0,0,0,,{\fad(80,80)}to the quiet sky
-Dialogue: 0,0:22:54.97,0:23:00.60,ED - Eng,,0,0,0,,{\fad(80,80)}we'll see each other again tomorrow...
-Dialogue: 0,0:23:02.59,0:23:08.27,ED - Eng,,0,0,0,,{\fad(80,80)}at the quiet sky
-Dialogue: 0,0:21:48.65,0:21:52.45,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K93}ya{\K38}sa{\K75}shii {\K31}yu{\K31}me {\K109}ga
-Dialogue: 0,0:21:53.80,0:21:58.48,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K35}so{\K67}tto {\K42}{\K13}mu{\K25}ne {\K49}no {\K22}{\K29}ha{\K32}ru {\K34}wo {\K23}yo{\K90}bi
-Dialogue: 0,0:21:59.71,0:22:04.38,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K91}ya{\K37}sa{\K78}shii {\K38}ka{\K29}ze {\K61}ni {\K86}na{\K43}ri
-Dialogue: 0,0:22:04.90,0:22:09.85,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K14}ki{\K23}mi {\K50}ni {\K53}{\K11}fu{\K18}re{\K51}te {\K15}{\K64}sa{\K39}tte{\K40}yu{\K111}ku
-Dialogue: 0,0:22:10.74,0:22:12.94,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K30}chii{\K23}sa{\K18}na {\K26}po{\K26}tto {\K15}ni {\K78}wa
-Dialogue: 0,0:22:13.52,0:22:15.34,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K33}dai{\K18}su{\K17}ki{\K23}na {\K26}ki{\K18}mo{\K42}chi
-Dialogue: 0,0:22:15.60,0:22:17.92,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K29}yu{\K37}ra{\K26}yu{\K27}ra {\K110}to
-Dialogue: 0,0:22:19.07,0:22:21.17,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K28}ii {\K21}ka{\K21}o{\K21}ri {\K26}no{\K18}se{\K73}te
-Dialogue: 0,0:22:21.83,0:22:23.61,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K20}i{\K20}tsu{\K20}mo {\K32}ma{\K15}tte{\K67}ita
-Dialogue: 0,0:22:23.85,0:22:30.41,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K22}ko{\K39}no {\K8}{\K62}to{\K41}ki {\K67}wo {\K37}{\K27}a{\K42}ta{\K62}ta{\K40}me{\K203}te
-Dialogue: 0,0:22:32.90,0:22:37.82,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K97}fu{\K36}ta{\K34}ri {\K31}da{\K38}ka{\K25}ra {\K36}wa{\K43}ka{\K30}ru {\K20}ko{\K96}to
-Dialogue: 0,0:22:38.40,0:22:42.19,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K70}ko{\K32}to{\K32}ba {\K33}ja{\K30}{\K29}na{\K41}ku{\K108}te
-Dialogue: 0,0:22:43.92,0:22:48.69,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K104}ho{\K30}ho{\K39}e{\K30}mu {\K31}da{\K31}ke {\K41}ne{\K33}ga{\K32}u{\K18}da{\K82}ke
-Dialogue: 0,0:22:49.24,0:22:53.81,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K53}shi{\K28}zu{\K37}ka{\K19}na {\K46}so{\K101}ra {\K9}{\K159}e
-Dialogue: 0,0:22:54.97,0:23:00.60,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K85}a{\K52}shi{\K28}ta {\K37}mo {\K35}ma{\K35}ta {\K34}a{\K38}e{\K29}ru {\K23}yo {\K161}ne
-Dialogue: 0,0:23:02.59,0:23:08.27,ED - Jpr,,0,0,0,,{\fad(80,80)}{\K50}shi{\K25}zu{\K47}ka{\K22}na {\K43}so{\K133}ra {\K245}de
+Dialogue: 0,0:22:15.60,0:22:17.92,ED - Eng,,0,0,0,,{\fad(80,80)}swaying softly.{dancing}
+Dialogue: 0,0:22:19.07,0:22:21.17,ED - Eng,,0,0,0,,{\fad(80,80)}They carry a sweet scent,
+Dialogue: 0,0:22:21.83,0:22:23.61,ED - Eng,,0,0,0,,{\fad(80,80)}always waiting,
+Dialogue: 0,0:22:23.85,0:22:30.41,ED - Eng,,0,0,0,,{\fad(80,80)}warming up this moment.
+Dialogue: 0,0:22:32.90,0:22:37.82,ED - Eng,,0,0,0,,{\fad(80,80)}We understand each other
+Dialogue: 0,0:22:38.40,0:22:42.19,ED - Eng,,0,0,0,,{\fad(80,80)}without words.{longer lines perhaps?}
+Dialogue: 0,0:22:43.92,0:22:48.69,ED - Eng,,0,0,0,,{\fad(80,80)}We just smile and hope
+Dialogue: 0,0:22:49.24,0:22:53.81,ED - Eng,,0,0,0,,{\fad(80,80)}to the peaceful sky.
+Dialogue: 0,0:22:54.97,0:23:00.60,ED - Eng,,0,0,0,,{\fad(80,80)}Hope that we’ll see each other again tomorrow
+Dialogue: 0,0:23:02.59,0:23:08.27,ED - Eng,,0,0,0,,{\fad(80,80)}to the peaceful sky.
+Dialogue: 0,0:21:48.65,0:21:52.45,ED - Jpr,,0,0,0,,{\fad(80,80)}yasashii yume ga
+Dialogue: 0,0:21:53.80,0:21:58.48,ED - Jpr,,0,0,0,,{\fad(80,80)}sotto mune no haru wo yobi
+Dialogue: 0,0:21:59.71,0:22:04.38,ED - Jpr,,0,0,0,,{\fad(80,80)}yasashii kaze ni nari
+Dialogue: 0,0:22:04.90,0:22:09.85,ED - Jpr,,0,0,0,,{\fad(80,80)}kimi ni furete satteyuku
+Dialogue: 0,0:22:10.74,0:22:12.94,ED - Jpr,,0,0,0,,{\fad(80,80)}chiisana potto ni wa
+Dialogue: 0,0:22:13.52,0:22:15.34,ED - Jpr,,0,0,0,,{\fad(80,80)}daisukina kimochi
+Dialogue: 0,0:22:15.60,0:22:17.92,ED - Jpr,,0,0,0,,{\fad(80,80)}yurayura to
+Dialogue: 0,0:22:19.07,0:22:21.17,ED - Jpr,,0,0,0,,{\fad(80,80)}ii kaori nosete
+Dialogue: 0,0:22:21.83,0:22:23.61,ED - Jpr,,0,0,0,,{\fad(80,80)}itsumo matteita
+Dialogue: 0,0:22:23.85,0:22:30.41,ED - Jpr,,0,0,0,,{\fad(80,80)}kono toki wo atatamete
+Dialogue: 0,0:22:32.90,0:22:37.82,ED - Jpr,,0,0,0,,{\fad(80,80)}futari dakara wakaru koto
+Dialogue: 0,0:22:38.40,0:22:42.19,ED - Jpr,,0,0,0,,{\fad(80,80)}kotoba janakute
+Dialogue: 0,0:22:43.92,0:22:48.69,ED - Jpr,,0,0,0,,{\fad(80,80)}hohoemu dake negaudake
+Dialogue: 0,0:22:49.24,0:22:53.81,ED - Jpr,,0,0,0,,{\fad(80,80)}shizukana sora e
+Dialogue: 0,0:22:54.97,0:23:00.60,ED - Jpr,,0,0,0,,{\fad(80,80)}ashita mo mata aeru yo ne
+Dialogue: 0,0:23:02.59,0:23:08.27,ED - Jpr,,0,0,0,,{\fad(80,80)}shizukana sora de
 Dialogue: 0,0:21:48.65,0:21:52.45,ED - Jpk,,0,0,0,,{\fad(80,80)}やさしい夢が
 Dialogue: 0,0:21:53.80,0:21:58.48,ED - Jpk,,0,0,0,,{\fad(80,80)}そっと胸の春を呼び
 Dialogue: 0,0:21:59.71,0:22:04.38,ED - Jpk,,0,0,0,,{\fad(80,80)}やさしい風になり

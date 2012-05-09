@@ -7,13 +7,13 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Last Style Storage: Koi Kaze L
 Scroll Position: 0
-Active Line: 9
+Active Line: 5
 PlayResX: 712
 PlayResY: 476
 Video File: Koi_Kaze_-_Ex03_10bit_Raw_v3_[5DFBF4C3].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 157
+Video Position: 39
 Audio URI: Koi_Kaze_-_Ex03_10bit_Raw_v3_[5DFBF4C3].mkv
 Collisions: Normal
 
@@ -31,11 +31,11 @@ Dialogue: 0,0:00:00.39,0:00:01.56,Preview,,0,0,0,,{\pos(360,460)\org(360,452)\fs
 Dialogue: 0,0:00:01.56,0:00:01.60,Preview,,0,0,0,,{\pos(360,460)\fs80\clip(m 334 472 l 334 414 b 342 377 404 387 412 416 l 416 471 m 529 474 l 528 378 596 375 601 474)}Chidori's Judgement
 Dialogue: 0,0:00:01.60,0:00:01.64,Preview,,0,0,0,,{\pos(360,460)\fs80\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}Chidori's Judgement
 Dialogue: 0,0:00:01.64,0:00:02.14,Preview,,0,0,0,,{\pos(360,460)\fs80}Chidori's Judgement
-Dialogue: 0,0:00:02.14,0:00:04.35,Dialogue,,0,0,0,,The marriage meeting schedule completely slipped my mind.
-Dialogue: 0,0:00:04.35,0:00:06.40,Dialogue,,0,0,0,,I bullied the bear by giving it a noogie with my knuckles.
-Dialogue: 0,0:00:06.51,0:00:08.65,Dialogue,,0,0,0,,I stared at her underwear in the laundry.{ogled? idk, in the episode it felt more like staring than ogling to me}
-Dialogue: 0,0:00:08.67,0:00:09.98,Dialogue,,0,0,0,,I can't help it!
-Dialogue: 0,0:00:10.08,0:00:11.86,Dialogue,,0,0,0,,It's only natural if you're a man!
+Dialogue: 0,0:00:02.14,0:00:04.35,Dialogue,,0,0,0,,Our client’s scheduled marriage meeting completely slipped my mind.
+Dialogue: 0,0:00:04.35,0:00:06.40,Dialogue,,0,0,0,,I bullied a teddy bear by giving it a noogie.
+Dialogue: 0,0:00:06.40,0:00:08.65,Dialogue,,0,0,0,,I ogled her underwear that was hanged out to dry.{ogled? idk, in the episode it felt more like staring than ogling to me}
+Dialogue: 0,0:00:08.65,0:00:09.98,Dialogue,,0,0,0,,I can’t help it!
+Dialogue: 0,0:00:09.98,0:00:11.86,Dialogue,,0,0,0,,It’s only natural if you’re a man!
 Comment: 1,0:00:12.07,0:00:13.49,Preview,,0,0,0,,{\pos(356,46)\bord1\blur2\fs48}Innocent
 Dialogue: 1,0:00:12.07,0:00:13.49,Preview,,0,0,0,,{\pos(356,46)\bord1\blur2\fs48\iclip(304,3,421,50)\t(25,727,\iclip(421,3,421,50))}Innocent
 Dialogue: 0,0:00:12.07,0:00:13.49,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(358,50)\fs48\iclip(304,3,421,50)\t(25,727,\iclip(421,3,421,50))}Innocent

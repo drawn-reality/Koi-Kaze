@@ -13,14 +13,13 @@ Timer: 100.0000
 Original Script: anime.fin
 Script Updated By: drawn-reality gGmbH
 Last Style Storage: Default
-Scroll Position: 0
-Active Line: 14
-Audio URI: ..\..\_Koi Kaze\Koi_Kaze_-_Ep04_10bit_Raw_v3_[3432F5E0]_track2_jpn.flac
-Video File: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep04_10bit_Raw_v3_[3432F5E0].mkv
+Scroll Position: 177
+Active Line: 178
+Audio URI: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ex04_10bit_Raw_v3_[7810E911].mkv
+Video File: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ex04_10bit_Raw_v3_[7810E911].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 3752
-Keyframes File: ..\..\_Koi Kaze\v3_Raws\Scenechange_Keyframes\XVID_Keyframes_Koi_Kaze_-_Ep04_10bit_Raw_v3.pass
+Video Position: 0
 Original Translation: minidora07 (TLC - SkyPilot)
 
 [V4+ Styles]
@@ -61,12 +60,12 @@ Dialogue: 0,0:02:41.65,0:02:42.76,Dialogue - Italic,,0,0,0,,In truth
 Dialogue: 0,0:02:46.39,0:02:51.53,Dialogue - Italic,,0,0,0,,I don't have any regrets or attachments about getting dumped.
 Dialogue: 0,0:02:55.23,0:03:01.32,Dialogue - Italic,,0,0,0,,Koshiro, have you ever felt a yearning for someone from the bottom of your heart?
 Dialogue: 0,0:03:05.49,0:03:06.60,Dialogue - Italic,,0,0,0,,No.
-Dialogue: 0,0:03:07.16,0:03:09.18,Dialogue,,0,0,0,,I'm terrible at getting the gist of things.
-Dialogue: 0,0:03:09.18,0:03:10.16,Dialogue,,0,0,0,,You don't look that way.
-Dialogue: 0,0:03:10.16,0:03:12.41,Dialogue,,0,0,0,,And then I fell down.
+Dialogue: 0,0:03:07.16,0:03:09.18,Dialogue,,0,0,0,,{\an8}I'm terrible at getting the gist of things.
+Dialogue: 0,0:03:09.18,0:03:10.16,Dialogue,,0,0,0,,{\an8}You don't look that way.
+Dialogue: 0,0:03:10.16,0:03:12.41,Dialogue,,0,0,0,,{\an8}...and then I fell down.
 Dialogue: 0,0:03:12.77,0:03:13.66,Dialogue,,0,0,0,,Odagiri!
 Dialogue: 0,0:03:13.66,0:03:14.72,Dialogue,,0,0,0,,Yes.
-Dialogue: 0,0:03:15.28,0:03:17.84,Dialogue,,0,0,0,,But usually I'm pretty calm.
+Dialogue: 0,0:03:15.28,0:03:17.84,Dialogue,,0,0,0,,{\an8}...but usually I'm pretty calm.
 Dialogue: 0,0:03:29.67,0:03:33.20,Dialogue,,0,0,0,,What should we do about today's after-party?
 Dialogue: 0,0:03:33.20,0:03:34.97,Dialogue,,0,0,0,,The chief said it's on him.
 Dialogue: 0,0:03:34.97,0:03:36.80,Dialogue,,0,0,0,,Really? Yes!
@@ -88,13 +87,13 @@ Dialogue: 0,0:04:18.71,0:04:21.08,Dialogue,,0,0,0,,I-Idiot! No!
 Dialogue: 0,0:04:21.08,0:04:22.25,Dialogue,,0,0,0,,That was...
 Dialogue: 0,0:04:22.25,0:04:24.70,Dialogue,,0,0,0,,That was Nanoka-chan wasn't it?
 Dialogue: 0,0:04:27.26,0:04:30.56,Dialogue,,0,0,0,,Why didn't you just say she was your sister in the first place?
-Dialogue: 0,0:04:35.30,0:04:37.75,Dialogue,,0,0,0,,Odagiri. Help me carry this.
+Dialogue: 0,0:04:35.30,0:04:37.75,Dialogue,,0,0,0,,Odagiri, help me carry this.
 Dialogue: 0,0:04:38.53,0:04:40.01,Dialogue,,0,0,0,,Yes.
 Dialogue: 0,0:04:58.67,0:05:02.70,Dialogue,,0,0,0,,What do you mean flirting with Nanoka san?
 Dialogue: 0,0:05:03.48,0:05:04.62,Dialogue,,0,0,0,,No idea.
 Dialogue: 0,0:05:09.69,0:05:11.49,Dialogue,,0,0,0,,I don't really get it either.
 Dialogue: 0,0:05:20.33,0:05:21.25,Dialogue,,0,0,0,,Why?
-Dialogue: 0,0:05:23.83,0:05:26.72,Dialogue,,0,0,0,,Don't look at me like it's so unusual.
+Dialogue: 0,0:05:23.83,0:05:26.26,Dialogue,,0,0,0,,Don't look at me like it's so unusual.
 Dialogue: 0,0:05:26.72,0:05:28.50,Dialogue,,0,0,0,,But, why?
 Dialogue: 0,0:05:28.98,0:05:30.90,Dialogue,,0,0,0,,You had a beard this morning!
 Dialogue: 0,0:05:30.90,0:05:34.65,Dialogue,,0,0,0,,We have to look clean for our events or else we would get scolded.
@@ -134,7 +133,7 @@ Dialogue: 0,0:08:41.82,0:08:43.04,Dialogue,,0,0,0,,That's it?
 Dialogue: 0,0:08:45.83,0:08:47.13,Dialogue,,0,0,0,,Is that really all?
 Dialogue: 0,0:08:48.77,0:08:49.46,Dialogue,,0,0,0,,Yeah.
 Dialogue: 0,0:08:55.02,0:08:56.23,Dialogue,,0,0,0,,What?
-Dialogue: 0,0:08:58.09,0:09:01.62,Dialogue,,0,0,0,,You said you had something to tell me so I was wondering what it was.
+Dialogue: 0,0:08:58.09,0:09:02.10,Dialogue,,0,0,0,,You said you had something to tell me so I was wondering what it was.
 Dialogue: 0,0:09:02.51,0:09:04.28,Dialogue,,0,0,0,,It's not a laughing matter!
 Dialogue: 0,0:09:04.28,0:09:08.98,Dialogue,,0,0,0,,I didn't want you to think I started going after high school girls after I got dumped.
 Dialogue: 0,0:09:08.98,0:09:10.74,Dialogue,,0,0,0,,I was worried for nothing.
@@ -160,7 +159,7 @@ Dialogue: 0,0:11:28.82,0:11:30.62,Dialogue,,0,0,0,,How about Sachiko-chan?
 Dialogue: 0,0:11:30.62,0:11:33.63,Dialogue,,0,0,0,,She's just a friend..
 Dialogue: 0,0:11:33.63,0:11:34.77,Dialogue,,0,0,0,,No way!
 Dialogue: 0,0:11:34.77,0:11:37.30,Dialogue,,0,0,0,,Really...
-Dialogue: 0,0:11:37.30,0:11:39.06,Dialogue,,0,0,0,,You...
+Dialogue: 0,0:11:37.30,0:11:39.06,Dialogue,,0,0,0,,You...{ellipsis-abuse-raeg}
 Dialogue: 0,0:11:39.75,0:11:42.01,Dialogue,,0,0,0,,How's work been lately?
 Dialogue: 0,0:11:42.01,0:11:43.02,Dialogue,,0,0,0,,Why?
 Dialogue: 0,0:11:43.02,0:11:45.76,Dialogue,,0,0,0,,You used to always tell me that you wanted to quit.
@@ -204,14 +203,14 @@ Dialogue: 0,0:16:04.65,0:16:08.38,Dialogue - Italic,,0,0,0,,But I don't think it
 Dialogue: 0,0:16:11.33,0:16:15.28,Dialogue - Italic,,0,0,0,,Is it that big of a deal to fall in love with someone?
 Dialogue: 0,0:16:22.45,0:16:27.74,Dialogue - Italic,,0,0,0,,Is yearning something you can brag about?
 Dialogue: 0,0:16:55.33,0:17:01.59,Dialogue - Italic,,0,0,0,,What does it mean to "yearn" anyway?
-Dialogue: 0,0:17:42.34,0:17:44.07,Dialogue,,0,0,0,,That idiot!
+Dialogue: 0,0:17:42.19,0:17:44.07,Dialogue,,0,0,0,,That idiot!
 Dialogue: 0,0:18:37.40,0:18:38.30,Dialogue,,0,0,0,,Onii-chan?
-Dialogue: 0,0:18:40.73,0:18:42.07,Dialogue,,0,0,0,,Sorry!
+Dialogue: 0,0:18:40.51,0:18:42.07,Dialogue,,0,0,0,,Sorry!
 Dialogue: 0,0:20:49.13,0:20:50.22,Dialogue,,0,0,0,,Good morning.
 Dialogue: 0,0:20:53.59,0:20:54.81,Dialogue,,0,0,0,,I'm sorry about last night,
-Dialogue: 0,0:20:55.06,0:20:56.56,Dialogue,,0,0,0,,for suddenly barging in on you.
+Dialogue: 0,0:20:54.81,0:20:56.56,Dialogue,,0,0,0,,for suddenly barging in on you.
 Dialogue: 0,0:20:58.57,0:21:00.38,Dialogue,,0,0,0,,I'll be careful next time.
-Dialogue: 0,0:21:03.13,0:21:04.18,Dialogue,,0,0,0,,The movie,
+Dialogue: 0,0:21:03.13,0:21:04.18,Dialogue,,0,0,0,,The movie—
 Dialogue: 0,0:21:05.63,0:21:07.57,Dialogue,,0,0,0,,let's go see another one.
 Dialogue: 0,0:21:09.50,0:21:13.98,Dialogue,,0,0,0,,But you have to go home with me this time.
 Dialogue: 0,0:21:24.91,0:21:25.99,Dialogue,,0,0,0,,What?

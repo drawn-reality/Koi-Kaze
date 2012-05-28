@@ -13,13 +13,13 @@ Timer: 100.0000
 Original Script: anime.fin
 Script Updated By: drawn-reality gGmbH
 Last Style Storage: Koi Kaze L
-Scroll Position: 289
-Active Line: 320
+Scroll Position: 207
+Active Line: 220
 Audio URI: Koi_Kaze_-_Ep04_10bit_Raw_v3_[3432F5E0].wav
 Video File: Koi_Kaze_-_Ep04_10bit_Raw_v3_[3432F5E0].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 33243
+Video Position: 397
 Original Translation: minidora07 (TLC - SkyPilot)
 
 [V4+ Styles]
@@ -259,15 +259,6 @@ Dialogue: 0,0:21:05.63,0:21:07.57,Dialogue,,0,0,0,,let's go see another one.
 Dialogue: 0,0:21:09.50,0:21:13.98,Dialogue,,0,0,0,,But you have to go home with me this time.
 Dialogue: 0,0:21:24.91,0:21:25.99,Dialogue,,0,0,0,,What?
 Dialogue: 0,0:21:29.09,0:21:30.48,Dialogue,,0,0,0,,Nothing.
-Comment: 0,0:21:30.68,0:23:15.35,Preview,,0,0,0,,
-Comment: 0,0:23:15.35,0:23:17.13,Preview,,0,0,0,,{\pos(360,470)\fs60\bord2\1c&H00000000&\3c&H00ECE3D8&\frx90}{\t(0,620,\frx0)}Chidori goes
-Comment: 0,0:23:14.97,0:23:17.13,Preview,,0,0,0,,{\pos(480,100)\bord1\1c&H00000000&\3c&H00ECE3D8&\fs45}Serial Taige Preview
-Comment: 0,0:23:17.17,0:23:21.32,Dialogue,,0,0,0,,Ya... umm... well....
-Comment: 0,0:23:21.76,0:23:24.73,Dialogue,,0,0,0,,I'm sorry I sniffed it.. I'm sorry I sniffed it.
-Comment: 0,0:23:24.78,0:23:26.32,Dialogue,,0,0,0,,I'm sorry I sniffed it!
-Comment: 0,0:23:26.44,0:23:28.38,Dialogue,,0,0,0,,Innocent! Like hell!
-Comment: 0,0:23:28.48,0:23:29.73,Dialogue,,0,0,0,,I have no dignity.
-Comment: 0,0:21:30.68,0:23:15.35,Preview,,0,0,0,,
 Dialogue: 0,0:00:11.56,0:00:15.61,OP - Eng,,0,0,0,,{\fad(80,80)}I feel this way for the first time.
 Dialogue: 0,0:00:16.52,0:00:20.57,OP - Eng,,0,0,0,,{\fad(80,80)}A ray of sunshine
 Dialogue: 0,0:00:20.65,0:00:29.67,OP - Eng,,0,0,0,,{\fad(80,80)}was suddenly cast into my saddened heart.

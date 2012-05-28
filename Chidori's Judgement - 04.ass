@@ -1,0 +1,65 @@
+﻿[Script Info]
+Title: Koi Kaze - Chidori's Judgement - 04
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Scroll Position: 7
+Active Line: 37
+Last Style Storage: Koi Kaze L
+PlayResX: 712
+PlayResY: 476
+Video File: Koi_Kaze_-_Ex04_10bit_Raw_v3_[7810E911].mkv
+Video Colorspace: BT.601
+Video Aspect Ratio: c1.78151
+Video Position: 324
+Audio URI: Koi_Kaze_-_Ex04_10bit_Raw_v3_[7810E911].mkv
+Collisions: Normal
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Preview,EraserDust,50,&H00000000,&H0000FFFF,&H00FFFFFF,&H0056465B,-1,0,0,0,84,100,0,0,1,2,0,2,6,6,5,0
+Style: Dialogue,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,114,114,32,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.56,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview
+Dialogue: 0,0:00:01.56,0:00:01.60,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)\iclip(m 544 88 b 537 71 505 69 490 84 l 486 160 b 483 129 484 92 470 76 458 68 421 78 413 132 l 403 132 b 405 63 345 77 296 68 l 390 62 b 402 47 398 16 388 10 l 635 12 632 144 545 155)}An Epic Series Preview
+Dialogue: 0,0:00:01.60,0:00:02.14,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview
+Dialogue: 0,0:00:00.39,0:00:01.56,Preview,,0,0,0,,{\pos(360,460)\org(360,452)\fs80\frx50\t(0,653,0.7,\frx0)}Chidori's Judgement
+Dialogue: 0,0:00:01.56,0:00:01.60,Preview,,0,0,0,,{\pos(360,460)\fs80\clip(m 334 472 l 334 414 b 342 377 404 387 412 416 l 416 471 m 529 474 l 528 378 596 375 601 474)}Chidori's Judgement
+Dialogue: 0,0:00:01.60,0:00:01.64,Preview,,0,0,0,,{\pos(360,460)\fs80\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}Chidori's Judgement
+Dialogue: 0,0:00:01.64,0:00:02.14,Preview,,0,0,0,,{\pos(360,460)\fs80}Chidori's Judgement
+Dialogue: 0,0:00:02.14,0:00:06.35,Dialogue,,0,0,0,,Yeah... umm... well...{this is shitty.}
+Dialogue: 0,0:00:06.79,0:00:09.76,Dialogue,,0,0,0,,I'm sorry I smelled them. I'm sorry I smelled them.{Cursory investigation leads me to believe that burying your face into a bra for at least 30 seconds does not count as a "sniff". If you happen to be the type of person who regularly engages in this sort of behavior, feel free to share your thoughts on the matter.}
+Dialogue: 0,0:00:09.81,0:00:11.19,Dialogue,,0,0,0,,I'm sorry I smelled them!
+Dialogue: 1,0:00:11.40,0:00:12.49,Preview,,0,0,0,,{\an5\bord0\blur0.4\fs48\pos(523,25)\iclip(473,0,583,42)\t(28,487,\iclip(583,0,583,42))}Innocent
+Dialogue: 0,0:00:11.40,0:00:12.49,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(523,19)\fsp1.3\an5\fs48\iclip(473,0,583,42)\t(28,487,\iclip(583,0,583,42))}Innocent
+Dialogue: 1,0:00:12.49,0:00:12.53,Preview,,0,0,0,,{\an5\bord0\blur0.4\fs48\pos(523,25)}Innocent
+Dialogue: 1,0:00:12.53,0:00:12.57,Preview,,0,0,0,,{\an5\bord0\blur0.4\fs48\pos(523,125.83)}Innocent
+Dialogue: 1,0:00:12.57,0:00:12.61,Preview,,0,0,0,,{\an5\bord0\blur0.4\fs48\pos(523,224.61)}Innocent
+Dialogue: 1,0:00:12.61,0:00:12.65,Preview,,0,0,0,,{\an5\bord0\blur0.4\fs48\pos(523,325.42)}Innocent
+Dialogue: 0,0:00:12.49,0:00:12.53,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(523,19)\fsp1.3\an5\fs48}Innocent
+Dialogue: 0,0:00:12.53,0:00:12.57,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(523,119.83)\fsp1.3\an5\fs48}Innocent
+Dialogue: 0,0:00:12.57,0:00:12.61,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(523,218.61)\fsp1.3\an5\fs48}Innocent
+Dialogue: 0,0:00:12.61,0:00:12.65,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(523,319.42)\fsp1.3\an5\fs48}Innocent
+Dialogue: 1,0:00:12.65,0:00:12.70,Preview,,0,0,0,,{\an5\bord0\blur0.4\fs48\pos(523,424.42)}Innocent
+Dialogue: 0,0:00:12.65,0:00:12.70,Preview,,0,0,0,,{\bord0\blur2\c&HFFFFFF&\pos(523,418.42)\fsp1.3\an5\fs48}Innocent
+Comment: 1,0:00:12.61,0:00:12.90,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\pos(406.377,39)}Like Hell
+Dialogue: 1,0:00:12.61,0:00:12.65,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\pos(406.38,-196.42)}Like Hell
+Dialogue: 1,0:00:12.65,0:00:12.70,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\pos(406.38,-122.66)}Like Hell
+Dialogue: 1,0:00:12.70,0:00:12.74,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\pos(406.38,-50.41)}Like Hell
+Dialogue: 1,0:00:12.74,0:00:12.78,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\pos(406.38,23.34)}Like Hell
+Dialogue: 1,0:00:12.78,0:00:12.82,Preview,,0,0,0,,{\bord0\blur0.4\fs60\fscy90\an5\pos(406.38,110.3)}Like Hell
+Dialogue: 1,0:00:12.82,0:00:12.86,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\fscy110\pos(406.38,21.46)}Like Hell
+Comment: 0,0:00:12.61,0:00:12.90,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\an4\c&HFFFFFF&\pos(341,33)}Like Hell
+Dialogue: 0,0:00:12.61,0:00:12.65,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\an4\c&HFFFFFF&\pos(341,-202.42)}Like Hell
+Dialogue: 0,0:00:12.65,0:00:12.70,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\an4\c&HFFFFFF&\pos(341,-128.66)}Like Hell
+Dialogue: 0,0:00:12.70,0:00:12.74,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\an4\c&HFFFFFF&\pos(341,-56.41)}Like Hell
+Dialogue: 0,0:00:12.74,0:00:12.78,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\an4\c&HFFFFFF&\pos(341,17.34)}Like Hell
+Dialogue: 0,0:00:12.78,0:00:12.82,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fscy90\fs60\an4\c&HFFFFFF&\pos(341,104.29)}Like Hell
+Dialogue: 0,0:00:12.82,0:00:12.86,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\fscy110\an4\c&HFFFFFF&\pos(341,15.46)}Like Hell
+Dialogue: 1,0:00:12.86,0:00:13.53,Preview,,0,0,0,,{\bord0\blur0.4\fs60\an5\pos(406.38,39)}Like Hell
+Dialogue: 0,0:00:12.86,0:00:13.53,Preview,,0,0,0,,{\bord0\blur2\fsp0.5\fs60\an4\c&HFFFFFF&\pos(341,33)}Like Hell
+Dialogue: 0,0:00:11.33,0:00:12.23,Dialogue,,0,0,0,,Innocent?!
+Dialogue: 0,0:00:12.23,0:00:13.53,Dialogue,,0,0,0,,Like hell!
+Dialogue: 0,0:00:13.53,0:00:14.76,Dialogue,,0,0,0,,I'm so sorry.

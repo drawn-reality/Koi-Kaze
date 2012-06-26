@@ -13,12 +13,12 @@ Timer: 100.0000
 Original Script: anime.fin
 Script Updated By: drawn-reality gGmbH
 Last Style Storage: Koi Kaze L
-Scroll Position: 198
-Active Line: 208
+Scroll Position: 36
+Active Line: 56
 Video File: Koi_Kaze_-_Ep04_10bit_Raw_v3_[3432F5E0].mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.78151
-Video Position: 24344
+Video Position: 24288
 YCbCr Matrix: TV.601
 Audio URI: Koi_Kaze_-_Ep04_10bit_Raw_v3_[3432F5E0].mkv
 Original Translation: minidora07 (TLC - SkyPilot)
@@ -85,7 +85,31 @@ Dialogue: 1,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\fs20\frz-11\fax0.24\c&H585C62&
 Dialogue: 0,0:02:42.76,0:02:47.77,Signs,,0,0,0,,{\frz-11\fax0.25\c&H585C62&\bord2\3c&HBEC5CA&\move(515.529,53,689.376,109.112,28,4991)\t(3031,4949,\alpha&HFF&)}Party Meeting Room{出会いパーティー会場}
 Comment: 0,0:02:42.76,0:02:45.64,Signs,,0,0,0,,{\frz-11\fax0.25\c&H585C62&\bord2\3c&HBEC5CA&\pos(515.529,53)\t(3031,4949,\alpha&HFF&)}Party Meeting Room{出会いパーティー会場}
 Comment: 0,0:02:42.76,0:02:44.76,Signs,,0,0,0,,{\p1\an7\fscx100\pos(0,0)\c&HC2C9CF&\blur5}m 462 69 l 565 90 567 448 469 439
-Dialogue: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\pos(311.5,144)\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&}Unforgettable Love Scene{idfk what to do about this}
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz25\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(158.399,211.428)}U
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(175.213,201.285)}n
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(188.784,194.142)}f
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(201.516,187.285)}o
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz24\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(217.37,178.999)}r
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz23\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(231.421,171.999)}g
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz23\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(247.154,164.857)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz22\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(260.002,159.142)}t
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz22\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(272.013,154.142)}t
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(284.704,148.572)}a
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz19\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(301.417,142.856)}b
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz19\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(314.861,137.714)}l
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz18\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(326.863,133.714)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz17\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(354.8,125.142)}L
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz17\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(370.644,121.714)}o
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz16\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(384.087,117.714)}v
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz16\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(400.411,115.428)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz10\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(427.776,110.286)}S
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz9\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(442.659,107.428)}c
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz8\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(458.503,105.714)}e
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz7\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(474.827,104)}n
+Dialogue: 1,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz6\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(493.551,102.285)}e
+Comment: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(311.5,80.572)}Unforgettable Love Scene
+Comment: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\frz20\fs40\blur1\c&H464D4E&\xshad3\yshad1\4c&HACB1B3&\pos(311.5,80.572)}Unforgettable Love Scene
+Comment: 0,0:16:52.99,0:16:56.49,Signs,,0,0,0,,{\fscx100\an7\p1\pos(15.971,15)}m 89 253 b 254 126 428 89 570 94 l 348 180
 Dialogue: 0,0:01:55.98,0:01:57.01,Dialogue,,0,0,0,,Hey.
 Dialogue: 0,0:02:00.08,0:02:01.78,Dialogue,,0,0,0,,Are you all right?
 Dialogue: 0,0:02:01.78,0:02:02.90,Dialogue,,0,0,0,,What?

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+
+<Chapters>
+  <EditionEntry>
+    <EditionUID>3132886952</EditionUID>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <ChapterAtom>
+      <ChapterUID>649700262</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:43.437000000</ChapterTimeEnd>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Opening - Koi Kaze</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1838055864</ChapterUID>
+      <ChapterTimeStart>00:01:43.437000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:07.000000000</ChapterTimeEnd>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>First Flower - Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>165628341</ChapterUID>
+      <ChapterTimeStart>00:11:07.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:44.011000000</ChapterTimeEnd>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>First Flower - Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2740724382</ChapterUID>
+      <ChapterTimeStart>00:21:44.011000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:13.642000000</ChapterTimeEnd>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterDisplay>
+        <ChapterString>Ending - Futari Dakara</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>417345445</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:00:14.973000000</ChapterTimeEnd>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterSegmentUID format="hex">
+        af c2 d9 81 cf 48 62 35 96 3e 09 86 70 33 c5 fb
+      </ChapterSegmentUID>
+      <ChapterDisplay>
+        <ChapterString>Chidori's Judgement - 01</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

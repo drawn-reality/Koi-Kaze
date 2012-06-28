@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionFlagOrdered>1</EditionFlagOrdered>
+    <EditionUID>1582648481</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>1772881072</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Opening - Koi Kaze</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:43.437000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3112314543</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Evening Shower - Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:01:43.437000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:09:59.015000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3635574702</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Evening Shower - Part B</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:09:59.015000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:44.428000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3072748163</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Ending - Futari Dakara</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:21:44.428000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:13.767000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1991954358</ChapterUID>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterSegmentUID format="hex">
+        eb 48 39 d0 d2 4c 64 63 ce e7 05 47 bc f0 99 ec
+      </ChapterSegmentUID>
+      <ChapterDisplay>
+        <ChapterString>Chidori's Judgement - 04</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:00:14.973000000</ChapterTimeEnd>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

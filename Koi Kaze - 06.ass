@@ -13,7 +13,7 @@ Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
 Scroll Position: 177
-Active Line: 197
+Active Line: 195
 Script Updated By: drawn-reality gGmbH
 Audio URI: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep06_10bit_Raw_v3_[CA8A8ED8]_track2_jpn.flac
 Video File: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep06_10bit_Raw_v3_[CA8A8ED8].mkv
@@ -43,201 +43,201 @@ Style: ED - Jpk,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:43.53,0:01:48.26,Title,,0,0,0,,{\pos(260,356)\3a&H5F&}{\fad(871,1052)}Autumnal melancholy
 Dialogue: 0,0:05:58.55,0:06:03.63,Signs,,0,0,0,,{\a6}A "get to know" your elders party \N With a guy that's like your brother, with a girl that's like your sister \N Proposal book
-Dialogue: 0,0:01:52.32,0:01:54.00,Dialogue - Italic,,0,0,0,,We still have some eggs left.
-Dialogue: 0,0:01:54.47,0:01:56.12,Dialogue - Italic,,0,0,0,,So all we need is crab meat and mitsuba.
+Dialogue: 0,0:01:52.17,0:01:54.31,Dialogue - Italic,,0,0,0,,We still have some eggs left.
+Dialogue: 0,0:01:54.31,0:01:56.40,Dialogue - Italic,,0,0,0,,So all we need is crab meat and mitsuba.
 Dialogue: 0,0:01:54.47,0:01:56.12,tlnote,,0,0,0,,{\a6}mitsuba = white chervil (cryptotaenia japonica), japanese parsley
-Dialogue: 0,0:01:57.95,0:02:01.60,Dialogue - Italic,,0,0,0,,Yesterday I made rice with green peas for dinner thinking it was a good dish for autumn,
-Dialogue: 0,0:02:03.05,0:02:06.67,Dialogue - Italic,,0,0,0,,but then Onii-chan said it was like a school meal.
-Dialogue: 0,0:02:07.28,0:02:09.39,Dialogue - Italic,,0,0,0,,That's why I've decided to make crab porridge for dinner tonight.
-Dialogue: 0,0:02:11.49,0:02:13.54,Dialogue - Italic,,0,0,0,,It's because I've never eaten it for a school meal.
-Dialogue: 0,0:02:14.63,0:02:16.69,Dialogue - Italic,,0,0,0,,Dad would probably enjoy it.
-Dialogue: 0,0:02:17.31,0:02:21.10,Dialogue - Italic,,0,0,0,,Onii-chan would probably... not be surprised.
-Dialogue: 0,0:02:25.44,0:02:32.23,Dialogue - Italic,,0,0,0,,I'm just trying to become closer to my brother, who's sometimes so arrogant and mean.
-Dialogue: 0,0:02:34.47,0:02:38.93,Dialogue - Italic,,0,0,0,,I'm finally starting to realize that my brother does have his good points.
-Dialogue: 0,0:02:40.38,0:02:45.68,Dialogue - Italic,,0,0,0,,However, he's still unfriendly and grumpy sometimes.
-Dialogue: 0,0:02:46.54,0:02:47.27,Dialogue,,0,0,0,,Kohinata-san.
-Dialogue: 0,0:02:50.11,0:02:50.88,Dialogue,,0,0,0,,Miyauchi-kun.
-Dialogue: 0,0:02:52.71,0:02:53.36,Dialogue,,0,0,0,,I'll take those for you.
-Dialogue: 0,0:02:56.21,0:02:56.88,Dialogue,,0,0,0,,Thank you
-Dialogue: 0,0:02:59.86,0:03:03.16,Dialogue,,0,0,0,,All the executive committee does is odd jobs.
-Dialogue: 0,0:03:04.07,0:03:04.49,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:03:05.21,0:03:06.26,Dialogue,,0,0,0,,Doesn't it suck?
-Dialogue: 0,0:03:08.45,0:03:09.91,Dialogue,,0,0,0,,No, not really.
-Dialogue: 0,0:03:14.81,0:03:18.91,Dialogue,,0,0,0,,your class is doing a haunted house, right? Tamaki-chan told me.
-Dialogue: 0,0:03:19.66,0:03:20.10,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:03:21.04,0:03:22.03,Dialogue,,0,0,0,,Sounds like fun.
-Dialogue: 0,0:03:22.64,0:03:24.99,Dialogue,,0,0,0,,Our class is just doing a plain exhibition.
-Dialogue: 0,0:03:25.51,0:03:26.38,Dialogue,,0,0,0,,It's normal.
-Dialogue: 0,0:03:30.88,0:03:34.23,Dialogue,,0,0,0,,Did you ask anyone to come, Miyauchi-kun? Like a friend?
-Dialogue: 0,0:03:35.92,0:03:36.53,Dialogue,,0,0,0,,No.
-Dialogue: 0,0:03:37.67,0:03:38.21,Dialogue,,0,0,0,,Oh...
-Dialogue: 0,0:03:49.44,0:03:52.21,Dialogue,,0,0,0,,I was thinking of asking my brother...
-Dialogue: 0,0:03:54.45,0:03:59.98,Dialogue,,0,0,0,,But it's hard to figure out his days off, so he might not be free on the Culture Festival Day.
-Dialogue: 0,0:04:08.77,0:04:11.99,Dialogue,,0,0,0,,So the rumor about you having a brother complex is true.
-Dialogue: 0,0:04:13.61,0:04:17.08,Dialogue,,0,0,0,,Eh? I don't! I don't have a brother complex!
-Dialogue: 0,0:04:22.84,0:04:23.77,Dialogue,,0,0,0,,Who did you hear that from?
-Dialogue: 0,0:04:24.47,0:04:24.88,Dialogue,,0,0,0,,No one.
-Dialogue: 0,0:04:25.52,0:04:27.07,Dialogue,,0,0,0,,Don't give me that!
-Dialogue: 0,0:04:33.98,0:04:36.05,Dialogue,,0,0,0,,I overheard Tamaki talking with her friends.
-Dialogue: 0,0:04:37.81,0:04:40.34,Dialogue,,0,0,0,,Well, Tamaki-chan and Futaba-chan like to make fun of me,
-Dialogue: 0,0:04:40.63,0:04:44.67,Dialogue,,0,0,0,,but is going to the movies or shopping with my brother really such a weird thing to do?
-Dialogue: 0,0:04:46.06,0:04:48.69,Dialogue,,0,0,0,,It's true that I like my brother, but...
-Dialogue: 0,0:04:50.76,0:04:52.21,Dialogue,,0,0,0,,Just leave the rumors alone.
-Dialogue: 0,0:04:58.66,0:04:59.86,Dialogue,,0,0,0,,I'm saying not to worry about them.
-Dialogue: 0,0:05:06.11,0:05:11.97,Dialogue - Italic,,0,0,0,,So as for me, nothing has changed.
-Dialogue: 0,0:05:14.11,0:05:18.01,Dialogue - Italic,,0,0,0,,And as time passed, the feelings of guilt thinned out.
-Dialogue: 0,0:05:18.81,0:05:20.51,Dialogue - Italic,,0,0,0,,Again I...
-Dialogue: 0,0:05:41.76,0:05:43.60,Dialogue - Italic,,0,0,0,,Not that I'm taking the offensive,
-Dialogue: 0,0:05:44.34,0:05:45.92,Dialogue - Italic,,0,0,0,,but recently I sometimes think...
-Dialogue: 0,0:05:49.20,0:05:53.57,Dialogue - Italic,,0,0,0,,Is it that weird to think about my sister while masturbating?
-Dialogue: 0,0:05:55.16,0:05:57.36,Dialogue,,0,0,0,,Younger sister, younger sister, younger sister...
-Dialogue: 0,0:05:59.21,0:06:01.60,Dialogue,,0,0,0,,How can I say this? You never grow up, do you?
-Dialogue: 0,0:06:01.86,0:06:02.87,Dialogue,,0,0,0,,Not at all.
-Dialogue: 0,0:06:03.04,0:06:07.61,Dialogue,,0,0,0,,My admiration for the existence of a younger sister is my life long theme.
-Dialogue: 0,0:06:08.11,0:06:09.02,Dialogue,,0,0,0,,Right, Koshiro-san?
-Dialogue: 0,0:06:09.32,0:06:11.28,Dialogue,,0,0,0,,Don't try to get my consent.
-Dialogue: 0,0:06:11.47,0:06:16.52,Dialogue,,0,0,0,,So you say... But you were walking with Nanoka-chan last Sunday, weren't you?
-Dialogue: 0,0:06:17.54,0:06:18.75,Dialogue,,0,0,0,,What did you...!?
-Dialogue: 0,0:06:18.75,0:06:22.37,Dialogue,,0,0,0,,Oh how nice, a date with your sister.
-Dialogue: 0,0:06:22.91,0:06:25.74,Dialogue,,0,0,0,,I'd like to take a cute brother out and walk with him too.
-Dialogue: 0,0:06:26.42,0:06:27.17,Dialogue,,0,0,0,,Oh really?
-Dialogue: 0,0:06:35.26,0:06:40.68,Dialogue,,0,0,0,,But going out with your brother on a holiday, isn't that kind of sad?
-Dialogue: 0,0:06:41.39,0:06:42.64,Dialogue,,0,0,0,,I wonder if she doesn't have a boyfriend?
-Dialogue: 0,0:06:43.41,0:06:46.07,Dialogue,,0,0,0,,A childish kid like her wouldn't be able to get a guy.
-Dialogue: 0,0:06:46.79,0:06:49.61,Dialogue,,0,0,0,,Maybe you're the only one who thinks so.
-Dialogue: 0,0:06:52.89,0:06:54.21,Dialogue - Italic,,0,0,0,,A guy huh?
-Dialogue: 0,0:07:30.59,0:07:33.27,Dialogue - Italic,,0,0,0,,"Onii-chan"...
-Dialogue: 0,0:07:39.51,0:07:41.38,Dialogue - Italic,,0,0,0,,Now's probably the only time that she'd be attached to her brother like that...
-Dialogue: 0,0:07:45.78,0:07:46.48,Dialogue,,0,0,0,,Oh really?
-Dialogue: 0,0:07:48.34,0:07:53.23,Dialogue,,0,0,0,,Yeah. So my big brother's last name is Saeki, but mine is Kohinata.
-Dialogue: 0,0:07:53.94,0:07:56.85,Dialogue,,0,0,0,,Isn't it weird? That we have different last names even though we're siblings?
-Dialogue: 0,0:07:58.43,0:08:00.32,Dialogue,,0,0,0,,How about you, Miyauchi-kun?
-Dialogue: 0,0:08:01.08,0:08:01.70,Dialogue,,0,0,0,,I have an older sister.
-Dialogue: 0,0:08:03.17,0:08:04.96,Dialogue,,0,0,0,,An older sister? How nice.
-Dialogue: 0,0:08:05.43,0:08:06.45,Dialogue,,0,0,0,,How much older is she?
-Dialogue: 0,0:08:07.12,0:08:07.68,Dialogue,,0,0,0,,Two years older.
-Dialogue: 0,0:08:09.01,0:08:09.98,Dialogue,,0,0,0,,She's in high school?
-Dialogue: 0,0:08:10.42,0:08:11.87,Dialogue,,0,0,0,,It's nice that your ages are so close.
-Dialogue: 0,0:08:13.21,0:08:15.97,Dialogue,,0,0,0,,My brother and I are 12 years apart...
-Dialogue: 0,0:08:24.51,0:08:27.55,Dialogue,,0,0,0,,And my brother always has this grumpy look and...
-Dialogue: 0,0:08:29.89,0:08:30.53,Dialogue,,0,0,0,,Onii-chan!
-Dialogue: 0,0:08:36.33,0:08:36.90,Dialogue,,0,0,0,,This is my brother.
-Dialogue: 0,0:08:37.94,0:08:40.77,Dialogue,,0,0,0,,Hi, I'm Miyauchi of class 4, first year.
-Dialogue: 0,0:08:42.07,0:08:44.73,Dialogue,,0,0,0,,He walked me home because we had to stay late for the Culture Festival preparations.
-Dialogue: 0,0:08:45.73,0:08:47.11,Dialogue,,0,0,0,,I'll get going.
-Dialogue: 0,0:08:47.46,0:08:48.91,Dialogue,,0,0,0,,Okay, thank you.
-Dialogue: 0,0:08:55.94,0:08:58.66,Dialogue,,0,0,0,,It's rude if you don't greet him properly too, Onii-chan...
-Dialogue: 0,0:08:58.93,0:08:59.30,Dialogue,,0,0,0,,Ouch!
-Dialogue: 0,0:08:59.54,0:09:02.38,Dialogue,,0,0,0,,It hurts, Onii-chan! You're hurting me!
-Dialogue: 0,0:09:10.42,0:09:13.35,Dialogue,,0,0,0,,Hey! Onii-chan! What's your problem?
-Dialogue: 0,0:09:14.01,0:09:15.56,Dialogue,,0,0,0,,What do you mean Culture Festival preparations?
-Dialogue: 0,0:09:17.34,0:09:19.87,Dialogue,,0,0,0,,It's ten years too early for you to be going out with a guy!
-Dialogue: 0,0:09:20.40,0:09:22.97,Dialogue,,0,0,0,,Until you reach an age when you can take responsibility for yourself,
-Dialogue: 0,0:09:23.25,0:09:24.61,Dialogue,,0,0,0,,I won't allow it!
-Dialogue: 0,0:09:24.71,0:09:26.08,Dialogue,,0,0,0,,Thsi is a complete misunderstanding!
-Dialogue: 0,0:09:26.41,0:09:29.06,Dialogue,,0,0,0,,Miyauchi-kun just walked me home out of kindness!
-Dialogue: 0,0:09:29.19,0:09:31.40,Dialogue,,0,0,0,,Kindness? Are you an idiot!
-Dialogue: 0,0:09:32.11,0:09:34.34,Dialogue,,0,0,0,,You don't know what kind of ulterior motives he has!
-Dialogue: 0,0:09:34.69,0:09:35.93,Dialogue,,0,0,0,,Use your brain a little more!
-Dialogue: 0,0:09:36.72,0:09:39.67,Dialogue,,0,0,0,,You're the only one that has such a dirty mind!
-Dialogue: 0,0:09:39.71,0:09:42.14,Dialogue,,0,0,0,,Fool! You're not cautious enough!
-Dialogue: 0,0:09:42.45,0:09:43.68,Dialogue,,0,0,0,,That's not true!
-Dialogue: 0,0:09:43.72,0:09:44.37,Dialogue,,0,0,0,,Yes it is!
-Dialogue: 0,0:09:44.64,0:09:46.61,Dialogue,,0,0,0,,Why would you know that kind of thing?
-Dialogue: 0,0:09:45.84,0:09:47.24,Dialogue,,0,0,0,,Because you're cute!
-Dialogue: 0,0:09:58.02,0:10:02.53,Dialogue,,0,0,0,,No... This isnt what I personally think.
-Dialogue: 0,0:10:03.04,0:10:05.50,Dialogue,,0,0,0,,It's what people think objectively.
-Dialogue: 0,0:10:06.05,0:10:10.56,Dialogue,,0,0,0,,As your brother, it's only natural to be worried about you, my younger sister.
-Dialogue: 0,0:10:10.81,0:10:16.07,Dialogue,,0,0,0,,This is more of my dad's opinion than mine. It's what's called a family consensus...
-Dialogue: 0,0:10:17.51,0:10:18.90,Dialogue,,0,0,0,,Hey, what's wrong?
-Dialogue: 0,0:10:19.39,0:10:22.37,Dialogue,,0,0,0,,You'll disturb the neighbors being so noisy in front of the house.
-Dialogue: 0,0:10:23.51,0:10:25.70,Dialogue,,0,0,0,,Hey, Na... Nanoka?
-Dialogue: 0,0:10:31.61,0:10:33.55,Dialogue,,0,0,0,,Wh...wh...wh...what happened?
-Dialogue: 0,0:10:33.33,0:10:34.21,Dialogue,,0,0,0,,Like I know!
-Dialogue: 0,0:10:39.81,0:10:40.92,Dialogue - Italic,,0,0,0,,I was surprised...
-Dialogue: 0,0:10:59.01,0:11:02.08,Dialogue - Italic,,0,0,0,,God... What'ss with him?
-Dialogue: 0,0:11:05.41,0:11:08.38,Dialogue,,0,0,0,,You should try to get along as siblings.
-Dialogue: 0,0:11:08.65,0:11:10.74,Dialogue,,0,0,0,,Shut up! I didn't become a brother because I wanted to!
-Dialogue: 0,0:11:11.99,0:11:12.85,Dialogue,,0,0,0,,Koshiro!
-Dialogue: 0,0:11:42.56,0:11:44.40,Dialogue,,0,0,0,,Nanoka has already left.
-Dialogue: 0,0:11:45.70,0:11:46.21,Dialogue,,0,0,0,,I see.
-Dialogue: 0,0:11:47.13,0:11:47.50,Dialogue,,0,0,0,,Here.
-Dialogue: 0,0:11:56.16,0:11:58.76,Dialogue - Italic,,0,0,0,,I guess it was a bit insinuating...
-Dialogue: 0,0:12:06.36,0:12:07.22,Dialogue - Italic,,0,0,0,,But it's fine.
-Dialogue: 0,0:12:08.69,0:12:11.85,Dialogue - Italic,,0,0,0,,Onii-chan was really mean yesterday.
-Dialogue: 0,0:12:14.40,0:12:16.15,Dialogue - Italic,,0,0,0,,"Cute" ... he said.
-Dialogue: 0,0:12:17.96,0:12:18.79,Dialogue - Italic,,0,0,0,,How weird.
-Dialogue: 0,0:12:28.44,0:12:29.90,Dialogue,,0,0,0,,No way! A molester?
-Dialogue: 0,0:12:30.36,0:12:32.96,Dialogue,,0,0,0,,Oh god, no! No! No! It was so gross!
-Dialogue: 0,0:12:33.26,0:12:37.36,Dialogue,,0,0,0,,Man that sucks! Didn't your brother protect you?
-Dialogue: 0,0:12:39.76,0:12:42.21,Dialogue,,0,0,0,,It's not like I'm always with him!
-Dialogue: 0,0:12:53.60,0:12:56.32,Dialogue - Italic,,0,0,0,,First guilt, now jealousy?
-Dialogue: 0,0:14:21.60,0:14:22.35,Dialogue,,0,0,0,,I'm home.
-Dialogue: 0,0:14:22.89,0:14:23.52,Dialogue,,0,0,0,,Welcome home.
-Dialogue: 0,0:14:25.97,0:14:27.03,Dialogue,,0,0,0,,Dinner is ready.
-Dialogue: 0,0:14:27.62,0:14:28.02,Dialogue,,0,0,0,,Okay.
-Dialogue: 0,0:14:40.72,0:14:41.94,Dialogue,,0,0,0,,Isn't Onii-chan late?
-Dialogue: 0,0:14:43.17,0:14:43.78,Dialogue,,0,0,0,,Really?
-Dialogue: 0,0:14:44.67,0:14:45.68,Dialogue,,0,0,0,,I guess not really.
-Dialogue: 0,0:14:46.51,0:14:47.48,Dialogue,,0,0,0,,He's usually home around now.
-Dialogue: 0,0:14:53.78,0:14:56.82,Dialogue - Italic,,0,0,0,,That's right, I'm angry at him.
-Dialogue: 0,0:14:58.06,0:15:01.28,Dialogue - Italic,,0,0,0,,He always says things so arrogantly.
-Dialogue: 0,0:15:04.50,0:15:06.23,Dialogue - Italic,,0,0,0,,Because you're cute!
-Dialogue: 0,0:15:10.96,0:15:12.29,Dialogue - Italic,,0,0,0,,I was just surprised...
-Dialogue: 0,0:15:13.16,0:15:17.12,Dialogue - Italic,,0,0,0,,I didn't think I'd hear those words from my brother.
-Dialogue: 0,0:15:18.53,0:15:19.57,Dialogue - Italic,,0,0,0,,That's all.
-Dialogue: 0,0:15:50.46,0:15:51.18,Dialogue,,0,0,0,,Good night.
-Dialogue: 0,0:15:55.06,0:15:57.83,Dialogue - Italic,,0,0,0,,Should I make up with him tomorrow?
-Dialogue: 0,0:16:03.28,0:16:06.69,Dialogue,,0,0,0,,What? He left before me?
-Dialogue: 0,0:16:20.85,0:16:22.21,Dialogue,,0,0,0,,Ouch...
-Dialogue: 0,0:16:22.87,0:16:23.95,Dialogue,,0,0,0,,Good morning.
-Dialogue: 0,0:16:34.56,0:16:37.05,Dialogue,,0,0,0,,Why? Stingy! Meanie!
-Dialogue: 0,0:16:37.66,0:16:39.20,Dialogue,,0,0,0,,He could have waited for me a little bit.
-Dialogue: 0,0:16:39.74,0:16:40.42,Dialogue,,0,0,0,,Kohinata-san.
-Dialogue: 0,0:16:42.33,0:16:43.05,Dialogue,,0,0,0,,Miyauchi-kun.
-Dialogue: 0,0:16:43.76,0:16:45.92,Dialogue,,0,0,0,,The tickets for my class are ready.
-Dialogue: 0,0:16:46.80,0:16:48.09,Dialogue,,0,0,0,,Okay, thanks.
-Dialogue: 0,0:16:48.81,0:16:49.84,Dialogue,,0,0,0,,Come with your brother or something.
-Dialogue: 0,0:17:03.54,0:17:06.02,Dialogue,,0,0,0,,I'm never inviting my brother!
-Dialogue: 0,0:17:08.66,0:17:11.84,Dialogue,,0,0,0,,With that project plan the next event will definitely succeed!
-Dialogue: 0,0:17:12.76,0:17:13.33,Dialogue,,0,0,0,,Yeah.
-Dialogue: 0,0:17:15.26,0:17:17.82,Dialogue,,0,0,0,,We have the data you gathered for us, too.
-Dialogue: 0,0:17:18.41,0:17:20.18,Dialogue,,0,0,0,,With that, the chief will agree to it.
-Dialogue: 0,0:17:21.01,0:17:21.57,Dialogue,,0,0,0,,Yeah...
-Dialogue: 0,0:17:23.06,0:17:24.43,Dialogue,,0,0,0,,What a spoilsport!
-Dialogue: 0,0:17:25.46,0:17:26.02,Dialogue,,0,0,0,,Yeah...
-Dialogue: 0,0:18:09.96,0:18:11.44,Dialogue,,0,0,0,,I'll go with you today.
-Dialogue: 0,0:18:15.07,0:18:16.82,Dialogue,,0,0,0,,It's fine, I'll go ahead.
-Dialogue: 0,0:18:17.56,0:18:18.28,Dialogue,,0,0,0,,You know what?
-Dialogue: 0,0:18:18.90,0:18:22.10,Dialogue,,0,0,0,,Don't avoid me forever, just because you're brooding over something stupid.
-Dialogue: 0,0:18:23.73,0:18:25.78,Dialogue,,0,0,0,,Aren't you the one who's avoiding me?
-Dialogue: 0,0:18:26.34,0:18:27.84,Dialogue,,0,0,0,,You were late yesterday, too.
-Dialogue: 0,0:18:29.96,0:18:32.61,Dialogue,,0,0,0,,Not that I really care about that.
-Dialogue: 0,0:18:35.27,0:18:35.86,Dialogue,,0,0,0,,What?
-Dialogue: 0,0:18:36.44,0:18:40.69,Dialogue,,0,0,0,,You're always so bossy, just because you're a bit older than me.
-Dialogue: 0,0:18:41.06,0:18:43.23,Dialogue,,0,0,0,,Saying things like you're pressing me from above.
-Dialogue: 0,0:18:44.10,0:18:47.01,Dialogue,,0,0,0,,I don't like you at all!
-Dialogue: 0,0:18:51.36,0:18:53.03,Dialogue,,0,0,0,,It's fine that you don't like me.
-Dialogue: 0,0:18:56.56,0:18:59.15,Dialogue,,0,0,0,,I think I said too much the other day.
-Dialogue: 0,0:18:59.55,0:19:00.37,Dialogue,,0,0,0,,I'm sorry.
-Dialogue: 0,0:19:01.59,0:19:04.78,Dialogue,,0,0,0,,But, I won't tell you not to go out with guys.
-Dialogue: 0,0:19:05.49,0:19:09.01,Dialogue,,0,0,0,,Just don't come home too late or lie about things.
-Dialogue: 0,0:19:10.04,0:19:11.62,Dialogue,,0,0,0,,I never lied!
-Dialogue: 0,0:19:11.87,0:19:14.82,Dialogue,,0,0,0,,I know. Not that.
-Dialogue: 0,0:19:15.24,0:19:16.61,Dialogue,,0,0,0,,I'm talking about from now on.
-Dialogue: 0,0:19:18.01,0:19:20.04,Dialogue,,0,0,0,,I'm saying don't worry me too much.
-Dialogue: 0,0:19:27.52,0:19:30.74,Dialogue - Italic,,0,0,0,,Does Onii-chan really worry about me that much?
-Dialogue: 0,0:19:35.09,0:19:38.64,Dialogue,,0,0,0,,Damn, we missed the train because of you.
-Dialogue: 0,0:19:39.29,0:19:41.21,Dialogue,,0,0,0,,It's because of your lecture.
-Dialogue: 0,0:19:41.77,0:19:45.12,Dialogue,,0,0,0,,If anything happens to you the responsibility of the guardian is going to be questioned.
-Dialogue: 0,0:19:46.24,0:19:47.57,Dialogue,,0,0,0,,Don't treat me like a kid.
-Dialogue: 0,0:19:47.86,0:19:49.52,Dialogue,,0,0,0,,You are a kid.
-Dialogue: 0,0:19:49.74,0:19:50.82,Dialogue,,0,0,0,,That's not true!
-Dialogue: 0,0:20:09.09,0:20:09.81,Dialogue,,0,0,0,,Excuse me.
-Dialogue: 0,0:20:32.78,0:20:33.42,Dialogue,,0,0,0,,Sorry.
-Dialogue: 0,0:21:06.49,0:21:09.69,Dialogue - Italic,,0,0,0,,The doors are closing. please be careful.
-Dialogue: 0,0:21:21.60,0:21:23.06,Dialogue - Italic,,0,0,0,,I hope you stay a child...
-Dialogue: 0,0:21:24.76,0:21:26.84,Dialogue - Italic,,0,0,0,,Just as you are right now...
+Dialogue: 0,0:01:57.80,0:02:01.88,Dialogue - Italic,,0,0,0,,Yesterday I made rice with green peas for dinner thinking it was a good dish for autumn,
+Dialogue: 0,0:02:03.01,0:02:07.11,Dialogue - Italic,,0,0,0,,but then Onii-chan said it was like a school meal.
+Dialogue: 0,0:02:07.11,0:02:09.67,Dialogue - Italic,,0,0,0,,That's why I've decided to make crab porridge for dinner tonight.
+Dialogue: 0,0:02:11.34,0:02:13.78,Dialogue - Italic,,0,0,0,,It's because I've never eaten it for a school meal.
+Dialogue: 0,0:02:14.48,0:02:16.78,Dialogue - Italic,,0,0,0,,Dad would probably enjoy it.
+Dialogue: 0,0:02:17.14,0:02:21.38,Dialogue - Italic,,0,0,0,,Onii-chan would probably... not be surprised.
+Dialogue: 0,0:02:25.29,0:02:32.29,Dialogue - Italic,,0,0,0,,I'm just trying to become closer to my brother, who's sometimes so arrogant and mean.
+Dialogue: 0,0:02:34.32,0:02:39.21,Dialogue - Italic,,0,0,0,,I'm finally starting to realize that my brother does have his good points.
+Dialogue: 0,0:02:40.30,0:02:46.31,Dialogue - Italic,,0,0,0,,However, he's still unfriendly and grumpy sometimes.
+Dialogue: 0,0:02:46.31,0:02:47.31,Dialogue,,0,0,0,,Kohinata-san.
+Dialogue: 0,0:02:49.96,0:02:50.98,Dialogue,,0,0,0,,Miyauchi-kun.
+Dialogue: 0,0:02:52.56,0:02:53.64,Dialogue,,0,0,0,,I'll take those for you.
+Dialogue: 0,0:02:56.06,0:02:57.16,Dialogue,,0,0,0,,Thank you
+Dialogue: 0,0:02:59.71,0:03:03.24,Dialogue,,0,0,0,,All the executive committee does is odd jobs.
+Dialogue: 0,0:03:03.92,0:03:05.03,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:03:05.03,0:03:06.54,Dialogue,,0,0,0,,Doesn't it suck?
+Dialogue: 0,0:03:08.30,0:03:09.96,Dialogue,,0,0,0,,No, not really.
+Dialogue: 0,0:03:14.66,0:03:19.47,Dialogue,,0,0,0,,your class is doing a haunted house, right? Tamaki-chan told me.
+Dialogue: 0,0:03:19.47,0:03:20.38,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:03:20.80,0:03:22.47,Dialogue,,0,0,0,,Sounds like fun.
+Dialogue: 0,0:03:22.47,0:03:25.35,Dialogue,,0,0,0,,Our class is just doing a plain exhibition.
+Dialogue: 0,0:03:25.35,0:03:26.66,Dialogue,,0,0,0,,It's normal.
+Dialogue: 0,0:03:30.73,0:03:34.51,Dialogue,,0,0,0,,Did you ask anyone to come, Miyauchi-kun? Like a friend?
+Dialogue: 0,0:03:35.77,0:03:36.81,Dialogue,,0,0,0,,No.
+Dialogue: 0,0:03:37.32,0:03:38.49,Dialogue,,0,0,0,,Oh...
+Dialogue: 0,0:03:49.29,0:03:52.29,Dialogue,,0,0,0,,I was thinking of asking my brother...
+Dialogue: 0,0:03:54.30,0:04:00.55,Dialogue,,0,0,0,,But it's hard to figure out his days off, so he might not be free on the Culture Festival Day.
+Dialogue: 0,0:04:08.62,0:04:12.27,Dialogue,,0,0,0,,So the rumor about you having a brother complex is true.
+Dialogue: 0,0:04:13.48,0:04:17.36,Dialogue,,0,0,0,,Eh? I don't! I don't have a brother complex!
+Dialogue: 0,0:04:22.69,0:04:24.29,Dialogue,,0,0,0,,Who did you hear that from?
+Dialogue: 0,0:04:24.29,0:04:25.34,Dialogue,,0,0,0,,No one.
+Dialogue: 0,0:04:25.34,0:04:27.35,Dialogue,,0,0,0,,Don't give me that!
+Dialogue: 0,0:04:33.83,0:04:36.33,Dialogue,,0,0,0,,I overheard Tamaki talking with her friends.
+Dialogue: 0,0:04:37.66,0:04:40.80,Dialogue,,0,0,0,,Well, Tamaki-chan and Futaba-chan like to make fun of me,
+Dialogue: 0,0:04:40.48,0:04:44.95,Dialogue,,0,0,0,,but is going to the movies or shopping with my brother really such a weird thing to do?
+Dialogue: 0,0:04:45.91,0:04:48.97,Dialogue,,0,0,0,,It's true that I like my brother, but...
+Dialogue: 0,0:04:50.61,0:04:52.52,Dialogue,,0,0,0,,Just leave the rumors alone.
+Dialogue: 0,0:04:58.51,0:05:00.23,Dialogue,,0,0,0,,I'm saying not to worry about them.
+Dialogue: 0,0:05:05.96,0:05:12.25,Dialogue - Italic,,0,0,0,,So as for me, nothing has changed.
+Dialogue: 0,0:05:13.96,0:05:18.29,Dialogue - Italic,,0,0,0,,And as time passed, the feelings of guilt thinned out.
+Dialogue: 0,0:05:18.66,0:05:20.63,Dialogue - Italic,,0,0,0,,Again I...
+Dialogue: 0,0:05:41.61,0:05:44.15,Dialogue - Italic,,0,0,0,,Not that I'm taking the offensive,
+Dialogue: 0,0:05:44.15,0:05:46.20,Dialogue - Italic,,0,0,0,,but recently I sometimes think...
+Dialogue: 0,0:05:49.05,0:05:53.85,Dialogue - Italic,,0,0,0,,Is it that weird to think about my sister while masturbating?
+Dialogue: 0,0:05:55.01,0:05:57.64,Dialogue,,0,0,0,,Younger sister, younger sister, younger sister...
+Dialogue: 0,0:05:59.06,0:06:01.71,Dialogue,,0,0,0,,How can I say this? You never grow up, do you?
+Dialogue: 0,0:06:01.71,0:06:02.89,Dialogue,,0,0,0,,Not at all.
+Dialogue: 0,0:06:02.89,0:06:07.95,Dialogue,,0,0,0,,My admiration for the existence of a younger sister is my life long theme.
+Dialogue: 0,0:06:07.95,0:06:09.14,Dialogue,,0,0,0,,Right, Koshiro-san?
+Dialogue: 0,0:06:09.14,0:06:11.32,Dialogue,,0,0,0,,Don't try to get my consent.
+Dialogue: 0,0:06:11.32,0:06:16.89,Dialogue,,0,0,0,,So you say... But you were walking with Nanoka-chan last Sunday, weren't you?
+Dialogue: 0,0:06:17.39,0:06:18.75,Dialogue,,0,0,0,,What did you...!?
+Dialogue: 0,0:06:18.75,0:06:22.74,Dialogue,,0,0,0,,Oh how nice, a date with your sister.
+Dialogue: 0,0:06:22.74,0:06:26.24,Dialogue,,0,0,0,,I'd like to take a cute brother out and walk with him too.
+Dialogue: 0,0:06:26.24,0:06:27.45,Dialogue,,0,0,0,,Oh really?
+Dialogue: 0,0:06:35.11,0:06:40.88,Dialogue,,0,0,0,,But going out with your brother on a holiday, isn't that kind of sad?
+Dialogue: 0,0:06:41.21,0:06:43.22,Dialogue,,0,0,0,,I wonder if she doesn't have a boyfriend?
+Dialogue: 0,0:06:43.22,0:06:46.61,Dialogue,,0,0,0,,A childish kid like her wouldn't be able to get a guy.
+Dialogue: 0,0:06:46.61,0:06:49.93,Dialogue,,0,0,0,,Maybe you're the only one who thinks so.
+Dialogue: 0,0:06:52.74,0:06:54.68,Dialogue - Italic,,0,0,0,,A guy huh?
+Dialogue: 0,0:07:30.44,0:07:33.51,Dialogue - Italic,,0,0,0,,"Onii-chan"...
+Dialogue: 0,0:07:39.36,0:07:41.66,Dialogue - Italic,,0,0,0,,Now's probably the only time that she'd be attached to her brother like that...
+Dialogue: 0,0:07:45.63,0:07:46.76,Dialogue,,0,0,0,,Oh really?
+Dialogue: 0,0:07:48.19,0:07:53.76,Dialogue,,0,0,0,,Yeah. So my big brother's last name is Saeki, but mine is Kohinata.
+Dialogue: 0,0:07:53.76,0:07:57.13,Dialogue,,0,0,0,,Isn't it weird? That we have different last names even though we're siblings?
+Dialogue: 0,0:07:58.28,0:08:00.58,Dialogue,,0,0,0,,How about you, Miyauchi-kun?
+Dialogue: 0,0:08:00.89,0:08:01.98,Dialogue,,0,0,0,,I have an older sister.
+Dialogue: 0,0:08:03.02,0:08:05.27,Dialogue,,0,0,0,,An older sister? How nice.
+Dialogue: 0,0:08:05.27,0:08:06.84,Dialogue,,0,0,0,,How much older is she?
+Dialogue: 0,0:08:06.84,0:08:07.96,Dialogue,,0,0,0,,Two years older.
+Dialogue: 0,0:08:08.86,0:08:10.26,Dialogue,,0,0,0,,She's in high school?
+Dialogue: 0,0:08:10.26,0:08:12.34,Dialogue,,0,0,0,,It's nice that your ages are so close.
+Dialogue: 0,0:08:13.06,0:08:16.35,Dialogue,,0,0,0,,My brother and I are 12 years apart...
+Dialogue: 0,0:08:24.36,0:08:27.83,Dialogue,,0,0,0,,And my brother always has this grumpy look and...
+Dialogue: 0,0:08:29.74,0:08:30.57,Dialogue,,0,0,0,,Onii-chan!
+Dialogue: 0,0:08:36.18,0:08:37.18,Dialogue,,0,0,0,,This is my brother.
+Dialogue: 0,0:08:37.58,0:08:41.05,Dialogue,,0,0,0,,Hi, I'm Miyauchi of class 4, first year.
+Dialogue: 0,0:08:41.92,0:08:45.01,Dialogue,,0,0,0,,He walked me home because we had to stay late for the Culture Festival preparations.
+Dialogue: 0,0:08:45.58,0:08:47.31,Dialogue,,0,0,0,,I'll get going.
+Dialogue: 0,0:08:47.31,0:08:49.19,Dialogue,,0,0,0,,Okay, thank you.
+Dialogue: 0,0:08:55.79,0:08:58.78,Dialogue,,0,0,0,,It's rude if you don't greet him properly too, Onii-chan...
+Dialogue: 0,0:08:58.78,0:08:59.14,Dialogue,,0,0,0,,Ouch!
+Dialogue: 0,0:08:59.39,0:09:02.66,Dialogue,,0,0,0,,It hurts, Onii-chan! You're hurting me!
+Dialogue: 0,0:09:10.27,0:09:13.83,Dialogue,,0,0,0,,Hey! Onii-chan! What's your problem?
+Dialogue: 0,0:09:13.83,0:09:15.91,Dialogue,,0,0,0,,What do you mean Culture Festival preparations?
+Dialogue: 0,0:09:17.19,0:09:20.24,Dialogue,,0,0,0,,It's ten years too early for you to be going out with a guy!
+Dialogue: 0,0:09:20.24,0:09:23.10,Dialogue,,0,0,0,,Until you reach an age when you can take responsibility for yourself,
+Dialogue: 0,0:09:23.10,0:09:24.61,Dialogue,,0,0,0,,I won't allow it!
+Dialogue: 0,0:09:24.61,0:09:26.26,Dialogue,,0,0,0,,Thsi is a complete misunderstanding!
+Dialogue: 0,0:09:26.26,0:09:28.92,Dialogue,,0,0,0,,Miyauchi-kun just walked me home out of kindness!
+Dialogue: 0,0:09:28.92,0:09:31.93,Dialogue,,0,0,0,,Kindness? Are you an idiot!
+Dialogue: 0,0:09:31.93,0:09:34.54,Dialogue,,0,0,0,,You don't know what kind of ulterior motives he has!
+Dialogue: 0,0:09:34.54,0:09:36.21,Dialogue,,0,0,0,,Use your brain a little more!
+Dialogue: 0,0:09:36.68,0:09:39.67,Dialogue,,0,0,0,,You're the only one that has such a dirty mind!
+Dialogue: 0,0:09:39.67,0:09:42.30,Dialogue,,0,0,0,,Fool! You're not cautious enough!
+Dialogue: 0,0:09:42.30,0:09:43.68,Dialogue,,0,0,0,,That's not true!
+Dialogue: 0,0:09:43.68,0:09:44.49,Dialogue,,0,0,0,,Yes it is!
+Dialogue: 0,0:09:44.49,0:09:47.10,Dialogue,,0,0,0,,Why would you know that kind of thing?
+Dialogue: 0,0:09:45.69,0:09:47.10,Dialogue,,0,0,0,,Because you're cute!
+Dialogue: 0,0:09:57.87,0:10:02.88,Dialogue,,0,0,0,,No... This isnt what I personally think.
+Dialogue: 0,0:10:02.88,0:10:05.88,Dialogue,,0,0,0,,It's what people think objectively.
+Dialogue: 0,0:10:05.88,0:10:10.66,Dialogue,,0,0,0,,As your brother, it's only natural to be worried about you, my younger sister.
+Dialogue: 0,0:10:10.66,0:10:16.26,Dialogue,,0,0,0,,This is more of my dad's opinion than mine. It's what's called a family consensus...
+Dialogue: 0,0:10:17.36,0:10:19.23,Dialogue,,0,0,0,,Hey, what's wrong?
+Dialogue: 0,0:10:19.23,0:10:22.65,Dialogue,,0,0,0,,You'll disturb the neighbors being so noisy in front of the house.
+Dialogue: 0,0:10:23.36,0:10:25.98,Dialogue,,0,0,0,,Hey, Na... Nanoka?
+Dialogue: 0,0:10:31.46,0:10:33.83,Dialogue,,0,0,0,,Wh...wh...wh...what happened?
+Dialogue: 0,0:10:33.18,0:10:34.82,Dialogue,,0,0,0,,Like I know!
+Dialogue: 0,0:10:39.66,0:10:40.95,Dialogue - Italic,,0,0,0,,I was surprised...
+Dialogue: 0,0:10:58.86,0:11:02.36,Dialogue - Italic,,0,0,0,,God... What'ss with him?
+Dialogue: 0,0:11:05.26,0:11:08.50,Dialogue,,0,0,0,,You should try to get along as siblings.
+Dialogue: 0,0:11:08.50,0:11:10.81,Dialogue,,0,0,0,,Shut up! I didn't become a brother because I wanted to!
+Dialogue: 0,0:11:11.84,0:11:13.13,Dialogue,,0,0,0,,Koshiro!
+Dialogue: 0,0:11:42.41,0:11:44.43,Dialogue,,0,0,0,,Nanoka has already left.
+Dialogue: 0,0:11:45.55,0:11:46.64,Dialogue,,0,0,0,,I see.
+Dialogue: 0,0:11:46.98,0:11:47.78,Dialogue,,0,0,0,,Here.
+Dialogue: 0,0:11:56.01,0:11:59.04,Dialogue - Italic,,0,0,0,,I guess it was a bit insinuating...
+Dialogue: 0,0:12:06.21,0:12:07.66,Dialogue - Italic,,0,0,0,,But it's fine.
+Dialogue: 0,0:12:08.54,0:12:12.13,Dialogue - Italic,,0,0,0,,Onii-chan was really mean yesterday.
+Dialogue: 0,0:12:14.25,0:12:16.67,Dialogue - Italic,,0,0,0,,"Cute" ... he said.
+Dialogue: 0,0:12:17.81,0:12:19.07,Dialogue - Italic,,0,0,0,,How weird.
+Dialogue: 0,0:12:28.29,0:12:29.93,Dialogue,,0,0,0,,No way! A molester?
+Dialogue: 0,0:12:30.20,0:12:33.11,Dialogue,,0,0,0,,Oh god, no! No! No! It was so gross!
+Dialogue: 0,0:12:33.11,0:12:37.52,Dialogue,,0,0,0,,Man that sucks! Didn't your brother protect you?
+Dialogue: 0,0:12:39.61,0:12:42.28,Dialogue,,0,0,0,,It's not like I'm always with him!
+Dialogue: 0,0:12:53.33,0:12:56.60,Dialogue - Italic,,0,0,0,,First guilt, now jealousy?
+Dialogue: 0,0:14:21.45,0:14:22.72,Dialogue,,0,0,0,,I'm home.
+Dialogue: 0,0:14:22.72,0:14:23.80,Dialogue,,0,0,0,,Welcome home.
+Dialogue: 0,0:14:25.67,0:14:27.45,Dialogue,,0,0,0,,Dinner is ready.
+Dialogue: 0,0:14:27.45,0:14:28.30,Dialogue,,0,0,0,,Okay.
+Dialogue: 0,0:14:40.57,0:14:42.22,Dialogue,,0,0,0,,Isn't Onii-chan late?
+Dialogue: 0,0:14:43.02,0:14:44.15,Dialogue,,0,0,0,,Really?
+Dialogue: 0,0:14:44.52,0:14:45.96,Dialogue,,0,0,0,,I guess not really.
+Dialogue: 0,0:14:46.36,0:14:47.76,Dialogue,,0,0,0,,He's usually home around now.
+Dialogue: 0,0:14:53.63,0:14:57.10,Dialogue - Italic,,0,0,0,,That's right, I'm angry at him.
+Dialogue: 0,0:14:57.91,0:15:01.38,Dialogue - Italic,,0,0,0,,He always says things so arrogantly.
+Dialogue: 0,0:15:04.35,0:15:06.51,Dialogue - Italic,,0,0,0,,Because you're cute!
+Dialogue: 0,0:15:10.81,0:15:12.57,Dialogue - Italic,,0,0,0,,I was just surprised...
+Dialogue: 0,0:15:13.01,0:15:17.40,Dialogue - Italic,,0,0,0,,I didn't think I'd hear those words from my brother.
+Dialogue: 0,0:15:18.38,0:15:19.85,Dialogue - Italic,,0,0,0,,That's all.
+Dialogue: 0,0:15:50.31,0:15:51.46,Dialogue,,0,0,0,,Good night.
+Dialogue: 0,0:15:54.91,0:15:58.11,Dialogue - Italic,,0,0,0,,Should I make up with him tomorrow?
+Dialogue: 0,0:16:03.13,0:16:06.97,Dialogue,,0,0,0,,What? He left before me?
+Dialogue: 0,0:16:20.70,0:16:22.87,Dialogue,,0,0,0,,Ouch...
+Dialogue: 0,0:16:22.87,0:16:24.23,Dialogue,,0,0,0,,Good morning.
+Dialogue: 0,0:16:34.41,0:16:37.49,Dialogue,,0,0,0,,Why? Stingy! Meanie!
+Dialogue: 0,0:16:37.49,0:16:39.57,Dialogue,,0,0,0,,He could have waited for me a little bit.
+Dialogue: 0,0:16:39.57,0:16:40.70,Dialogue,,0,0,0,,Kohinata-san.
+Dialogue: 0,0:16:42.18,0:16:43.58,Dialogue,,0,0,0,,Miyauchi-kun.
+Dialogue: 0,0:16:43.58,0:16:46.20,Dialogue,,0,0,0,,The tickets for my class are ready.
+Dialogue: 0,0:16:46.65,0:16:48.63,Dialogue,,0,0,0,,Okay, thanks.
+Dialogue: 0,0:16:48.63,0:16:50.12,Dialogue,,0,0,0,,Come with your brother or something.
+Dialogue: 0,0:17:03.39,0:17:06.54,Dialogue,,0,0,0,,I'm never inviting my brother!
+Dialogue: 0,0:17:08.54,0:17:12.21,Dialogue,,0,0,0,,With that project plan the next event will definitely succeed!
+Dialogue: 0,0:17:12.61,0:17:13.61,Dialogue,,0,0,0,,Yeah.
+Dialogue: 0,0:17:15.11,0:17:18.24,Dialogue,,0,0,0,,We have the data you gathered for us, too.
+Dialogue: 0,0:17:18.24,0:17:20.46,Dialogue,,0,0,0,,With that, the chief will agree to it.
+Dialogue: 0,0:17:20.86,0:17:21.85,Dialogue,,0,0,0,,Yeah...
+Dialogue: 0,0:17:22.91,0:17:24.71,Dialogue,,0,0,0,,What a spoilsport!
+Dialogue: 0,0:17:25.31,0:17:26.30,Dialogue,,0,0,0,,Yeah...
+Dialogue: 0,0:18:09.60,0:18:11.72,Dialogue,,0,0,0,,I'll go with you today.
+Dialogue: 0,0:18:14.92,0:18:17.11,Dialogue,,0,0,0,,It's fine, I'll go ahead.
+Dialogue: 0,0:18:17.37,0:18:18.73,Dialogue,,0,0,0,,You know what?
+Dialogue: 0,0:18:18.73,0:18:22.62,Dialogue,,0,0,0,,Don't avoid me forever, just because you're brooding over something stupid.
+Dialogue: 0,0:18:23.58,0:18:26.17,Dialogue,,0,0,0,,Aren't you the one who's avoiding me?
+Dialogue: 0,0:18:26.17,0:18:28.12,Dialogue,,0,0,0,,You were late yesterday, too.
+Dialogue: 0,0:18:29.81,0:18:32.89,Dialogue,,0,0,0,,Not that I really care about that.
+Dialogue: 0,0:18:35.12,0:18:36.27,Dialogue,,0,0,0,,What?
+Dialogue: 0,0:18:36.27,0:18:40.91,Dialogue,,0,0,0,,You're always so bossy, just because you're a bit older than me.
+Dialogue: 0,0:18:40.91,0:18:43.51,Dialogue,,0,0,0,,Saying things like you're pressing me from above.
+Dialogue: 0,0:18:43.95,0:18:47.29,Dialogue,,0,0,0,,I don't like you at all!
+Dialogue: 0,0:18:51.21,0:18:53.31,Dialogue,,0,0,0,,It's fine that you don't like me.
+Dialogue: 0,0:18:56.41,0:18:59.40,Dialogue,,0,0,0,,I think I said too much the other day.
+Dialogue: 0,0:18:59.40,0:19:00.65,Dialogue,,0,0,0,,I'm sorry.
+Dialogue: 0,0:19:01.44,0:19:05.31,Dialogue,,0,0,0,,But, I won't tell you not to go out with guys.
+Dialogue: 0,0:19:05.31,0:19:09.29,Dialogue,,0,0,0,,Just don't come home too late or lie about things.
+Dialogue: 0,0:19:09.89,0:19:11.72,Dialogue,,0,0,0,,I never lied!
+Dialogue: 0,0:19:11.72,0:19:15.09,Dialogue,,0,0,0,,I know. Not that.
+Dialogue: 0,0:19:15.09,0:19:16.89,Dialogue,,0,0,0,,I'm talking about from now on.
+Dialogue: 0,0:19:17.86,0:19:20.32,Dialogue,,0,0,0,,I'm saying don't worry me too much.
+Dialogue: 0,0:19:27.37,0:19:31.02,Dialogue - Italic,,0,0,0,,Does Onii-chan really worry about me that much?
+Dialogue: 0,0:19:34.94,0:19:39.11,Dialogue,,0,0,0,,Damn, we missed the train because of you.
+Dialogue: 0,0:19:39.11,0:19:41.24,Dialogue,,0,0,0,,It's because of your lecture.
+Dialogue: 0,0:19:41.60,0:19:45.40,Dialogue,,0,0,0,,If anything happens to you the responsibility of the guardian is going to be questioned.
+Dialogue: 0,0:19:46.09,0:19:47.62,Dialogue,,0,0,0,,Don't treat me like a kid.
+Dialogue: 0,0:19:47.62,0:19:49.62,Dialogue,,0,0,0,,You are a kid.
+Dialogue: 0,0:19:49.62,0:19:50.87,Dialogue,,0,0,0,,That's not true!
+Dialogue: 0,0:20:08.94,0:20:09.89,Dialogue,,0,0,0,,Excuse me.
+Dialogue: 0,0:20:32.63,0:20:33.70,Dialogue,,0,0,0,,Sorry.
+Dialogue: 0,0:21:06.34,0:21:09.97,Dialogue - Italic,,0,0,0,,The doors are closing. please be careful.
+Dialogue: 0,0:21:21.45,0:21:23.42,Dialogue - Italic,,0,0,0,,I hope you stay a child...
+Dialogue: 0,0:21:24.61,0:21:27.30,Dialogue - Italic,,0,0,0,,Just as you are right now...
 Comment: 0,0:21:27.36,0:23:15.35,Preview,,0,0,0,,
 Comment: 0,0:23:15.21,0:23:17.23,Preview,,0,0,0,,{\pos(360,470)\fs60\bord2\1c&H00000000&\3c&H00ECE3D8&\frx90}{\t(0,620,\frx0)}Chidori goes
 Comment: 0,0:23:14.92,0:23:17.23,Preview,,0,0,0,,{\pos(480,100)\bord1\1c&H00000000&\3c&H00ECE3D8&\fs45}Serial Taige Preview

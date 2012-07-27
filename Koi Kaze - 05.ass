@@ -13,42 +13,310 @@ Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
 Scroll Position: 0
-Active Line: 169
+Active Line: 1
 Script Updated By: drawn-reality gGmbH
-Audio URI: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep05_10bit_Raw_v3_[A7AA04D9]_track2_und.flac
-Video File: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep05_10bit_Raw_v3_[A7AA04D9].mkv
+Video File: Koi_Kaze_-_Ep05_10bit_Raw_v3_[A7AA04D9].mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.78151
-Video Position: 0
-Keyframes File: ..\..\_Koi Kaze\v3_Raws\Scenechange_Keyframes\XVID_Keyframes_Koi_Kaze_-_Ep05_10bit_Raw_v3.pass
-Last Style Storage: Koi Kaze L
+Video Position: 2484
+Last Style Storage: Koi Kaze
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,114,114,32,0
 Style: Dialogue - Italic,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,2,114,114,32,0
 Style: Dialogue - Alt,PTKK,34,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,8,114,114,16,0
-Style: Signs,comfortaa,30,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,comfortaa,30,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
 Style: TL Note,Avenir LT Std,24,&H00F0F0F0,&H00FFFFFF,&H00101010,&H00010108,-1,0,0,0,84,100,0,0,1,2,0,8,114,114,16,0
-Style: Title,Annifont,40,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,-1,0,0,84,100,0,0,1,1,0,2,36,36,30,0
-Style: Preview,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,84,100,0,0,1,2,0,2,6,6,5,0
-Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,57,57,32,0
-Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,32,32,16,0
-Style: OP - Jpk,PTKK,34,&H00E2DBE0,&H00FFFFFF,&H00392E36,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,9,32,32,16,0
-Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,57,57,32,0
-Style: ED - Jpr,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,32,32,16,0
-Style: ED - Jpk,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,3,0,1,2,0,9,32,32,16,0
+Style: Title,Artifikerned,38,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,0,0,0,84,100,0,0,1,0,0,5,36,36,30,0
+Style: Preview,EraserDust,50,&H00000000,&H0000FFFF,&H00FFFFFF,&H0056465B,-1,0,0,0,84,100,0,0,1,2,0,2,6,6,5,0
+Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,1,52,32,24,0
+Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,32,24,0
+Style: OP - Jpk,@Kozuka Gothic Pro B,34,&H00E8E2E6,&H00FFFFFF,&H00483235,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,68,32,68,0
+Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00131826,&H00010108,0,0,0,0,84,100,0,0,1,2,0,1,52,50,32,0
+Style: ED - Jpr,PTKK,34,&H00E4E3FC,&H32FFFFFF,&H0053353E,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,72,24,0
+Style: ED - Jpk,@Kozuka Gothic Pro B,34,&H00E4F7FF,&HC0FFFFFF,&H00453843,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,68,32,68,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:43.61,0:01:48.70,Title,,0,0,0,,{\pos(240,386)\3a&H5F&}{\fad(871,2052)}{\t(3457,5660,\bord10)}Distant Thunder
-Dialogue: 0,0:08:17.10,0:08:19.10,Signs,,0,0,0,,{\frz22\pos(290,110)}candidate member : female member
-Dialogue: 0,0:08:17.10,0:08:19.10,Signs,,0,0,0,,{\frz22\pos(350,160)}age 15 ~  marriable age
-Dialogue: 0,0:08:39.52,0:08:43.52,Signs,,0,0,0,,{\pos(330,270)}I want\Na sister\N\N- Odagiri
-Dialogue: 0,0:15:20.79,0:15:22.42,Signs,,0,0,0,,{\pos(180,430)\fad(400,400)}Brother is suddenly gone
-Dialogue: 0,0:15:22.42,0:15:24.17,Signs,,0,0,0,,{\pos(180,430)\fad(400,400)}father understood it
-Dialogue: 0,0:15:24.17,0:15:27.30,Signs,,0,0,0,,{\pos(180,430)\fad(400,400)}As long as father is here\N I am happy
-Dialogue: 0,0:01:49.35,0:01:52.80,Dialogue,,0,0,0,,Hey Daddy, will there be a panda? A panda?
+Comment: 0,0:01:43.58,0:01:48.92,Title,,0,0,0,<Ag>(#C1B6EF.#933DBD),{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)\frz25\p1\pos(224,313)}m 0 0 l 300 0 300 145 0 145
+Dialogue: 0,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HEEB3C0&\clip(m 78 300 l 308 193 311 200 81 307)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 1,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HECAFBF&\clip(m 80 304 l 310 196 313 204 83 311)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 2,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HEBACBD&\clip(m 81 307 l 311 200 315 207 85 314)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 3,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HEAA9BC&\clip(m 83 311 l 313 204 316 211 86 318)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 4,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE8A6BB&\clip(m 85 314 l 315 207 318 215 88 322)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 5,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE7A2BA&\clip(m 86 318 l 316 211 320 218 90 325)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 6,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE69FB8&\clip(m 88 322 l 318 215 321 222 92 329)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 7,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE49CB7&\clip(m 90 325 l 320 218 323 225 93 333)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 8,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE399B6&\clip(m 92 329 l 321 222 325 229 95 336)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 9,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE195B5&\clip(m 93 333 l 323 225 326 233 97 340)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 10,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HE092B3&\clip(m 95 336 l 325 229 328 236 98 343)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 11,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HDF8FB2&\clip(m 97 340 l 326 233 330 240 100 347)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 12,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HDD8BB1&\clip(m 98 343 l 328 236 332 244 102 351)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 13,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HDC88B0&\clip(m 100 347 l 330 240 333 247 103 354)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 14,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HDB85AE&\clip(m 102 351 l 332 244 335 251 105 358)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 15,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD982AD&\clip(m 103 354 l 333 247 337 254 107 362)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 16,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD87EAC&\clip(m 105 358 l 335 251 338 258 108 365)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 17,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD77BAB&\clip(m 107 362 l 337 254 340 262 110 369)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 18,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD578A9&\clip(m 108 365 l 338 258 342 265 112 372)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 19,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD475A8&\clip(m 110 369 l 340 262 343 269 113 376)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 20,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD371A7&\clip(m 112 372 l 342 265 345 273 115 380)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 21,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD16EA6&\clip(m 113 376 l 343 269 347 276 117 383)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 22,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HD06BA4&\clip(m 115 380 l 345 273 348 280 119 387)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 23,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HCF68A3&\clip(m 117 383 l 347 276 350 283 120 391)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 24,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HCD64A2&\clip(m 119 387 l 348 280 352 287 122 394)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 25,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HCC61A1&\clip(m 120 391 l 350 283 354 291 124 398)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 26,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HCB5E9F&\clip(m 122 394 l 352 287 355 294 125 401)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 27,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC95A9E&\clip(m 124 398 l 354 291 357 298 127 405)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 28,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC8579D&\clip(m 125 401 l 355 294 359 302 129 409)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 29,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC6549C&\clip(m 127 405 l 357 298 360 305 130 412)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 30,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC5519A&\clip(m 129 409 l 359 302 362 309 132 416)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 31,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC44D99&\clip(m 130 412 l 360 305 364 312 134 420)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 32,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC24A98&\clip(m 132 416 l 362 309 365 316 135 423)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 33,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC14797&\clip(m 134 420 l 364 312 367 320 137 427)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 34,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HC04495&\clip(m 135 423 l 365 316 369 323 139 430)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Dialogue: 35,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\1c&HBE4094&\clip(m 137 427 l 367 320 370 327 141 434)\pos(224.00,313.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(-5,649,\1a&H00)\fad(0,550)}Distant Thunder
+Comment: 0,0:01:43.58,0:01:48.92,Title,,0,0,0,,{\pos(224,313)}Distant Thunder
+Dialogue: 0,0:08:01.66,0:08:05.67,Signs,,0,0,0,,{\pos(499,87)\fs24\frz16\fax-0.37\c&H4D5759&\bord3\3c&HCBD1D0&}Marriage
+Dialogue: 0,0:08:01.66,0:08:05.67,Signs,,0,0,0,,{\pos(575,100)\fs24\frz-36\fax0.85\c&H4D5759&\bord3\3c&HB0ADAB&}Consulting
+Dialogue: 0,0:08:14.84,0:08:15.34,Signs,,0,0,0,,{\frz21\fax-0.05\pos(361.877,243)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Comment: 0,0:08:15.34,0:08:16.93,Signs,,0,0,0,,{\frz21\fax-0.05\pos(361.877,243)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.34,0:08:15.39,Signs,,0,0,0,,{\frz21\fax-0.05\pos(361.88,243)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.39,0:08:15.43,Signs,,0,0,0,,{\frz21\fax-0.05\pos(361.65,242.28)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.43,0:08:15.47,Signs,,0,0,0,,{\frz21\fax-0.05\pos(361.25,241.1)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.47,0:08:15.51,Signs,,0,0,0,,{\frz21\fax-0.05\pos(360.63,239.34)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.51,0:08:15.55,Signs,,0,0,0,,{\frz21\fax-0.05\pos(359.86,237.07)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.55,0:08:15.59,Signs,,0,0,0,,{\frz21\fax-0.05\pos(358.86,234.04)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.59,0:08:15.64,Signs,,0,0,0,,{\frz21\fax-0.05\pos(357.62,230.28)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.64,0:08:15.68,Signs,,0,0,0,,{\frz21\fax-0.05\pos(355.99,225.73)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.68,0:08:15.72,Signs,,0,0,0,,{\frz21\fax-0.05\pos(354.13,220.27)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.72,0:08:15.76,Signs,,0,0,0,,{\frz21\fax-0.05\pos(351.91,213.8)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.76,0:08:15.80,Signs,,0,0,0,,{\frz21\fax-0.05\pos(349.3,206.17)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.80,0:08:15.85,Signs,,0,0,0,,{\frz21\fax-0.05\pos(346.27,197.19)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.85,0:08:15.89,Signs,,0,0,0,,{\frz21\fax-0.05\pos(342.75,186.96)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz21\fax-0.05\pos(338.74,175.12)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz21\fax-0.05\pos(334.17,161.66)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz21\fax-0.05\pos(328.96,146.49)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz21\fax-0.05\pos(323.21,129.74)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz21\fax-0.05\pos(317.05,111.54)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz21\fax-0.05\pos(310.46,92.22)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz21\fax-0.05\pos(303.62,72.22)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz21\fax-0.05\pos(296.83,52.22)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz21\fax-0.05\pos(290.1,32.71)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz21\fax-0.05\pos(283.74,14.12)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz21\fax-0.05\pos(277.77,-3.35)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz21\fax-0.05\pos(272.31,-19.36)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz21\fax-0.05\pos(267.3,-34.05)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz21\fax-0.05\pos(262.78,-47.33)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz21\fax-0.05\pos(258.59,-59.45)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz21\fax-0.05\pos(254.87,-70.33)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz21\fax-0.05\pos(251.58,-80.09)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz21\fax-0.05\pos(248.57,-88.86)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz21\fax-0.05\pos(245.89,-96.77)\c&H6A63D0&\xshad2\yshad1\4a&H00&\4c&H8696A3&}Proposal for the "Star Festival Matchmaking Party"
+Dialogue: 0,0:08:14.84,0:08:15.30,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(426.79,491.41)}Targets: Female Members
+Comment: 0,0:08:15.30,0:08:17.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.616,101.428)}Targets: Female Members
+Dialogue: 0,0:08:15.30,0:08:15.34,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(426.79,491.41)}Targets: Female Members
+Dialogue: 0,0:08:15.34,0:08:15.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(426.77,491.21)}Targets: Female Members
+Dialogue: 0,0:08:15.39,0:08:15.43,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(426.53,490.56)}Targets: Female Members
+Dialogue: 0,0:08:15.43,0:08:15.47,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(426.06,489.35)}Targets: Female Members
+Dialogue: 0,0:08:15.47,0:08:15.51,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(425.53,487.63)}Targets: Female Members
+Dialogue: 0,0:08:15.51,0:08:15.55,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(424.7,485.33)}Targets: Female Members
+Dialogue: 0,0:08:15.55,0:08:15.59,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(423.69,482.32)}Targets: Female Members
+Dialogue: 0,0:08:15.59,0:08:15.64,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(422.42,478.52)}Targets: Female Members
+Dialogue: 0,0:08:15.64,0:08:15.68,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(420.83,473.97)}Targets: Female Members
+Dialogue: 0,0:08:15.68,0:08:15.72,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(418.99,468.48)}Targets: Female Members
+Dialogue: 0,0:08:15.72,0:08:15.76,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(416.79,462.02)}Targets: Female Members
+Dialogue: 0,0:08:15.76,0:08:15.80,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(414.14,454.41)}Targets: Female Members
+Dialogue: 0,0:08:15.80,0:08:15.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(411.1,445.45)}Targets: Female Members
+Dialogue: 0,0:08:15.85,0:08:15.89,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(407.6,435.19)}Targets: Female Members
+Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(403.58,423.37)}Targets: Female Members
+Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(398.99,409.89)}Targets: Female Members
+Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(393.8,394.75)}Targets: Female Members
+Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(388.04,377.98)}Targets: Female Members
+Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(381.86,359.8)}Targets: Female Members
+Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(375.27,340.47)}Targets: Female Members
+Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(368.43,320.47)}Targets: Female Members
+Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(361.63,300.47)}Targets: Female Members
+Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(354.91,280.95)}Targets: Female Members
+Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(348.56,262.37)}Targets: Female Members
+Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(342.59,244.9)}Targets: Female Members
+Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(337.13,228.88)}Targets: Female Members
+Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(332.12,214.18)}Targets: Female Members
+Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(327.6,200.91)}Targets: Female Members
+Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(323.41,188.8)}Targets: Female Members
+Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(319.69,177.88)}Targets: Female Members
+Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(316.39,168.13)}Targets: Female Members
+Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(313.39,159.36)}Targets: Female Members
+Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(310.71,151.44)}Targets: Female Members
+Dialogue: 0,0:08:16.68,0:08:16.72,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(308.3,144.39)}Targets: Female Members
+Dialogue: 0,0:08:16.72,0:08:16.76,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(306.17,138.16)}Targets: Female Members
+Dialogue: 0,0:08:16.76,0:08:16.80,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(304.24,132.45)}Targets: Female Members
+Dialogue: 0,0:08:16.80,0:08:16.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(302.49,127.45)}Targets: Female Members
+Dialogue: 0,0:08:16.85,0:08:16.89,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(300.98,123.03)}Targets: Female Members
+Dialogue: 0,0:08:16.89,0:08:16.93,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(299.62,119.15)}Targets: Female Members
+Dialogue: 0,0:08:16.93,0:08:16.97,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(298.47,115.67)}Targets: Female Members
+Dialogue: 0,0:08:16.97,0:08:17.01,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(297.46,112.68)}Targets: Female Members
+Dialogue: 0,0:08:17.01,0:08:17.05,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(296.52,110.13)}Targets: Female Members
+Dialogue: 0,0:08:17.05,0:08:17.10,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(295.82,107.98)}Targets: Female Members
+Dialogue: 0,0:08:17.10,0:08:17.14,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(295.17,106.07)}Targets: Female Members
+Dialogue: 0,0:08:17.14,0:08:17.18,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(294.66,104.57)}Targets: Female Members
+Dialogue: 0,0:08:17.18,0:08:17.22,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(294.25,103.42)}Targets: Female Members
+Dialogue: 0,0:08:17.22,0:08:17.26,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.95,102.5)}Targets: Female Members
+Dialogue: 0,0:08:17.26,0:08:17.30,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.73,101.9)}Targets: Female Members
+Dialogue: 0,0:08:17.30,0:08:17.35,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.66,101.54)}Targets: Female Members
+Dialogue: 0,0:08:17.35,0:08:17.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)}Targets: Female Members
+Comment: 0,0:08:15.30,0:08:17.39,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.522,199.297)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:15.89,0:08:15.93,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(492.48,521.24)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:15.93,0:08:15.97,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(487.9,507.76)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:15.97,0:08:16.01,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(482.71,492.62)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.01,0:08:16.05,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(476.95,475.85)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.05,0:08:16.10,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(470.76,457.67)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.10,0:08:16.14,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(464.18,438.34)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.14,0:08:16.18,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(457.34,418.34)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.18,0:08:16.22,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(450.53,398.34)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.22,0:08:16.26,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(443.82,378.82)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.26,0:08:16.30,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(437.47,360.24)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.30,0:08:16.35,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(431.49,342.77)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.35,0:08:16.39,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(426.03,326.75)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.39,0:08:16.43,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(421.02,312.05)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.43,0:08:16.47,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(416.51,298.78)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.47,0:08:16.51,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(412.32,286.66)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.51,0:08:16.55,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(408.6,275.75)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.55,0:08:16.60,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(405.29,266)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.60,0:08:16.64,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(402.3,257.23)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.64,0:08:16.68,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(399.61,249.31)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.68,0:08:16.72,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(397.2,242.26)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.72,0:08:16.76,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(395.08,236.03)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.76,0:08:16.80,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(393.14,230.32)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.80,0:08:16.85,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(391.4,225.32)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.85,0:08:16.89,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(389.89,220.9)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.89,0:08:16.93,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(388.53,217.02)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.93,0:08:16.97,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(387.38,213.54)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:16.97,0:08:17.01,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(386.37,210.55)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.01,0:08:17.05,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(385.42,208)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.05,0:08:17.10,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(384.73,205.85)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.10,0:08:17.14,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(384.08,203.94)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.14,0:08:17.18,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(383.57,202.44)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.18,0:08:17.22,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(383.16,201.29)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.22,0:08:17.26,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.85,200.37)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.26,0:08:17.30,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.64,199.77)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.30,0:08:17.35,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.57,199.41)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:17.35,0:08:17.39,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:18.97,0:08:19.01,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)}Targets: Female Members
+Dialogue: 0,0:08:18.97,0:08:19.01,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)}Age Fifteen to Marriage Age
+Comment: 0,0:08:19.01,0:08:19.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 332 30 l 322 62 301 95 305 96 311 103 332 104 286 155 269 194 297 182 338 140 341 153 384 144 444 138 498 98 525 83 564 41 590 14 335 1)}Targets: Female Members
+Dialogue: 0,0:08:19.01,0:08:19.10,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 332 30 l 322 62 301 95 305 96 311 103 332 104 286 155 269 194 297 182 338 140 341 153 384 144 444 138 498 98 525 83 564 41 590 14 335 1)}Targets: Female Members
+Dialogue: 0,0:08:19.10,0:08:19.14,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 374 17 l 364 49 343 82 347 83 353 90 374 91 328 142 311 181 339 169 380 127 383 140 426 131 486 125 540 85 567 70 606 28 632 1 377 -12)}Targets: Female Members
+Dialogue: 0,0:08:19.14,0:08:19.18,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 406 12 l 396 44 375 77 379 78 385 85 406 86 360 137 343 176 371 164 412 122 415 135 458 126 518 120 572 80 599 65 638 23 664 -4 409 -17)}Targets: Female Members
+Dialogue: 0,0:08:19.18,0:08:19.22,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 376 21 l 366 53 345 86 349 87 355 94 376 95 330 146 313 185 341 173 382 131 385 144 428 135 488 129 542 89 569 74 608 32 634 5 379 -8)}Targets: Female Members
+Dialogue: 0,0:08:19.22,0:08:19.27,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 333 35 l 323 67 302 100 306 101 312 108 333 109 287 160 270 199 298 187 339 145 342 158 385 149 445 143 499 103 526 88 565 46 591 19 336 6)}Targets: Female Members
+Dialogue: 0,0:08:19.27,0:08:19.31,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 381 23 l 371 55 350 88 354 89 360 96 381 97 335 148 318 187 346 175 387 133 390 146 433 137 493 131 547 91 574 76 613 34 639 7 384 -6)}Targets: Female Members
+Dialogue: 0,0:08:19.31,0:08:19.35,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 413 17 l 403 49 382 82 386 83 392 90 413 91 367 142 350 181 378 169 419 127 422 140 465 131 525 125 579 85 606 70 645 28 671 1 416 -12)}Targets: Female Members
+Dialogue: 0,0:08:19.35,0:08:19.39,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 375 28 l 365 60 344 93 348 94 354 101 375 102 329 153 312 192 340 180 381 138 384 151 427 142 487 136 541 96 568 81 607 39 633 12 378 -1)}Targets: Female Members
+Dialogue: 0,0:08:19.39,0:08:19.43,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 332 43 l 322 75 301 108 305 109 311 116 332 117 286 168 269 207 297 195 338 153 341 166 384 157 444 151 498 111 525 96 564 54 590 27 335 14)}Targets: Female Members
+Dialogue: 0,0:08:19.43,0:08:19.47,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 387 29 l 377 61 356 94 360 95 366 102 387 103 341 154 324 193 352 181 393 139 396 152 439 143 499 137 553 97 580 82 619 40 645 13 390 0)}Targets: Female Members
+Dialogue: 0,0:08:19.47,0:08:19.52,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 439 22 l 429 54 408 87 412 88 418 95 439 96 393 147 376 186 404 174 445 132 448 145 491 136 551 130 605 90 632 75 671 33 697 6 442 -7)}Targets: Female Members
+Dialogue: 0,0:08:19.52,0:08:19.56,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 373 36 l 363 68 342 101 346 102 352 109 373 110 327 161 310 200 338 188 379 146 382 159 425 150 485 144 539 104 566 89 605 47 631 20 376 7)}Targets: Female Members
+Dialogue: 0,0:08:19.56,0:08:19.60,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 328 50 l 318 82 297 115 301 116 307 123 328 124 282 175 265 214 293 202 334 160 337 173 380 164 440 158 494 118 521 103 560 61 586 34 331 21)}Targets: Female Members
+Dialogue: 0,0:08:19.60,0:08:19.64,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 383 37 l 373 69 352 102 356 103 362 110 383 111 337 162 320 201 348 189 389 147 392 160 435 151 495 145 549 105 576 90 615 48 641 21 386 8)}Targets: Female Members
+Dialogue: 0,0:08:19.64,0:08:19.68,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 438 28 l 428 60 407 93 411 94 417 101 438 102 392 153 375 192 403 180 444 138 447 151 490 142 550 136 604 96 631 81 670 39 696 12 441 -1)}Targets: Female Members
+Dialogue: 0,0:08:19.68,0:08:19.72,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 389 39 l 379 71 358 104 362 105 368 112 389 113 343 164 326 203 354 191 395 149 398 162 441 153 501 147 555 107 582 92 621 50 647 23 392 10)}Targets: Female Members
+Dialogue: 0,0:08:19.72,0:08:19.77,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 338 55 l 328 87 307 120 311 121 317 128 338 129 292 180 275 219 303 207 344 165 347 178 390 169 450 163 504 123 531 108 570 66 596 39 341 26)}Targets: Female Members
+Dialogue: 0,0:08:19.77,0:08:19.81,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 389 44 l 379 76 358 109 362 110 368 117 389 118 343 169 326 208 354 196 395 154 398 167 441 158 501 152 555 112 582 97 621 55 647 28 392 15)}Targets: Female Members
+Dialogue: 0,0:08:19.81,0:08:19.85,Signs,,0,0,0,,{\frz22\fax-0.07\blur0.6\c&H1C1C1C&\pos(293.62,101.43)\iclip(m 436 37 l 426 69 405 102 409 103 415 110 436 111 390 162 373 201 401 189 442 147 445 160 488 151 548 145 602 105 629 90 668 48 694 21 439 8)}Targets: Female Members
+Comment: 0,0:08:19.01,0:08:19.85,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)\iclip(m 332 30 l 322 62 301 95 305 96 311 103 332 104 286 155 269 194 297 182 338 140 341 153 384 144 444 138 498 98 525 83 564 41 590 14 335 1)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.01,0:08:19.64,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.64,0:08:19.68,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)\iclip(m 438 28 l 428 60 407 93 411 94 417 101 438 102 392 153 375 192 403 180 444 138 447 151 490 142 550 136 604 96 631 81 670 39 696 12 441 -1)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.68,0:08:19.72,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)\iclip(m 389 39 l 379 71 358 104 362 105 368 112 389 113 343 164 326 203 354 191 395 149 398 162 441 153 501 147 555 107 582 92 621 50 647 23 392 10)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.72,0:08:19.77,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)\iclip(m 338 55 l 328 87 307 120 311 121 317 128 338 129 292 180 275 219 303 207 344 165 347 178 390 169 450 163 504 123 531 108 570 66 596 39 341 26)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.77,0:08:19.81,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)\iclip(m 389 44 l 379 76 358 109 362 110 368 117 389 118 343 169 326 208 354 196 395 154 398 167 441 158 501 152 555 112 582 97 621 55 647 28 392 15)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:19.81,0:08:19.85,Signs,,0,0,0,,{\frz23\fax-0.07\blur0.6\c&H1C1C1C&\pos(382.52,199.3)\iclip(m 436 37 l 426 69 405 102 409 103 415 110 436 111 390 162 373 201 401 189 442 147 445 160 488 151 548 145 602 105 629 90 668 48 694 21 439 8)}Age Fifteen to Marriage Age
+Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(351.891,117.443)}I want to
+Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(342.926,142.355)}have a
+Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(346.66,166.378)}younger
+Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(335.454,189.51)}sister.
+Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-5\c&H292A2E&\pos(316.776,332.755)}Odagiri
+Comment: 0,0:15:20.56,0:15:21.15,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.616,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.56,0:15:20.60,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(360.5,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.60,0:15:20.64,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(349.14,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.64,0:15:20.69,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(335.63,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.69,0:15:20.73,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(322.01,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.73,0:15:20.77,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(308.48,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.77,0:15:20.81,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(294.95,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.81,0:15:20.85,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(281.39,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.85,0:15:20.89,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(267.89,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.89,0:15:20.94,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(254.35,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.94,0:15:20.98,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(240.75,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.98,0:15:21.02,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(227.22,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:21.02,0:15:21.06,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(213.63,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:21.06,0:15:21.10,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(200.1,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:21.10,0:15:21.15,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.62,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:21.15,0:15:22.10,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.62,423)}"I don't need\Na big brother."
+Comment: 0,0:15:22.10,0:15:22.77,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.62,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.10,0:15:22.15,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.62,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.15,0:15:22.19,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(168.46,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.19,0:15:22.23,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(150.12,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.23,0:15:22.27,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(131.79,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.27,0:15:22.31,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(113.37,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.31,0:15:22.35,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(95.1,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.35,0:15:22.40,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(76.66,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.40,0:15:22.44,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(58.39,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(40,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(21.64,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(3.37,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(-15.04,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(-33.35,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(-51.71,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:22.69,0:15:22.73,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(-70.14,423)}"I don't need\Na big brother."
+Dialogue: 1,0:15:20.56,0:15:21.15,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(287,368,332,476)}m 0 0 l 70 0 70 100 0 100
+Comment: 0,0:15:22.44,0:15:22.90,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(205,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.44,0:15:22.48,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(388.52,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.48,0:15:22.52,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(370.52,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.52,0:15:22.56,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(352.05,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.56,0:15:22.60,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(333.61,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.60,0:15:22.65,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(315.16,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.65,0:15:22.69,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(296.69,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.69,0:15:22.73,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(278.36,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.73,0:15:22.77,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(260,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.77,0:15:22.81,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(241.65,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.81,0:15:22.86,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(223.29,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.86,0:15:22.90,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(205,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:22.90,0:15:23.81,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(205,423)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 0,0:15:23.81,0:15:24.48,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\move(205,423,-55.72,423,30,655)\clip(-69,332,332,476)}The father's\Nfree translation.
+Dialogue: 1,0:15:22.44,0:15:22.90,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(287,368,332,476)}m 0 0 l 70 0 70 100 0 100
+Dialogue: 0,0:15:24.02,0:15:24.65,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\move(424.69,423,185,423,28,612)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:24.65,0:15:27.03,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(185,423)}"I'm happy as long\Nas you're here, Dad."
+Comment: 0,0:15:27.03,0:15:27.40,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\t(21,396,\c&HB8C2C3&)\pos(185,423)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.03,0:15:27.07,Signs,,0,0,0,,{\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\be1\fnComicCity-mod\c&H14181B&\t(21,396,\c&HB8C2C3&)\pos(185,423)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.07,0:15:27.11,Signs,,0,0,0,,{\fscx86\t(-98,1,\fscx87)\fscy103\t(-56,43,\fscy104)\be1\fnComicCity-mod\c&H14181B&\t(-21,354,\c&HB8C2C3&)\pos(171.28,426.51)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.11,0:15:27.15,Signs,,0,0,0,,{\fscx90\t(-79,20,\fscx91)\fscy108\t(-9,90,\fscy109)\be1\fnComicCity-mod\c&H14181B&\t(-63,312,\c&HB8C2C3&)\pos(153.01,431.13)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.15,0:15:27.19,Signs,,0,0,0,,{\fscx95\t(-23,76,\fscx96)\fscy113\t(-37,62,\fscy114)\be1\fnComicCity-mod\c&H14181B&\t(-105,270,\c&HB8C2C3&)\pos(131.69,436.59)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.19,0:15:27.23,Signs,,0,0,0,,{\fscx100\t(-4,95,\fscx101)\fscy119\t(-9,90,\fscy120)\be1\fnComicCity-mod\c&H14181B&\t(-146,229,\c&HB8C2C3&)\pos(108.46,442.5)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx105\t(-12,87,\fscx106)\fscy125\t(-15,84,\fscy126)\be1\fnComicCity-mod\c&H14181B&\t(-188,187,\c&HB8C2C3&)\pos(83.73,448.76)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx110\t(-25,75,\fscx111)\fscy131\t(-25,75,\fscy132)\be1\fnComicCity-mod\c&H14181B&\t(-230,145,\c&HB8C2C3&)\pos(58.62,455.22)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx114\t(-87,12,\fscx115)\fscy136\t(-75,24,\fscy137)\be1\fnComicCity-mod\c&H14181B&\t(-271,104,\c&HB8C2C3&)\pos(34.01,461.36)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx121\t(-43,56,\fscx122)\fscy144\t(-56,43,\fscy145)\be1\fnComicCity-mod\c&H14181B&\t(-313,62,\c&HB8C2C3&)\pos(6.9,468.86)}"I'm happy as long\Nas you're here, Dad."
+Dialogue: 1,0:15:24.02,0:15:24.65,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(287,368,332,476)}m 0 0 l 70 0 70 100 0 100
+Dialogue: 0,0:15:25.44,0:15:27.03,Signs,,0,0,0,,{\frz11\fs20\c&H3045AE&\pos(291.375,323.858)}Zenzo
+Comment: 0,0:15:27.03,0:15:27.40,Signs,,0,0,0,,{\frz11\fs20\c&H3045AE&\pos(291.375,323.858)\t(21,396,\c&HB8C2C3&)\blur0.5}Zenzo
+Dialogue: 0,0:15:27.03,0:15:27.07,Signs,,0,0,0,,{\fscx84\t(0,100,\fscx84)\fscy100\t(0,100,\fscy100)\frz11\fs20\c&H3045AE&\pos(291.38,323.86)\t(21,396,\c&HB8C2C3&)\blur0.5}Zenzo
+Dialogue: 0,0:15:27.07,0:15:27.11,Signs,,0,0,0,,{\fscx86\t(-98,1,\fscx87)\fscy103\t(-56,43,\fscy104)\frz11\fs20\c&H3045AE&\pos(281.43,323.84)\t(-21,354,\c&HB8C2C3&)\blur0.52}Zenzo
+Dialogue: 0,0:15:27.11,0:15:27.15,Signs,,0,0,0,,{\fscx90\t(-79,20,\fscx91)\fscy108\t(-9,90,\fscy109)\frz11\fs20\c&H3045AE&\pos(267.99,323.96)\t(-63,312,\c&HB8C2C3&)\blur0.54}Zenzo
+Dialogue: 0,0:15:27.15,0:15:27.19,Signs,,0,0,0,,{\fscx95\t(-23,76,\fscx96)\fscy113\t(-37,62,\fscy114)\frz11\fs20\c&H3045AE&\pos(252.29,324.19)\t(-105,270,\c&HB8C2C3&)\blur0.57}Zenzo
+Dialogue: 0,0:15:27.19,0:15:27.23,Signs,,0,0,0,,{\fscx100\t(-4,95,\fscx101)\fscy119\t(-9,90,\fscy120)\frz11\fs20\c&H3045AE&\pos(235.16,324.41)\t(-146,229,\c&HB8C2C3&)\blur0.6}Zenzo
+Dialogue: 0,0:15:27.23,0:15:27.28,Signs,,0,0,0,,{\fscx105\t(-12,87,\fscx106)\fscy125\t(-15,84,\fscy126)\frz11\fs20\c&H3045AE&\pos(216.86,324.68)\t(-188,187,\c&HB8C2C3&)\blur0.63}Zenzo
+Dialogue: 0,0:15:27.28,0:15:27.32,Signs,,0,0,0,,{\fscx110\t(-25,75,\fscx111)\fscy131\t(-25,75,\fscy132)\frz11\fs20\c&H3045AE&\pos(198.23,325.1)\t(-230,145,\c&HB8C2C3&)\blur0.66}Zenzo
+Dialogue: 0,0:15:27.32,0:15:27.36,Signs,,0,0,0,,{\fscx114\t(-87,12,\fscx115)\fscy136\t(-75,24,\fscy137)\frz11\fs20\c&H3045AE&\pos(179.48,325.78)\t(-271,104,\c&HB8C2C3&)\blur0.68}Zenzo
+Dialogue: 0,0:15:27.36,0:15:27.40,Signs,,0,0,0,,{\fscx121\t(-43,56,\fscx122)\fscy144\t(-56,43,\fscy145)\frz11\fs20\c&H3045AE&\pos(160.69,325.53)\t(-313,62,\c&HB8C2C3&)\blur0.72}Zenzo
+Dialogue: 0,0:16:54.78,0:16:58.24,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(351.891,117.443)}I want to
+Dialogue: 0,0:16:54.78,0:16:58.24,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(342.926,142.355)}have a
+Dialogue: 0,0:16:54.78,0:16:58.24,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(346.66,166.378)}younger
+Dialogue: 0,0:16:54.78,0:16:58.24,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(335.454,189.51)}sister.
+Dialogue: 0,0:16:54.78,0:16:58.24,Signs,,0,0,0,,{\fs26\frz-5\c&H292A2E&\pos(316.776,332.755)}Odagiri
+Dialogue: 0,0:18:29.04,0:18:30.54,Signs,,0,0,0,,{\frz-5\fax0.15\c&H282B26&\pos(322.1,198.738)\blur0.5}Ticket Gate to Manase
+Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\fax-0.1\frz4\c&H968887&\blur1\pos(617.852,62)}Shop
+Dialogue: 0,0:21:10.91,0:21:13.41,Signs,,0,0,0,,{\frz2\fax-0.1\c&H968887&\blur1\pos(629.35,81.295)}Yamazato
+Dialogue: 0,0:01:49.35,0:01:52.80,Dialogue,,0,0,0,,Hey, Daddy, will there be a panda? A panda?
 Dialogue: 0,0:01:52.80,0:01:54.01,Dialogue,,0,0,0,,What? A panda?
 Dialogue: 0,0:01:58.95,0:02:00.70,Dialogue,,0,0,0,,Well, I'm leaving now.
 Dialogue: 0,0:02:43.68,0:02:45.02,Dialogue,,0,0,0,,Unbelievable.

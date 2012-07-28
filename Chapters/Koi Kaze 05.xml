@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>0</EditionFlagDefault>
+    <EditionUID>1577024664</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>3400813462</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Opening - Koi Kaze</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:01:43.437000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>3067591311</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Distant Thunder - Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:01:43.437000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:11:12.046000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>632862605</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Distant Thunder - Part A</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:11:12.046000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:21:44.053000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>724824455</ChapterUID>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterDisplay>
+        <ChapterString>Ending - Futari Dakara</ChapterString>
+        <ChapterLanguage>eng</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterTimeStart>00:21:44.053000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:13.938000000</ChapterTimeEnd>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterDisplay>
+        <ChapterString>Chidori's Judgement</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+      </ChapterDisplay>
+      <ChapterUID>8693684964699064473</ChapterUID>
+      <ChapterTimeStart>00:23:13.938000000</ChapterTimeStart>
+      <ChapterTimeEnd>00:23:28.911000000</ChapterTimeEnd>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>

@@ -12,13 +12,14 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 425
+Active Line: 441
 Script Updated By: drawn-reality gGmbH
-Video File: Koi_Kaze_-_Ep05_10bit_Raw_v3_[A7AA04D9].mkv
+Video File: Koi Kaze - 5.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.78151
-Video Position: 2484
+Video Position: 33460
+Audio URI: Koi Kaze - 5.mkv
 Last Style Storage: Koi Kaze
 
 [V4+ Styles]
@@ -236,8 +237,16 @@ Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(342.
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(346.66,166.378)}younger
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-4\c&H292A2E&\pos(335.454,189.51)}sister.
 Dialogue: 0,0:08:39.49,0:08:43.50,Signs,,0,0,0,,{\fs26\frz-5\c&H292A2E&\pos(316.776,332.755)}Odagiri
-Comment: 0,0:15:20.56,0:15:21.15,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.616,423)}"I don't need\Na big brother."
+Comment: 0,0:15:20.44,0:15:20.60,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(360.5,423)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(381.16,423)\clip(m 286 366 l 331 366 341 406 b 329 425 323 450 318 465 l 286 474)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\pos(377.16,423)\clip(m 290 364 l 336 364 337 401 b 333 420 328 438 323 463 l 290 472)}"I don't need\Na big brother."
+Dialogue: 0,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(m 291 364 l 336 364 346 404 b 336 423 331 441 323 463 l 291 472)\pos(369.76,423)}"I don't need\Na big brother."
 Dialogue: 0,0:15:20.56,0:15:20.60,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(360.5,423)}"I don't need\Na big brother."
+Dialogue: 1,0:15:20.44,0:15:20.48,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(m 286 366 l 331 366 341 406 b 329 425 323 450 318 465 l 286 474)}m 0 0 l 70 0 70 100 0 100
+Dialogue: 1,0:15:20.48,0:15:20.52,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(m 291 364 l 336 364 346 404 b 336 423 331 441 323 463 l 291 472)}m 0 0 l 70 0 70 100 0 100
+Dialogue: 1,0:15:20.52,0:15:20.56,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(m 295 364 l 340 364 350 404 b 340 423 335 441 327 463 l 295 472)}m 0 0 l 70 0 70 100 0 100
+Dialogue: 1,0:15:20.56,0:15:20.60,Signs,,0,0,0,,{\p1\blur5\c&HCBD1CF&\pos(333.304,434)\clip(m 286 366 l 331 366 341 406 b 328 424 321 450 318 465 l 286 474)}m 0 0 l 70 0 70 100 0 100
+Comment: 0,0:15:20.60,0:15:21.15,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(186.616,423)}"I don't need\Na big brother."
 Dialogue: 0,0:15:20.60,0:15:20.64,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(349.14,423)}"I don't need\Na big brother."
 Dialogue: 0,0:15:20.64,0:15:20.69,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(335.63,423)}"I don't need\Na big brother."
 Dialogue: 0,0:15:20.69,0:15:20.73,Signs,,0,0,0,,{\be1\fnComicCity-mod\c&H14181B&\clip(-69,332,332,476)\pos(322.01,423)}"I don't need\Na big brother."
@@ -466,13 +475,25 @@ Dialogue: 0,0:21:19.18,0:21:21.42,Dialogue - Italic,,0,0,0,,I was supposed to be
 Dialogue: 0,0:21:22.35,0:21:25.55,Dialogue - Italic,,0,0,0,,To get rid... of my guilt...
 Dialogue: 0,0:21:37.05,0:21:38.48,Dialogue - Italic,,0,0,0,,Why?
 Comment: 0,0:21:38.70,0:23:17.90,Preview,,0,0,0,,
-Comment: 0,0:23:17.90,0:23:18.95,Dialogue,,0,0,0,,I'll say it however many times as necessary.
-Comment: 0,0:23:19.01,0:23:21.41,Dialogue,,0,0,0,,I innocently really want a teenage younger sister.
-Comment: 0,0:23:21.49,0:23:23.82,Dialogue,,0,0,0,,Is that a crime? Is it wrong?
-Comment: 0,0:23:23.97,0:23:26.41,Dialogue,,0,0,0,,Then as we're fighting over the TV channels, our love will sprout...
-Comment: 0,0:23:26.99,0:23:28.40,Dialogue,,0,0,0,,Whipping punishment!
-Comment: 0,0:23:15.35,0:23:17.23,Preview,,0,0,0,,{\pos(360,470)\fs60\bord2\1c&H00000000&\3c&H00ECE3D8&\frx90}{\t(0,620,\frx0)}Chidori goes
-Comment: 0,0:23:15.06,0:23:17.23,Preview,,0,0,0,,{\pos(480,100)\bord1\1c&H00000000&\3c&H00ECE3D8&\fs45}Serial Taige Preview
+Dialogue: 0,0:23:13.89,0:23:15.50,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview
+Dialogue: 0,0:23:15.50,0:23:15.54,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)\iclip(m 544 88 b 537 71 505 69 490 84 l 486 160 b 483 129 484 92 470 76 458 68 421 78 413 132 l 403 132 b 405 63 345 77 296 68 l 390 62 b 402 47 398 16 388 10 l 635 12 632 144 545 155)}An Epic Series Preview
+Dialogue: 0,0:23:15.54,0:23:16.08,Preview,,0,0,0,,{\bord1.5\pos(482.519,90)}An Epic Series Preview
+Dialogue: 0,0:23:14.33,0:23:15.50,Preview,,0,0,0,,{\pos(360,460)\org(360,452)\fs80\frx50\t(0,653,0.7,\frx0)}Chidori’s Judgement
+Dialogue: 0,0:23:15.50,0:23:15.54,Preview,,0,0,0,,{\pos(360,460)\fs80\clip(m 334 472 l 334 414 b 342 377 404 387 412 416 l 416 471 m 529 474 l 528 378 596 375 601 474)}Chidori’s Judgement
+Dialogue: 0,0:23:15.54,0:23:15.58,Preview,,0,0,0,,{\pos(360,460)\fs80\iclip(m 349 387 l 350 475 626 474 621 381 m 497 405 l 533 401 b 537 419 538 454 536 471 l 501 470)}Chidori’s Judgement
+Dialogue: 0,0:23:15.58,0:23:16.08,Preview,,0,0,0,,{\pos(360,460)\fs80}Chidori’s Judgement
+Dialogue: 1,0:23:25.84,0:23:25.88,Preview,,0,0,0,,{\fs70\bord0\blur0.6\pos(445,95)\clip(353,35,597,57)}Flog Him{27,1069}
+Dialogue: 0,0:23:25.84,0:23:25.88,Preview,,0,0,0,,{\fs70\fsp1\bord0\blur2\c&HFFFFFF&\pos(446.321,91)\clip(353,35,589,57)}Flog Him{27,1069}
+Dialogue: 1,0:23:25.88,0:23:25.92,Preview,,0,0,0,,{\fs70\bord0\blur0.6\pos(445,95)\clip(353,35,626,85)}Flog Him{27,1069}
+Dialogue: 0,0:23:25.88,0:23:25.92,Preview,,0,0,0,,{\fs70\fsp1\bord0\blur2\c&HFFFFFF&\pos(446.321,91)\clip(353,35,626,85)}Flog Him{27,1069}
+Dialogue: 1,0:23:25.92,0:23:27.38,Preview,,0,0,0,,{\fs70\bord0\blur0.6\pos(445,95)}Flog Him{27,1069}
+Dialogue: 0,0:23:25.92,0:23:27.38,Preview,,0,0,0,,{\fs70\fsp1\bord0\blur2\c&HFFFFFF&\pos(446.321,91)}Flog Him{27,1069}
+Dialogue: 0,0:23:17.90,0:23:18.95,Dialogue,,0,0,0,,I'll say it over and over again!
+Dialogue: 0,0:23:18.95,0:23:20.34,Dialogue,,0,0,0,,I innocently want to have a teenage sister.
+Dialogue: 0,0:23:20.34,0:23:21.42,Dialogue,,0,0,0,,Is that a crime?
+Dialogue: 0,0:23:21.42,0:23:22.78,Dialogue,,0,0,0,,Is that something to be ashamed of?
+Dialogue: 0,0:23:22.78,0:23:25.51,Dialogue,,0,0,0,,Then, as we're fighting over TV channels, we'll start to fall in love...
+Dialogue: 0,0:23:25.51,0:23:27.38,Dialogue,,0,0,0,,Sentenced to a flogging!
 Comment: 0,0:21:38.70,0:23:17.90,Preview,,0,0,0,,
 Dialogue: 0,0:00:11.56,0:00:15.61,OP - Eng,,0,0,0,,{\fad(80,80)}my first feelings
 Dialogue: 0,0:00:16.52,0:00:20.57,OP - Eng,,0,0,0,,{\fad(80,80)}upon my downhearted chest

@@ -12,41 +12,339 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 0
-Active Line: 140
+Scroll Position: 39
+Active Line: 47
 Script Updated By: drawn-reality gGmbH
 YCbCr Matrix: TV.601
 Video Zoom Percent: 1
-Last Style Storage: Default
+Audio URI: Koi Kaze - 06.mkv
+Video File: Koi Kaze - 06.mkv
+Video Aspect Ratio: c1.78151
+Video Position: 2569
+Last Style Storage: Koi Kaze
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,114,114,32,0
 Style: Dialogue - Italic,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,2,114,114,32,0
 Style: Dialogue - Alt,PTKK,34,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,8,114,114,16,0
-Style: Signs,comfortaa,30,&H00000000,&H000000FF,&H00000000,&H00000000,0,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
+Style: Signs,comfortaa,30,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,84,100,0,0,1,0,0,5,10,10,10,1
 Style: TL Note,Avenir LT Std,24,&H00F0F0F0,&H00FFFFFF,&H00101010,&H00010108,-1,0,0,0,84,100,0,0,1,2,0,8,114,114,16,0
-Style: Title,Annifont,40,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,-1,0,0,84,100,0,0,1,1,0,2,36,36,30,0
-Style: Preview,teen spirit,20,&H0000FFFF,&H0000FFFF,&H0056465B,&H0056465B,-1,-1,0,0,84,100,0,0,1,2,0,2,6,6,5,0
-Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,57,57,32,0
-Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,32,32,16,0
-Style: OP - Jpk,PTKK,34,&H00E2DBE0,&H00FFFFFF,&H00392E36,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,9,32,32,16,0
-Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,0,0,0,84,100,0,0,1,2,0,2,57,57,32,0
-Style: ED - Jpr,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,32,32,16,0
-Style: ED - Jpk,PTKK,34,&H00E4E3FC,&HC0FFFFFF,&H00373756,&H00010108,0,-1,0,0,84,100,3,0,1,2,0,9,32,32,16,0
+Style: Title,Artifikerned,38,&H00D1D1D2,&H00D1D1D2,&H00B4A1CE,&H00B4A1CE,0,0,0,0,84,100,0,0,1,0,0,5,36,36,30,0
+Style: Preview,EraserDust,50,&H00000000,&H0000FFFF,&H00FFFFFF,&H0056465B,-1,0,0,0,84,100,0,0,1,2,0,2,6,6,5,0
+Style: OP - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00202020,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,1,52,32,24,0
+Style: OP - Jpr,PTKK,34,&H00DBE4DB,&H00FFFFFF,&H00323F2A,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,32,24,0
+Style: OP - Jpk,@Kozuka Gothic Pro B,34,&H00E8E2E6,&H00FFFFFF,&H00483235,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,68,32,68,0
+Style: ED - Eng,WhitneyKK,32,&H00E0E0E0,&H00FFFFFF,&H00131826,&H00010108,0,0,0,0,84,100,0,0,1,2,0,1,52,50,32,0
+Style: ED - Jpr,PTKK,34,&H00E4E3FC,&H32FFFFFF,&H0053353E,&H00010108,0,-1,0,0,84,100,0,0,1,2,0,7,48,72,24,0
+Style: ED - Jpk,@Kozuka Gothic Pro B,34,&H00E4F7FF,&HC0FFFFFF,&H00453843,&H00010108,0,0,0,0,100,84,0,270,1,2,0,7,68,32,68,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:43.53,0:01:48.26,Title,,0,0,0,,{\pos(260,356)\3a&H5F&}{\fad(871,1052)}Autumn Melancholy
-Dialogue: 0,0:05:58.55,0:06:03.63,Signs,,0,0,0,,{\a6}A “get to know” your elders party \N With a guy that's like your brother, with a girl that's like your sister \N Proposal book
-Dialogue: 0,0:01:50.17,0:01:53.37,Signs,,0,0,0,,School Festival
-Dialogue: 0,0:04:20.79,0:04:24.09,Signs,,0,0,0,,Reference Material Room
-Dialogue: 0,0:05:08.17,0:05:12.16,Signs,,0,0,0,,Marriage Consulting
-Dialogue: 0,0:05:58.49,0:06:01.42,Signs,,0,0,0,,Proposal for a Matchmaking Party\NFor people who want to date\Npeople of a different age category.
-Dialogue: 0,0:06:01.42,0:06:03.45,Signs,,0,0,0,,Boyfriends who are like big brothers\Nand girlfriends who are like little sisters.
-Dialogue: 0,0:10:34.76,0:10:36.63,Signs,,0,0,0,,Please knock.\NNanoka
-Dialogue: 0,0:16:54.97,0:16:57.94,Signs,,0,0,0,,Junior class 4\NHaunted House\NCouple Ticket
-Dialogue: 0,0:17:06.49,0:17:08.45,Signs,,0,0,0,,Kurokiya
+Comment: 0,0:01:43.54,0:01:48.71,Title,,0,0,0,<Ag>(#F1F0F0.#C36053),{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)\frz25\p1\pos(192,294)}m 0 0 l 380 0 380 180 0 180
+Dialogue: 1,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HE9EAEF&\clip(m 10 283 l 301 147 304 155 13 290)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 2,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HE6E7EE&\clip(m 12 287 l 302 151 306 158 15 294)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 3,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HE2E3ED&\clip(m 13 290 l 304 155 307 162 17 297)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 4,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HDFE0EC&\clip(m 15 294 l 306 158 309 165 18 301)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 5,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HDCDDEB&\clip(m 17 297 l 307 162 311 169 20 305)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 6,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HD8DAEA&\clip(m 18 301 l 309 165 312 173 22 308)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 7,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HD5D7E9&\clip(m 20 305 l 311 169 314 176 23 312)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 8,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HD1D4E8&\clip(m 22 308 l 312 173 316 180 25 316)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 9,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HCED1E7&\clip(m 23 312 l 314 176 318 184 27 319)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 10,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HCACEE6&\clip(m 25 316 l 316 180 319 187 28 323)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 11,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HC7CAE5&\clip(m 27 319 l 318 184 321 191 30 326)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 12,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HC4C7E4&\clip(m 28 323 l 319 187 323 194 32 330)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 13,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HC0C4E3&\clip(m 30 326 l 321 191 324 198 33 334)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 14,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HBDC1E2&\clip(m 32 330 l 323 194 326 202 35 337)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 15,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HB9BEE1&\clip(m 33 334 l 324 198 328 205 37 341)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 16,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HB6BBE0&\clip(m 35 337 l 326 202 329 209 39 345)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 17,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HB3B8DF&\clip(m 37 341 l 328 205 331 213 40 348)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 18,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HAFB5DE&\clip(m 39 345 l 329 209 333 216 42 352)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 19,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HACB1DD&\clip(m 40 348 l 331 213 334 220 44 355)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 20,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HA8AEDC&\clip(m 42 352 l 333 216 336 223 45 359)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 21,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HA5ABDB&\clip(m 44 355 l 334 220 338 227 47 363)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 22,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&HA2A8DA&\clip(m 45 359 l 336 223 340 231 49 366)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 23,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H9EA5D9&\clip(m 47 363 l 338 227 341 234 50 370)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 24,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H9BA2D8&\clip(m 49 366 l 340 231 343 238 52 374)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 25,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H979FD7&\clip(m 50 370 l 341 234 345 242 54 377)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 26,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H949BD6&\clip(m 52 374 l 343 238 346 245 55 381)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 27,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H9098D5&\clip(m 54 377 l 345 242 348 249 57 384)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 28,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H8D95D4&\clip(m 55 381 l 346 245 350 252 59 388)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 29,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H8A92D3&\clip(m 57 384 l 348 249 351 256 61 392)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 30,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H868FD2&\clip(m 59 388 l 350 252 353 260 62 395)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 31,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H838CD1&\clip(m 61 392 l 351 256 355 263 64 399)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 32,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H7F89D0&\clip(m 62 395 l 353 260 356 267 66 403)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 33,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H7C86CF&\clip(m 64 399 l 355 263 358 271 67 406)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 34,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H7982CE&\clip(m 66 403 l 356 267 360 274 69 410)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 35,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H757FCD&\clip(m 67 406 l 358 271 361 278 71 413)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 36,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H727CCC&\clip(m 69 410 l 360 274 363 281 72 417)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 37,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H6E79CB&\clip(m 71 413 l 361 278 365 285 74 421)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 38,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H6B76CA&\clip(m 72 417 l 363 281 367 289 76 424)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 39,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H6773C9&\clip(m 74 421 l 365 285 368 292 77 428)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 40,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H6470C8&\clip(m 76 424 l 367 289 370 296 79 432)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 41,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H616DC7&\clip(m 77 428 l 368 292 372 300 81 435)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 42,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H5D69C6&\clip(m 79 432 l 370 296 373 303 83 439)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 43,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H5A66C5&\clip(m 81 435 l 372 300 375 307 84 442)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Dialogue: 44,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\1c&H5663C4&\clip(m 83 439 l 373 303 377 310 86 446)\pos(192.00,294.00)}{\t(3444,5320,0.7,\blur10)\1a&HFF&\t(15,649,\1a&H00)\fad(0,550)}Autumn Melancholy
+Comment: 0,0:01:43.54,0:01:48.71,Title,,0,0,0,,{\pos(192,294)}Autumn Melancholy
+Comment: 0,0:01:47.21,0:01:57.01,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.119,319)\fax0.5\c&H000000&\t(22,1774,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.12,0:01:47.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,466.57)\fax0.5\c&H000000&\t(22,1774,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.17,0:01:47.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,466.57)\fax0.5\c&H000000&\t(22,1774,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.21,0:01:47.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,466.57)\fax0.5\c&H000000&\t(22,1774,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.25,0:01:47.29,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,465.87)\fax0.5\c&H000000&\t(-20,1732,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.29,0:01:47.33,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,464.42)\fax0.5\c&H000000&\t(-62,1690,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.33,0:01:47.37,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,462.96)\fax0.5\c&H000000&\t(-104,1648,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.37,0:01:47.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,461.27)\fax0.5\c&H000000&\t(-145,1607,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.42,0:01:47.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,459.76)\fax0.5\c&H000000&\t(-187,1565,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.46,0:01:47.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,458.28)\fax0.5\c&H000000&\t(-229,1523,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.50,0:01:47.54,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,456.67)\fax0.5\c&H000000&\t(-270,1482,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.54,0:01:47.58,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,455.05)\fax0.5\c&H000000&\t(-312,1440,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.58,0:01:47.62,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,453.52)\fax0.5\c&H000000&\t(-354,1398,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.62,0:01:47.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,452.02)\fax0.5\c&H000000&\t(-395,1357,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.67,0:01:47.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,450.3)\fax0.5\c&H000000&\t(-437,1315,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.71,0:01:47.75,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,448.63)\fax0.5\c&H000000&\t(-479,1273,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.75,0:01:47.79,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,447.04)\fax0.5\c&H000000&\t(-521,1231,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.79,0:01:47.83,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,445.36)\fax0.5\c&H000000&\t(-562,1190,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.83,0:01:47.87,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,443.72)\fax0.5\c&H000000&\t(-604,1148,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.87,0:01:47.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,442.13)\fax0.5\c&H000000&\t(-646,1106,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.92,0:01:47.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,440.37)\fax0.5\c&H000000&\t(-687,1065,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:47.96,0:01:48.00,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,438.72)\fax0.5\c&H000000&\t(-729,1023,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.00,0:01:48.04,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,437.12)\fax0.5\c&H000000&\t(-771,981,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.04,0:01:48.08,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,435.44)\fax0.5\c&H000000&\t(-813,939,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.08,0:01:48.12,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,433.78)\fax0.5\c&H000000&\t(-854,898,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.12,0:01:48.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,432.14)\fax0.5\c&H000000&\t(-896,856,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.17,0:01:48.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,430.45)\fax0.5\c&H000000&\t(-938,814,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.21,0:01:48.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,428.75)\fax0.5\c&H000000&\t(-979,773,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.25,0:01:48.29,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,427.11)\fax0.5\c&H000000&\t(-1021,731,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.29,0:01:48.33,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,425.48)\fax0.5\c&H000000&\t(-1063,689,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.33,0:01:48.37,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,423.73)\fax0.5\c&H000000&\t(-1105,647,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.37,0:01:48.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,422.07)\fax0.5\c&H000000&\t(-1146,606,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.42,0:01:48.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,420.37)\fax0.5\c&H000000&\t(-1188,564,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.46,0:01:48.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,418.73)\fax0.5\c&H000000&\t(-1230,522,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.50,0:01:48.54,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,417.04)\fax0.5\c&H000000&\t(-1271,481,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.54,0:01:48.58,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,415.35)\fax0.5\c&H000000&\t(-1313,439,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.58,0:01:48.62,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,413.66)\fax0.5\c&H000000&\t(-1355,397,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.62,0:01:48.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,411.97)\fax0.5\c&H000000&\t(-1396,356,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.67,0:01:48.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,410.33)\fax0.5\c&H000000&\t(-1438,314,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.71,0:01:48.75,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,408.63)\fax0.5\c&H000000&\t(-1480,272,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.75,0:01:48.79,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,406.98)\fax0.5\c&H000000&\t(-1522,230,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.79,0:01:48.83,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,405.22)\fax0.5\c&H000000&\t(-1563,189,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.83,0:01:48.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,403.58)\fax0.5\c&H000000&\t(-1605,147,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.88,0:01:48.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,401.9)\fax0.5\c&H000000&\t(-1647,105,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.92,0:01:48.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,400.21)\fax0.5\c&H000000&\t(-1688,64,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:48.96,0:01:49.00,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,398.46)\fax0.5\c&H000000&\t(-1730,22,\c&H352D31&)}Culture Festival
+Dialogue: 0,0:01:49.00,0:01:49.04,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,396.72)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.04,0:01:49.08,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,395.17)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.08,0:01:49.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,393.41)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.13,0:01:49.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,391.84)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.17,0:01:49.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,390)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.21,0:01:49.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,388.37)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.25,0:01:49.29,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,386.6)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.29,0:01:49.33,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,384.98)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.33,0:01:49.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,383.4)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.38,0:01:49.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,381.63)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.42,0:01:49.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,379.94)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.46,0:01:49.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,378.24)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.50,0:01:49.54,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,376.55)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.54,0:01:49.58,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,374.87)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.58,0:01:49.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,373.2)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.63,0:01:49.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,371.51)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.67,0:01:49.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,369.79)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.71,0:01:49.75,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,368.11)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.75,0:01:49.79,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,366.39)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.79,0:01:49.83,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,364.7)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.83,0:01:49.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,363.09)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.88,0:01:49.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,361.38)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.92,0:01:49.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,359.67)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:49.96,0:01:50.00,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,357.9)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.00,0:01:50.04,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,356.26)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.04,0:01:50.08,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,354.58)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.08,0:01:50.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,352.88)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.13,0:01:50.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,351.26)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.17,0:01:50.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,349.42)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.21,0:01:50.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,347.81)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.25,0:01:50.29,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,346.09)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.29,0:01:50.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,344.37)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.34,0:01:50.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,342.78)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.38,0:01:50.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,341.06)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.42,0:01:50.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,339.33)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.46,0:01:50.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,337.57)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.50,0:01:50.54,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,336.01)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.54,0:01:50.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,334.28)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.59,0:01:50.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,332.53)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.63,0:01:50.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,330.94)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.67,0:01:50.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,329.19)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.71,0:01:50.75,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,327.42)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.75,0:01:50.79,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,325.73)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.79,0:01:50.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,324.12)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.84,0:01:50.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,322.39)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.88,0:01:50.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,320.73)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.92,0:01:50.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,319)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:50.96,0:01:51.00,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,317.23)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.00,0:01:51.04,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,315.59)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.04,0:01:51.09,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,313.95)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.09,0:01:51.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,312.21)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.13,0:01:51.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,310.62)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.17,0:01:51.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,308.89)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.21,0:01:51.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,307.17)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.25,0:01:51.29,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,305.5)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.29,0:01:51.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,303.84)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.34,0:01:51.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,302.16)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.38,0:01:51.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,300.57)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.42,0:01:51.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,298.84)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.46,0:01:51.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,297.12)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.50,0:01:51.54,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,295.46)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.54,0:01:51.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,293.83)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.59,0:01:51.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,292.12)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.63,0:01:51.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,290.45)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.67,0:01:51.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,288.73)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.71,0:01:51.75,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,287.06)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.75,0:01:51.79,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,285.34)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.79,0:01:51.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,283.69)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.84,0:01:51.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,282.05)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.88,0:01:51.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,280.36)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.92,0:01:51.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,278.64)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:51.96,0:01:52.00,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,276.91)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.00,0:01:52.05,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,275.18)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.05,0:01:52.09,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,273.56)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.09,0:01:52.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,271.87)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.13,0:01:52.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,270.18)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.17,0:01:52.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,268.47)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.21,0:01:52.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,266.82)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.25,0:01:52.30,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,265.09)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.30,0:01:52.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,263.43)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.34,0:01:52.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,261.79)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.38,0:01:52.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,260.13)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.42,0:01:52.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,258.41)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.46,0:01:52.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,256.71)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.50,0:01:52.55,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,255.02)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.55,0:01:52.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,253.33)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.59,0:01:52.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,251.68)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.63,0:01:52.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,249.98)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.67,0:01:52.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,248.2)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.71,0:01:52.75,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,246.58)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.75,0:01:52.80,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,244.93)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.80,0:01:52.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,243.25)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.84,0:01:52.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,241.6)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.88,0:01:52.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,239.92)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.92,0:01:52.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,238.2)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:52.96,0:01:53.00,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,236.44)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.00,0:01:53.05,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,234.84)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.05,0:01:53.09,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,233.08)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.09,0:01:53.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,231.41)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.13,0:01:53.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,229.83)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.17,0:01:53.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,228.07)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.21,0:01:53.25,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,226.33)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.25,0:01:53.30,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,224.7)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.30,0:01:53.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,223.03)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.34,0:01:53.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,221.39)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.38,0:01:53.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,219.75)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.42,0:01:53.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,218.04)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.46,0:01:53.50,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,216.33)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.50,0:01:53.55,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,214.76)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.55,0:01:53.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,213.06)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.59,0:01:53.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,211.4)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.63,0:01:53.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,209.83)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.67,0:01:53.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,208.15)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.71,0:01:53.76,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,206.43)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.76,0:01:53.80,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,204.7)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.80,0:01:53.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,203.14)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.84,0:01:53.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,201.39)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.88,0:01:53.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,199.78)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.92,0:01:53.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,198.1)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:53.96,0:01:54.01,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,196.35)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.01,0:01:54.05,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,194.76)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.05,0:01:54.09,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,193.08)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.09,0:01:54.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,191.38)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.13,0:01:54.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,189.75)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.17,0:01:54.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,188.05)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.21,0:01:54.26,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,186.42)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.26,0:01:54.30,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,184.74)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.30,0:01:54.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,183.15)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.34,0:01:54.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,181.53)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.38,0:01:54.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,179.84)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.42,0:01:54.46,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,178.13)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.46,0:01:54.51,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,176.42)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.51,0:01:54.55,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,174.85)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.55,0:01:54.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,173.21)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.59,0:01:54.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,171.57)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.63,0:01:54.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,169.93)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.67,0:01:54.71,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,168.26)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.71,0:01:54.76,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,166.61)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.76,0:01:54.80,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,164.94)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.80,0:01:54.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,163.32)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.84,0:01:54.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,161.71)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.88,0:01:54.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,160.01)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.92,0:01:54.96,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,158.32)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:54.96,0:01:55.01,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,156.7)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.01,0:01:55.05,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,155.02)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.05,0:01:55.09,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,153.36)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.09,0:01:55.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,151.76)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.13,0:01:55.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,150.08)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.17,0:01:55.21,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,148.35)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.21,0:01:55.26,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,146.75)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.26,0:01:55.30,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,145.09)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.30,0:01:55.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,143.42)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.34,0:01:55.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,141.77)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.38,0:01:55.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,140.13)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.42,0:01:55.47,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,138.49)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.47,0:01:55.51,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,136.8)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.51,0:01:55.55,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,135.22)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.55,0:01:55.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,133.51)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.59,0:01:55.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,131.88)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.63,0:01:55.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,130.3)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.67,0:01:55.72,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,128.54)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.72,0:01:55.76,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,126.9)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.76,0:01:55.80,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,125.24)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.80,0:01:55.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,123.62)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.84,0:01:55.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,122.03)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.88,0:01:55.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,120.35)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.92,0:01:55.97,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,118.67)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:55.97,0:01:56.01,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,117.01)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.01,0:01:56.05,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,115.41)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.05,0:01:56.09,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,113.79)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.09,0:01:56.13,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,112.11)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.13,0:01:56.17,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,110.54)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.17,0:01:56.22,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,108.84)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.22,0:01:56.26,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,107.2)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.26,0:01:56.30,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,105.49)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.30,0:01:56.34,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,103.95)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.34,0:01:56.38,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,102.34)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.38,0:01:56.42,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,100.65)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.42,0:01:56.47,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,98.99)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.47,0:01:56.51,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,97.25)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.51,0:01:56.55,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,95.73)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.55,0:01:56.59,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,94.07)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.59,0:01:56.63,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,92.38)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.63,0:01:56.67,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,90.77)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.67,0:01:56.72,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,89.16)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.72,0:01:56.76,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,87.52)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.76,0:01:56.80,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,85.9)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.80,0:01:56.84,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,84.34)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.84,0:01:56.88,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,82.71)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.88,0:01:56.92,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,81.1)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.92,0:01:56.97,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,79.3)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:01:56.97,0:01:57.01,Signs,,0,0,0,,{\fnWhitney KK\frz325.3\pos(437.12,77.78)\fax0.5\c&H352D31&}Culture Festival
+Dialogue: 0,0:04:20.90,0:04:24.91,Signs,,0,0,0,,{\pos(450,199)\fnBookman Old Style\fs20\frz0.5\c&H89847C&\blur0.6}Reference Material Room
+Dialogue: 0,0:04:24.91,0:04:31.41,Signs,,0,0,0,,{\fnBookman Old Style\fs3\frz4\c&H948F89&\blur0.6\pos(279.924,63)}Reference Material Room{great job 100% legible}
+Dialogue: 0,0:05:08.24,0:05:12.25,Signs,,0,0,0,,{\pos(499,87)\fs24\frz16\fax-0.35\c&H4D5759&\bord3\3c&HCBD1D0&}Marriage
+Dialogue: 0,0:05:08.24,0:05:12.25,Signs,,0,0,0,,{\pos(575,100)\fs24\frz-36\fax0.8\c&H4D5759&\bord3\3c&HB0ADAB&}Consulting
+Comment: 0,0:05:58.08,0:05:58.58,Signs,,0,0,0,,Proposal for a Matchmaking Party\NFor people who want to date people of a different age category.
+Comment: 0,0:05:58.08,0:05:58.58,Signs,,0,0,0,,Boyfriends who are like big brothers\Nand girlfriends who are like little sisters.
+Comment: 0,0:05:58.08,0:05:58.58,Signs,,0,0,0,,A “get to know” your elders party \N With a guy that's like your brother, with a girl that's like your sister \N Proposal book
+Comment: 0,0:05:58.08,0:05:58.21,Signs,,0,0,0,,{\shad1.5\c&HC85F54&\fnWhitneyKK\fs13\frz-1\4c&HA394A6&\blur1.2\pos(184.094,51)\iclip(m 237 11 l 226 37 226 89 b 228 68 230 55 231 44 l 233 39 234 70 242 107 240 46 b 242 65 246 102 258 119 257 107 253 85 253 73 255 85 262 105 268 116 268 154 265 163 233 192 236 197 241 207 242 212 247 216 257 222 261 225 263 233 260 238 256 244 257 247 261 255 266 259 l 270 258 272 263 b 271 266 268 276 268 280 l 282 296 b 274 299 248 357 239 378 l 242 423 231 475 671 472 631 1)}Matchmaking Party Proposal{I'll set this um later}
+Comment: 0,0:05:58.08,0:05:58.21,Signs,,0,0,0,,{\shad1.5\c&HC85F54&\fnWhitneyKK\fs13\frz-3\4c&HA394A6&\blur1.2\pos(184.935,103)\iclip(m 237 11 l 226 37 226 89 b 228 68 230 55 231 44 l 233 39 234 70 242 107 240 46 b 242 65 246 102 258 119 257 107 253 85 253 73 255 85 262 105 268 116 268 154 265 163 233 192 236 197 241 207 242 212 247 216 257 222 261 225 263 233 260 238 256 244 257 247 261 255 266 259 l 270 258 272 263 b 271 266 268 276 268 280 l 282 296 b 274 299 248 357 239 378 l 242 423 231 475 671 472 631 1)}For People Interested in Dating Outside of Their Age Category{argh argh argh why is this not centered}
+Comment: 0,0:05:58.08,0:05:58.21,Signs,,0,0,0,,{\fnWhitneyKK\fs10\frz-2.5\c&H37AF56&\blur1.2\3c&HDADBDC&\pos(174.848,149)\iclip(m 237 11 l 226 37 226 89 b 228 68 230 55 231 44 l 233 39 234 70 242 107 240 46 b 242 65 246 102 258 119 257 107 253 85 253 73 255 85 262 105 268 116 268 154 265 163 233 192 236 197 241 207 242 212 247 216 257 222 261 225 263 233 260 238 256 244 257 247 261 255 266 259 l 270 258 272 263 b 271 266 268 276 268 280 l 282 296 b 274 299 248 357 239 378 l 242 423 231 475 671 472 631 1)}"Boyfriends who are like big brothers,
+Comment: 0,0:05:58.08,0:05:58.21,Signs,,0,0,0,,{\fnWhitneyKK\fs10\frz-2.5\c&H37AF56&\blur1.2\3c&HDADBDC&\pos(175.688,174)\iclip(m 237 11 l 226 37 226 89 b 228 68 230 55 231 44 l 233 39 234 70 242 107 240 46 b 242 65 246 102 258 119 257 107 253 85 253 73 255 85 262 105 268 116 268 154 265 163 233 192 236 197 241 207 242 212 247 216 257 222 261 225 263 233 260 238 256 244 257 247 261 255 266 259 l 270 258 272 263 b 271 266 268 276 268 280 l 282 296 b 274 299 248 357 239 378 l 242 423 231 475 671 472 631 1)}and girlfriends who are like little sisters".
+Dialogue: 0,0:05:58.58,0:06:03.59,Signs,,0,0,0,,{\shad1.5\c&HC85F54&\fnWhitneyKK\fs25\frz-1\4c&HA394A6&\move(329.52,185,329.23,144.33,28,4992)\blur0.6}Matchmaking Party Proposal
+Dialogue: 0,0:05:58.58,0:06:03.59,Signs,,0,0,0,,{\shad1.5\c&HC85F54&\fnWhitneyKK\move(355,255,354.71,214.33,28,4992)\fs25\frz-1\4c&HA394A6&\blur0.6}For People Interested in Dating Outside of Their Age Category{argh argh argh why is this not centered}
+Dialogue: 0,0:05:58.58,0:06:03.59,Signs,,0,0,0,,{\fnWhitneyKK\fs20\c&H37AF56&\blur0.6\move(334.56,320,334.27,279.33,28,4992)\bord0.2\3c&HDADBDC&}"Boyfriends who are like big brothers,
+Dialogue: 0,0:05:58.58,0:06:03.59,Signs,,0,0,0,,{\fnWhitneyKK\fs20\c&H37AF56&\blur0.6\move(332.04,355,331.75,314.33,28,4992)\bord0.2\3c&HDADBDC&}and girlfriends who are like little sisters".
+Dialogue: 0,0:10:34.82,0:10:36.69,Signs,,0,0,0,,{\fs35\blur0.7\frz-4\c&H5C524D&\fnKozuka Gothic Pro B\pos(357.676,205)}Please    knock
+Dialogue: 0,0:10:34.82,0:10:36.69,Signs,,0,0,0,,{\fs21\c&HA3A4A8&\fnKozuka Gothic Pro B\frz1\blur0.5\pos(357.681,349)}Nanoka
+Dialogue: 0,0:16:55.03,0:16:58.03,Signs,,0,0,0,,{\frz16.5\fax0.1\blur0.7\fscx60\c&H394351&\pos(335.849,201)}Year 1 - Class 4 Haunted House{really need a weight change and probably a handwriting font here. I'm getting srsly lazy about fonts.}
+Dialogue: 0,0:16:55.03,0:16:58.03,Signs,,0,0,0,,{\frz16.5\fs40\fax0.1\pos(350.962,270)\c&H2D3A46&\blur0.7}Couple Ticket
+Dialogue: 0,0:17:06.54,0:17:08.54,Signs,,0,0,0,,{\frz338\1a&H30&\3a&HA0&\fs40\fax0.15\bord3\c&H5D7AA7&\3c&HFFFFFF&\pos(314.03,65)}Kurokiya{this should really be a different font but idk}
 Dialogue: 0,0:01:52.17,0:01:54.31,Dialogue - Italic,,0,0,0,,We still have some eggs left,
 Dialogue: 0,0:01:54.31,0:01:56.40,Dialogue - Italic,,0,0,0,,so all we need is crab meat and {\i0}mitsuba{\i1}.{https://en.wikipedia.org/wiki/Cryptotaenia}
 Comment: 0,0:01:54.47,0:01:56.12,tlnote,,0,0,0,,{\a6}mitsuba = white chervil (cryptotaenia japonica), japanese parsley

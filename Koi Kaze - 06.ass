@@ -556,10 +556,10 @@ Dialogue: 0,0:23:24.92,0:23:26.63,Dialogue,,0,0,0,,Go to hell!
 Comment: 0,0:21:27.36,0:23:15.35,Preview,,0,0,0,,
 Dialogue: 0,0:00:11.42,0:00:15.61,OP - Eng,,0,0,0,,{\fad(80,80)}I feel this way for the first time.
 Dialogue: 0,0:00:16.38,0:00:20.57,OP - Eng,,0,0,0,,{\fad(80,80)}A ray of sunshine
-Dialogue: 0,0:00:20.51,0:00:29.67,OP - Eng,,0,0,0,,{\fad(80,80)}was suddenly cast into my saddened heart.
+Dialogue: 1,0:00:20.51,0:00:29.67,OP - Eng,,0,0,0,,{\fad(80,80)}was suddenly cast into my saddened heart.
 Dialogue: 0,0:00:31.38,0:00:35.61,OP - Eng,,0,0,0,,{\fad(80,80)}Walking alone,
 Dialogue: 0,0:00:36.31,0:00:40.61,OP - Eng,,0,0,0,,{\fad(80,80)}I looked up at the sky,
-Dialogue: 0,0:00:40.47,0:00:44.65,OP - Eng,,0,0,0,,{\fad(80,80)}and saw spring was near.
+Dialogue: 1,0:00:40.47,0:00:44.65,OP - Eng,,0,0,0,,{\fad(80,80)}and saw spring was near.
 Dialogue: 0,0:00:44.54,0:00:48.68,OP - Eng,,0,0,0,,{\fad(80,80)}It showed me
 Dialogue: 0,0:00:48.93,0:00:53.82,OP - Eng,,0,0,0,,{\fad(80,80)}these trembling feelings are
 Dialogue: 0,0:00:53.91,0:00:58.97,OP - Eng,,0,0,0,,{\fad(80,80)}like whirling petals.
@@ -568,13 +568,13 @@ Dialogue: 0,0:01:04.67,0:01:08.68,OP - Eng,,0,0,0,,{\fad(80,80)}Or...
 Dialogue: 0,0:01:08.86,0:01:13.71,OP - Eng,,0,0,0,,{\fad(80,80)}My hesitating heart
 Dialogue: 0,0:01:13.92,0:01:19.10,OP - Eng,,0,0,0,,{\fad(80,80)}puts on the brakes.
 Dialogue: 0,0:01:19.52,0:01:22.49,OP - Eng,,0,0,0,,{\fad(80,80)}It’s so painful,
-Dialogue: 0,0:01:22.39,0:01:33.72,OP - Eng,,0,0,0,,{\fad(80,80)}I can’t breathe.
+Dialogue: 1,0:01:22.39,0:01:33.72,OP - Eng,,0,0,0,,{\fad(80,80)}I can’t breathe.
 Dialogue: 0,0:00:11.42,0:00:15.61,OP - Jpr,,0,0,0,,{\fad(80,80)}hajimete no kimochi
 Dialogue: 0,0:00:16.38,0:00:20.57,OP - Jpr,,0,0,0,,{\fad(80,80)}shonbori no mune ni
-Dialogue: 0,0:00:20.51,0:00:29.67,OP - Jpr,,0,0,0,,{\fad(80,80)}potto nagerareta hidamarine
+Dialogue: 1,0:00:20.51,0:00:29.67,OP - Jpr,,0,0,0,,{\fad(80,80)}potto nagerareta hidamarine
 Dialogue: 0,0:00:31.38,0:00:35.61,OP - Jpr,,0,0,0,,{\fad(80,80)}hitori aruiteta
 Dialogue: 0,0:00:36.31,0:00:40.61,OP - Jpr,,0,0,0,,{\fad(80,80)}sora miageta toki
-Dialogue: 0,0:00:40.47,0:00:44.65,OP - Jpr,,0,0,0,,{\fad(80,80)}haru ga soko ni kiteta
+Dialogue: 1,0:00:40.47,0:00:44.65,OP - Jpr,,0,0,0,,{\fad(80,80)}haru ga soko ni kiteta
 Dialogue: 0,0:00:44.54,0:00:48.68,OP - Jpr,,0,0,0,,{\fad(80,80)}misetekureta
 Dialogue: 0,0:00:48.93,0:00:53.82,OP - Jpr,,0,0,0,,{\fad(80,80)}kogareru omoiwa
 Dialogue: 0,0:00:53.91,0:00:58.97,OP - Jpr,,0,0,0,,{\fad(80,80)}maichiru hanabirane
@@ -583,13 +583,13 @@ Dialogue: 0,0:01:04.67,0:01:08.68,OP - Jpr,,0,0,0,,{\fad(80,80)}soretomo
 Dialogue: 0,0:01:08.86,0:01:13.71,OP - Jpr,,0,0,0,,{\fad(80,80)}tamerau kokoro ga
 Dialogue: 0,0:01:13.92,0:01:19.10,OP - Jpr,,0,0,0,,{\fad(80,80)}bureiki kakerukedo
 Dialogue: 0,0:01:19.52,0:01:22.49,OP - Jpr,,0,0,0,,{\fad(80,80)}kurushikute
-Dialogue: 0,0:01:22.39,0:01:33.72,OP - Jpr,,0,0,0,,{\fad(80,80)}ikiga tomarisou desu
+Dialogue: 1,0:01:22.39,0:01:33.72,OP - Jpr,,0,0,0,,{\fad(80,80)}ikiga tomarisou desu
 Dialogue: 0,0:00:11.42,0:00:15.61,OP - Jpk,,0,0,0,,{\fad(80,80)}はじめての気持ち
 Dialogue: 0,0:00:16.38,0:00:20.57,OP - Jpk,,0,0,0,,{\fad(80,80)}しょんぼりの胸に
-Dialogue: 0,0:00:20.51,0:00:29.67,OP - Jpk,,0,0,0,,{\fad(80,80)}ぽっと投げられた陽だまりね
+Dialogue: 1,0:00:20.51,0:00:29.67,OP - Jpk,,0,0,0,,{\fad(80,80)}ぽっと投げられた陽だまりね
 Dialogue: 0,0:00:31.38,0:00:35.61,OP - Jpk,,0,0,0,,{\fad(80,80)}ひとり歩いてた
 Dialogue: 0,0:00:36.31,0:00:40.61,OP - Jpk,,0,0,0,,{\fad(80,80)}空みあげた時
-Dialogue: 0,0:00:40.47,0:00:44.65,OP - Jpk,,0,0,0,,{\fad(80,80)}春がそこに来てた
+Dialogue: 1,0:00:40.47,0:00:44.65,OP - Jpk,,0,0,0,,{\fad(80,80)}春がそこに来てた
 Dialogue: 0,0:00:44.54,0:00:48.68,OP - Jpk,,0,0,0,,{\fad(80,80)}見せてくれた
 Dialogue: 0,0:00:48.93,0:00:53.82,OP - Jpk,,0,0,0,,{\fad(80,80)}焦がれる想いは
 Dialogue: 0,0:00:53.91,0:00:58.97,OP - Jpk,,0,0,0,,{\fad(80,80)}舞い散る花びらね
@@ -598,7 +598,7 @@ Dialogue: 0,0:01:04.67,0:01:08.68,OP - Jpk,,0,0,0,,{\fad(80,80)}それとも
 Dialogue: 0,0:01:08.86,0:01:13.71,OP - Jpk,,0,0,0,,{\fad(80,80)}ためらう心が
 Dialogue: 0,0:01:13.92,0:01:19.10,OP - Jpk,,0,0,0,,{\fad(80,80)}ブレーキかけるけど
 Dialogue: 0,0:01:19.52,0:01:22.49,OP - Jpk,,0,0,0,,{\fad(80,80)}苦しくて
-Dialogue: 0,0:01:22.39,0:01:33.72,OP - Jpk,,0,0,0,,{\fad(80,80)}息が止まりそうです
+Dialogue: 1,0:01:22.39,0:01:33.72,OP - Jpk,,0,0,0,,{\fad(80,80)}息が止まりそうです
 Dialogue: 0,0:21:52.61,0:21:56.55,ED - Eng,,0,0,0,,{\fad(80,80)}A gentle dream
 Dialogue: 0,0:21:57.76,0:22:02.58,ED - Eng,,0,0,0,,{\fad(80,80)}calls the spring in my heart
 Dialogue: 0,0:22:03.67,0:22:08.48,ED - Eng,,0,0,0,,{\fad(80,80)}and becomes a gentle breeze

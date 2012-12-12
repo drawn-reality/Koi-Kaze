@@ -12,14 +12,14 @@ ScaledBorderAndShadow: yes
 Timer: 100.0000
 Original Script: anime.fin
 Original Translation: minidora07 (TLC - SkyPilot)
-Scroll Position: 0
-Active Line: 194
+Scroll Position: 15
+Active Line: 20
 Script Updated By: drawn-reality gGmbH
 Audio URI: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep08_10bit_Raw_v3_[94EA2216]_track2_jpn.flac
 Video File: ..\..\_Koi Kaze\v3_Raws\Koi_Kaze_-_Ep08_10bit_Raw_v3_[94EA2216].mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.78151
-Video Position: 30671
+Video Position: 8345
 Last Style Storage: Default
 
 [V4+ Styles]
@@ -45,7 +45,7 @@ Dialogue: 0,0:01:52.55,0:01:59.01,Dialogue,,0,0,0,,The conference members are ba
 Dialogue: 0,0:01:59.01,0:02:03.55,Dialogue,,0,0,0,,There really aren't any suspicious people, so to say...
 Dialogue: 0,0:02:03.55,0:02:05.98,Dialogue,,0,0,0,,or any people with problems.
 Dialogue: 0,0:02:05.98,0:02:09.52,Dialogue,,0,0,0,,If there are any conflicts between two members,
-Dialogue: 0,0:02:09.25,0:02:11.30,Dialogue,,0,0,0,,we'll take responsibility...
+Dialogue: 0,0:02:09.52,0:02:11.30,Dialogue,,0,0,0,,we'll take responsibility...
 Dialogue: 0,0:02:11.30,0:02:14.04,Dialogue - Italic,,0,0,0,,It was a job I just chose to do,
 Dialogue: 0,0:02:14.85,0:02:20.30,Dialogue - Italic,,0,0,0,,because employment opportunities were limited for a third-class university graduate.
 Dialogue: 0,0:02:20.30,0:02:21.53,Dialogue - Italic,,0,0,0,,Or so I thought.
